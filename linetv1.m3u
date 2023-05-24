@@ -2,10 +2,6 @@
 #EXTINF:-1 ,MUY PRONTO NUEVA APP
 https://main.cinedecalidad.xyz:443/eluplayer/PZ4pquDXUa/1.ts
 
-#EXTM3U
-#EXTINF:-1 ,DESCARGA CC PLAYER M3U
-https://dl.dropboxusercontent.com/s/q3o0n35i0sxailk/Untitled%20CC.mp4
-
 #EXTINF:-1,24/ : El Santo
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/126.ts
