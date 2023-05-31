@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,MUY PRONTO NUEVA APP
-https://main.cinedecalidad.xyz:443/eluplayer/PZ4pquDXUa/1.ts
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/90v93GyG/13C.jpg",13 C
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/148
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://i.postimg.cc/CLC8gL1k/24-HORAS.jpg",24 horas
@@ -91,8 +89,6 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/9
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4259
 #EXTINF:-1 group-title="CHILE",Canal 13 HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/214
-#EXTINF:-1 group-title="CHILE",Canal 13 i
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4239
 #EXTINF:-1 group-title="CHILE",Canal 24 Horas HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/215
 #EXTINF:-1 group-title="COLOMBIA",Canal Caracol
