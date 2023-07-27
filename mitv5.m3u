@@ -1,58 +1,10 @@
 #EXTM3U
 #EXTINF:-1 ,DESCARGA VOX PLAYER M3U DESDE PLAYSTORE
 https://dl.dropboxusercontent.com/s/vbbf23iud82xqks/voxplayerm3u.mp4
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/skXiSaf.png",101 Tele Antequera (1080p)
-http://elmonkey.us:25461/Victor/Victor/91871
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/mBYxWOg.png",12 TV Parma (540p) [Not 24/7]
-http://elmonkey.us:25461/Victor/Victor/103284
-#EXTINF:-1 group-title="Chile" tvg-logo="https://4.bp.blogspot.com/-V6aDzu13DkE/VeT2yGjAcJI/AAAAAAAAIkE/KCKLjxl2ZR8/s1600/13i.png",13I
-http://elmonkey.us:25461/Victor/Victor/221
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/4Ww7CsR.png",1HD Music Television (404p) [Not 24/7]
-http://elmonkey.us:25461/Victor/Victor/91866
-#EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png",24 Канал (1080p)
-http://elmonkey.us:25461/Victor/Victor/103470
-#EXTINF:-1 group-title="NEGOCIOS (BUSINESS)" tvg-logo="https://i.imgur.com/CKCtZo7.png",30A Investment Pitch (720p)
-http://elmonkey.us:25461/Victor/Victor/91824
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music (720p)
-http://elmonkey.us:25461/Victor/Victor/91869
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/512px-4Music_logo_2018.svg.png",4Music [Geo-blocked]
-http://elmonkey.us:25461/Victor/Victor/91867
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://www.51news.it/images/loghi/logo_tv_radio_51news.png",51 Radio TV (480p) [Geo-blocked]
-http://elmonkey.us:25461/Victor/Victor/103286
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/i3YwORV.png",88 Stereo (720p) [Not 24/7]
-http://elmonkey.us:25461/Victor/Victor/91870
-#EXTINF:-1  tvg-logo="https://i.imgur.com/SzaGz3D.jpg",92 News UK
-http://elmonkey.us:25461/Victor/Victor/4904
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/F17QtN2.png",9XM (480p)
-http://elmonkey.us:25461/Victor/Victor/91868
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png",A&E
 http://elmonkey.us:25461/Victor/Victor/6
 #EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://imgur.com/nKAUCLF.jpg",ABC 7 Los Angeles CA (KABC-TV) (720p)
 http://elmonkey.us:25461/Victor/Victor/103473
-#EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News Live 1 (720p)
-http://elmonkey.us:25461/Victor/Victor/103475
-#EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News Live 10 (720p)
-http://elmonkey.us:25461/Victor/Victor/103484
-#EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News Live 2 (720p)
-http://elmonkey.us:25461/Victor/Victor/103476
-#EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News Live 3 (720p)
-http://elmonkey.us:25461/Victor/Victor/103477
-#EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News Live 4 (720p)
-http://elmonkey.us:25461/Victor/Victor/103478
-#EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News Live 5 (720p)
-http://elmonkey.us:25461/Victor/Victor/103479
-#EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News Live 6 (720p)
-http://elmonkey.us:25461/Victor/Victor/103480
-#EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News Live 7 (720p)
-http://elmonkey.us:25461/Victor/Victor/103481
-#EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News Live 8 (720p)
-http://elmonkey.us:25461/Victor/Victor/103482
-#EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png",ABC News Live 9 (720p)
-http://elmonkey.us:25461/Victor/Victor/103483
-#EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png",ABP News (720p)
-http://elmonkey.us:25461/Victor/Victor/103485
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/S69lDu4.png",Activa TV (720p)
-http://elmonkey.us:25461/Victor/Victor/103239
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png",ADN 40
 http://elmonkey.us:25461/Victor/Victor/14
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png",AFIZZIONADOS
@@ -113,8 +65,6 @@ http://elmonkey.us:25461/Victor/Victor/91827
 http://elmonkey.us:25461/Victor/Victor/103515
 #EXTINF:-1 group-title="NEGOCIOS (BUSINESS)" tvg-logo="https://i.imgur.com/CfRvm8i.png",Atameken Business (1080p) [Not 24/7]
 http://elmonkey.us:25461/Victor/Victor/91828
-#EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://i.imgur.com/QenemOL.png",ATN News (720p) [Not 24/7]
-http://elmonkey.us:25461/Victor/Victor/103516
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/Y1Yq3iV.png",Aurora Arte (480p)
 http://elmonkey.us:25461/Victor/Victor/103292
 #EXTINF:-1 group-title="NEGOCIOS (BUSINESS)" tvg-logo="https://i.imgur.com/8vGGdB0.png",ausbiz TV (720p) [Geo-blocked]
@@ -325,8 +275,6 @@ http://elmonkey.us:25461/Victor/Victor/103548
 http://elmonkey.us:25461/Victor/Victor/103549
 #EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://i.imgur.com/qSg862A.png",CCTV+ 2 (600p) [Not 24/7]
 http://elmonkey.us:25461/Victor/Victor/103550
-#EXTINF:-1 group-title="Chile" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdo-premium_m.png",CDO PREMIUN
-http://elmonkey.us:25461/Victor/Victor/228
 #EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/90h9abf.png",Ceiba Vision Canal 36 (1080p)
 http://elmonkey.us:25461/Victor/Victor/103245
 #EXTINF:-1 group-title="Cultura" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71Mhwckj1mL.jpg",CGTN ESPANOL
@@ -439,8 +387,6 @@ http://elmonkey.us:25461/Victor/Victor/103250
 http://elmonkey.us:25461/Victor/Victor/350
 #EXTINF:-1 group-title="DEPORTES 2",DIRECTV SPORTS +
 http://elmonkey.us:25461/Victor/Victor/117092
-#EXTINF:-1 group-title="DEPORTES 2",DIRECTV SPORTS 2
-http://elmonkey.us:25461/Victor/Victor/117090
 #EXTINF:-1 group-title="Cultura" tvg-logo="https://pbs.twimg.com/profile_images/694917796208070660/yLTulGF__400x400.png",DISCOVERY FAMILIA
 http://elmonkey.us:25461/Victor/Victor/45
 #EXTINF:-1 group-title="Cultura" tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg",DISCOVERY H&H
@@ -691,8 +637,6 @@ http://elmonkey.us:25461/Victor/Victor/246
 http://elmonkey.us:25461/Victor/Victor/97
 #EXTINF:-1 group-title="Cultura" tvg-logo="https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/03/hgtv-live-hero.jpg",HGTV
 http://elmonkey.us:25461/Victor/Victor/43
-#EXTINF:-1 group-title="MEXICO | EXTRA" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png",Hipódromo de las Américas (480p) [Geo-blocked]
-http://elmonkey.us:25461/Victor/Victor/103149
 #EXTINF:-1 group-title="MEXICO | EXTRA" tvg-logo="https://i.imgur.com/AfsVFfM.png",HispanTV (480p)
 http://elmonkey.us:25461/Victor/Victor/103150
 #EXTINF:-1 group-title="Cultura" tvg-logo="https://cdn.mitvstatic.com/channels/co_h2_m.png",HISTORY 2
@@ -889,30 +833,6 @@ http://elmonkey.us:25461/Victor/Victor/91692
 http://elmonkey.us:25461/Victor/Victor/103154
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png",LIFETIME
 http://elmonkey.us:25461/Victor/Victor/95
-#EXTINF:-1 group-title="NEGOCIOS (BUSINESS)" tvg-logo="https://i.imgur.com/B6sfpDa.png",like Gecko) Mobile/15E148
-http://elmonkey.us:25461/Victor/Victor/91851
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/AhX46e5.png",like Gecko) Mobile/15E148
-http://elmonkey.us:25461/Victor/Victor/91879
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/KCkzU5R.png",like Gecko) Mobile/15E148
-http://elmonkey.us:25461/Victor/Victor/91882
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/qYObfrG.png",like Gecko) Mobile/15E148
-http://elmonkey.us:25461/Victor/Victor/91895
-#EXTINF:-1 group-title="CINE multiLENGUAJE" tvg-logo="https://i.imgur.com/L3c9gNk.png",like Gecko) Mobile/15E148
-http://elmonkey.us:25461/Victor/Victor/92156
-#EXTINF:-1 group-title="CINE multiLENGUAJE" tvg-logo="https://i.imgur.com/IxOFvqz.png",like Gecko) Mobile/15E148
-http://elmonkey.us:25461/Victor/Victor/92158
-#EXTINF:-1 group-title="CINE multiLENGUAJE" tvg-logo="https://i.imgur.com/XwbLfqd.png",like Gecko) Mobile/15E148
-http://elmonkey.us:25461/Victor/Victor/92159
-#EXTINF:-1 group-title="CINE multiLENGUAJE" tvg-logo="https://i.imgur.com/fRfGuQg.png",like Gecko) Mobile/15E148
-http://elmonkey.us:25461/Victor/Victor/92160
-#EXTINF:-1 group-title="CINE multiLENGUAJE" tvg-logo="https://i.imgur.com/lidNHkH.png",like Gecko) Mobile/15E148
-http://elmonkey.us:25461/Victor/Victor/92161
-#EXTINF:-1 group-title="CINE multiLENGUAJE" tvg-logo="https://i.imgur.com/uWBrDpV.png",like Gecko) Mobile/15E148
-http://elmonkey.us:25461/Victor/Victor/92162
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png",like Gecko) Mobile/15E148
-http://elmonkey.us:25461/Victor/Victor/103295
-#EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/yOnSc4O.png",like Gecko) Mobile/15E148
-http://elmonkey.us:25461/Victor/Victor/103439
 #EXTINF:-1 group-title="MEXICO | EXTRA" tvg-logo="https://i.imgur.com/3fA50RJ.png",Lobo TV (720p)
 http://elmonkey.us:25461/Victor/Victor/103156
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://tongal.s3.amazonaws.com/sponsor/2016/07/06/212x212Logo.png",Longhorn Network
@@ -921,8 +841,6 @@ http://elmonkey.us:25461/Victor/Victor/1408
 http://elmonkey.us:25461/Victor/Victor/117104
 #EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/KBYUOcP.png",LTV (720p) [Not 24/7]
 http://elmonkey.us:25461/Victor/Victor/103258
-#EXTINF:-1 group-title="DEPORTES 2",M. LA LIGA TV BAR
-http://elmonkey.us:25461/Victor/Victor/117121
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/9ffrXBg.png",M2 (540p)
 http://elmonkey.us:25461/Victor/Victor/91966
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/QZQhg6C.png",Magic TV (480p)
@@ -941,10 +859,6 @@ http://elmonkey.us:25461/Victor/Victor/106379
 http://elmonkey.us:25461/Victor/Victor/106384
 #EXTINF:-1 group-title="Mexico",MEXICO | RCG
 http://elmonkey.us:25461/Victor/Victor/106385
-#EXTINF:-1 group-title="Mexico",MEXICO | RCG 3
-http://elmonkey.us:25461/Victor/Victor/106387
-#EXTINF:-1 group-title="Mexico",MEXICO | RCG SALTILLO
-http://elmonkey.us:25461/Victor/Victor/106378
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png",MEXICO | TELEMAX
 http://elmonkey.us:25461/Victor/Victor/106392
 #EXTINF:-1 group-title="Mexico",MEXICO | TELEVISA MONTERREY
@@ -1001,12 +915,8 @@ http://elmonkey.us:25461/Victor/Victor/91993
 http://elmonkey.us:25461/Victor/Victor/91994
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik OKK Serbia (720p) [Geo-blocked]
 http://elmonkey.us:25461/Victor/Victor/91995
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Replay Serbia (720p) [Geo-blocked]
-http://elmonkey.us:25461/Victor/Victor/91996
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Rock&Roll Serbia (720p) [Geo-blocked]
 http://elmonkey.us:25461/Victor/Victor/91997
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Saculatac Serbia (720p) [Geo-blocked]
-http://elmonkey.us:25461/Victor/Victor/91998
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik TV Serbia (720p) [Geo-blocked]
 http://elmonkey.us:25461/Victor/Victor/91999
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png",Muzzik Worldwide Serbia (720p) [Geo-blocked]
@@ -1205,8 +1115,6 @@ http://elmonkey.us:25461/Victor/Victor/117137
 http://elmonkey.us:25461/Victor/Victor/117138
 #EXTINF:-1 group-title="DEPORTES 2",Premiere 4 BRA
 http://elmonkey.us:25461/Victor/Victor/117139
-#EXTINF:-1 group-title="DEPORTES 2",Premiere 5 HD BRA
-http://elmonkey.us:25461/Victor/Victor/117140
 #EXTINF:-1 group-title="DEPORTES 2",Premiere 7 BRA
 http://elmonkey.us:25461/Victor/Victor/117141
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/714Zmt-qXcL.png",PRESUMIENDO MEXICO
@@ -1463,8 +1371,6 @@ http://elmonkey.us:25461/Victor/Victor/120
 http://elmonkey.us:25461/Victor/Victor/91860
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/XymK2PR.png",Tele Abruzzo (384p)
 http://elmonkey.us:25461/Victor/Victor/103400
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/zDL8mGu.png",Tele Caribe (1080p)
-http://elmonkey.us:25461/Victor/Victor/92102
 #EXTINF:-1 group-title="CINE multiLENGUAJE" tvg-logo="https://i.imgur.com/BHYWG0h.png",TELE CINE ACTION (720p)
 http://elmonkey.us:25461/Victor/Victor/92314
 #EXTINF:-1 group-title="MEXICO | EXTRA",TELE SISTEMA CANAL 9 (486p) [Geo-blocked]
@@ -1611,8 +1517,6 @@ http://elmonkey.us:25461/Victor/Victor/92116
 http://elmonkey.us:25461/Victor/Victor/106300
 #EXTINF:-1 group-title="ITALY",TV UNO (240p)
 http://elmonkey.us:25461/Victor/Victor/103429
-#EXTINF:-1 group-title="PERU EXTRA" tvg-logo="https://i.imgur.com/n9PL3Ie.png",TV5 Soritor (720p) [Not 24/7]
-http://elmonkey.us:25461/Victor/Victor/106295
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.seekpng.com/png/detail/297-2976535_deportes-tvc-deportes-2-logo.png",TVC Deportes
 http://elmonkey.us:25461/Victor/Victor/347
 #EXTINF:-1 group-title="DEPORTES 2",TVC Deportes
@@ -1625,8 +1529,6 @@ http://elmonkey.us:25461/Victor/Victor/106302
 http://elmonkey.us:25461/Victor/Victor/1468
 #EXTINF:-1 group-title="DEPORTES 2",TVG
 http://elmonkey.us:25461/Victor/Victor/117107
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.imgur.com/YAnSTc6.jpg",TVG 2
-http://elmonkey.us:25461/Victor/Victor/4225
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/2wkSHNI.png",TVL (720p) [Not 24/7]
 http://elmonkey.us:25461/Victor/Victor/103430
 #EXTINF:-1 group-title="MEXICO | EXTRA" tvg-logo="https://i.imgur.com/lhI8Rs0.png",TVMás (720p)
@@ -1669,8 +1571,6 @@ http://elmonkey.us:25461/Victor/Victor/117062
 http://elmonkey.us:25461/Victor/Victor/117061
 #EXTINF:-1 group-title="ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",USA | ESPN  (opc 3)
 http://elmonkey.us:25461/Victor/Victor/297
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://geneandgeorgetti.com/wp-content/uploads/2014/12/fox-32-news.jpg",USA | FOX CHICAGO
-http://elmonkey.us:25461/Victor/Victor/91619
 #EXTINF:-1 group-title="DEPORTES 2",USA | GINX eSports
 http://elmonkey.us:25461/Victor/Victor/117128
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://musica.news/wp-content/uploads/2020/05/Logo-de-MTV-1980.jpg",USA | MTV
@@ -1687,8 +1587,6 @@ http://elmonkey.us:25461/Victor/Victor/117113
 http://elmonkey.us:25461/Victor/Victor/1515
 #EXTINF:-1 group-title="DEPORTES 2",USA | Pac-12 Los Angeles
 http://elmonkey.us:25461/Victor/Victor/117112
-#EXTINF:-1 group-title="KIDS 2",USA | PBS Kids
-http://elmonkey.us:25461/Victor/Victor/91729
 #EXTINF:-1 group-title="KIDS 2",USA | STARZ KIDS&FAMILY
 http://elmonkey.us:25461/Victor/Victor/91726
 #EXTINF:-1 group-title="DEPORTES 2",USA | TUDN
@@ -1765,8 +1663,6 @@ http://elmonkey.us:25461/Victor/Victor/106308
 http://elmonkey.us:25461/Victor/Victor/103434
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/OFhQQCD.png",VIVA Russia (1080p) [Not 24/7]
 http://elmonkey.us:25461/Victor/Victor/92128
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Dvo1b82.png",VM Latino (720p) [Not 24/7]
-http://elmonkey.us:25461/Victor/Victor/92129
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/HzGs1Eh.png",VoiceOver Radio TV
 http://elmonkey.us:25461/Victor/Victor/92130
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/Cs1kX12.png",Vuemme (480p)
@@ -1809,8 +1705,6 @@ http://elmonkey.us:25461/Victor/Victor/117109
 http://elmonkey.us:25461/Victor/Victor/106310
 #EXTINF:-1 group-title="MEXICO | EXTRA" tvg-logo="https://i.imgur.com/EY0DlT0.png",XHSDD-TDT (15tv Sabinas)
 http://elmonkey.us:25461/Victor/Victor/103236
-#EXTINF:-1 group-title="MEXICO | EXTRA" tvg-logo="https://i.imgur.com/AWLWu91.png",XHSPR-TDT1 (Canal Catorce)
-http://elmonkey.us:25461/Victor/Victor/103237
 #EXTINF:-1 group-title="XXX ADULTOS",XXX  | Dorcel XXX
 http://elmonkey.us:25461/Victor/Victor/91526
 #EXTINF:-1 group-title="XXX ADULTOS",XXX | 18+
@@ -1833,29 +1727,3 @@ http://elmonkey.us:25461/Victor/Victor/91525
 http://elmonkey.us:25461/Victor/Victor/91548
 #EXTINF:-1 group-title="XXX ADULTOS",XXX | RedTraffic Big Dick
 http://elmonkey.us:25461/Victor/Victor/91547
-#EXTINF:-1 group-title="NEGOCIOS (BUSINESS)" tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo! Finance (1080p)
-http://elmonkey.us:25461/Victor/Victor/91862
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/RMPVvGR.png",Zerouno TV (720p)
-http://elmonkey.us:25461/Victor/Victor/92133
-#EXTINF:-1  tvg-logo="https://i.imgur.com/RtHeRwp.png",Zindagi TV (576p)
-http://elmonkey.us:25461/Victor/Victor/4916
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Pg7K7eV.png",Матур ТВ (1080p)
-http://elmonkey.us:25461/Victor/Victor/92138
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Puk1Bhx.png",Муз союз (576p)
-http://elmonkey.us:25461/Victor/Victor/92139
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/YdyFJrl.png",Первый Музыкальный Канал (576p)
-http://elmonkey.us:25461/Victor/Victor/92142
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/rEo7nR1.png",Первый Музыкальный Канал Россия (576p)
-http://elmonkey.us:25461/Victor/Victor/92143
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/5xKqV1s.png",Радио Хит (Орск) (720p)
-http://elmonkey.us:25461/Victor/Victor/92144
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/lbqM3K2.png",Радио Шансон (720p) [Not 24/7]
-http://elmonkey.us:25461/Victor/Victor/92145
-#EXTINF:-1 group-title="NEGOCIOS (BUSINESS)" tvg-logo="https://i.imgur.com/CwhmJby.png",РБК (560p)
-http://elmonkey.us:25461/Victor/Victor/91863
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/WsPlKJJ.png",Страна FM (720p) [Not 24/7]
-http://elmonkey.us:25461/Victor/Victor/92146
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/RenuH4S.png",ТНТ Music (1080p) [Geo-blocked]
-http://elmonkey.us:25461/Victor/Victor/92147
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ (576p) [Geo-blocked]
-http://elmonkey.us:25461/Victor/Victor/92148
