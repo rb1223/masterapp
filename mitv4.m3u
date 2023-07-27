@@ -81,8 +81,6 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/213
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/46
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Comedy Central HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/219
-#EXTINF:-1 group-title="CINEMA",De Pelicula
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3934
 #EXTINF:-1 group-title="CINEMA",DHE HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/220
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/tTCkcdkQ/DISCOVERY-CHANNEL.jpg",Discovery Channel
@@ -195,8 +193,6 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/240
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/44
 #EXTINF:-1 group-title="CULTURA",History Channel HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/241
-#EXTINF:-1 group-title="CINEMA",HOLA TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/179
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Hola TV HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4318
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/HLF5Bvwb/HOME-HEALTH.jpg",Home and Health
@@ -225,8 +221,6 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/50
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4321
 #EXTINF:-1 group-title="MUSICA",MTV HD
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4184
-#EXTINF:-1 group-title="MUSICA",MTV LIVE HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4185
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.postimg.cc/QCFb8Xvf/NATIONAL-GEO.jpg",Nat Geo
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/39
 #EXTINF:-1 group-title="CULTURA",Nat Geo HD
@@ -275,8 +269,6 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4294
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/260
 #EXTINF:-1 group-title="CINEMA",SYFY
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/189
-#EXTINF:-1 group-title="CINEMA",TBS Very Funny HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4328
 #EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.postimg.cc/RZfT4qM3/TCM.jpg",TCM
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/36
 #EXTINF:-1 group-title="OTROS",Telemundo
