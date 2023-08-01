@@ -27,14 +27,10 @@ http://elmonkey.us:25461/Victor/Victor/103240
 http://elmonkey.us:25461/Victor/Victor/103289
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/08/amc-logo-2016.jpg",AMC
 http://elmonkey.us:25461/Victor/Victor/16
-#EXTINF:-1 group-title="CINE multiLENGUAJE" tvg-logo="https://i.imgur.com/JLkzt7v.jpg",American Horrors (480p)
-http://elmonkey.us:25461/Victor/Victor/92157
 #EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://i.imgur.com/jtFBBGs.jpg",America's Voice (720p)
 http://elmonkey.us:25461/Victor/Victor/103508
 #EXTINF:-1 group-title="NEGOCIOS (BUSINESS)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png",Ameritrade (1080p) [Not 24/7]
 http://elmonkey.us:25461/Victor/Victor/91825
-#EXTINF:-1 group-title="MEXICO | EXTRA" tvg-logo="https://i.imgur.com/snIU1UA.jpg",AMX Noticias (720p) [Not 24/7]
-http://elmonkey.us:25461/Victor/Victor/103102
 #EXTINF:-1 group-title="Cultura" tvg-logo="https://www.tv.maocal.com/images/animal.png",ANIMAL PLANET
 http://elmonkey.us:25461/Victor/Victor/17
 #EXTINF:-1 group-title="Peru" tvg-logo="https://moyobamba.com/wp-content/uploads/2020/05/antarestv-mnc.png",ANTARES TV
@@ -49,14 +45,6 @@ http://elmonkey.us:25461/Victor/Victor/117041
 http://elmonkey.us:25461/Victor/Victor/117042
 #EXTINF:-1 group-title="DEPORTES 2",ARG DEP | FOX SPORTS  3
 http://elmonkey.us:25461/Victor/Victor/117043
-#EXTINF:-1 group-title="DEPORTES 2",ARG DEP | FOX SPORTS PREMIUM FHD
-http://elmonkey.us:25461/Victor/Victor/117045
-#EXTINF:-1 group-title="DEPORTES 2",ARG DEP | FOX SPORTS PREMIUM HD
-http://elmonkey.us:25461/Victor/Victor/117046
-#EXTINF:-1 group-title="DEPORTES 2",ARG DEP | FOX SPORTS PREMIUM SD
-http://elmonkey.us:25461/Victor/Victor/117047
-#EXTINF:-1 group-title="DEPORTES 2",ARGENTINA | FOX SPORTS PREMIUM
-http://elmonkey.us:25461/Victor/Victor/117026
 #EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://i.imgur.com/Asu5pE9.png",Arirang (720p)
 http://elmonkey.us:25461/Victor/Victor/103510
 #EXTINF:-1 group-title="NEGOCIOS (BUSINESS)" tvg-logo="https://i.imgur.com/bqRC3sl.png",Asharq News Portrait (1280p)
@@ -147,8 +135,6 @@ http://elmonkey.us:25461/Victor/Victor/103522
 http://elmonkey.us:25461/Victor/Victor/91887
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.pinimg.com/originals/e3/4d/1f/e34d1fc9ac83767e8fbd67ffe3ff7234.png",beIN Sports
 http://elmonkey.us:25461/Victor/Victor/354
-#EXTINF:-1 group-title="DEPORTES 2",BEIN Sports 3
-http://elmonkey.us:25461/Victor/Victor/117056
 #EXTINF:-1 group-title="DEPORTES 2",BEIN Sports 6
 http://elmonkey.us:25461/Victor/Victor/117057
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",BEIN SPORTS Ñ
@@ -161,10 +147,6 @@ http://elmonkey.us:25461/Victor/Victor/117055
 http://elmonkey.us:25461/Victor/Victor/117059
 #EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://i.imgur.com/iVIlgrj.png",Belarus 24 (720p)
 http://elmonkey.us:25461/Victor/Victor/103525
-#EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png",BeritaSatu (720p)
-http://elmonkey.us:25461/Victor/Victor/103526
-#EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://i.imgur.com/gHBxpyc.png",BeritaSatu World (720p) [Not 24/7]
-http://elmonkey.us:25461/Victor/Victor/103527
 #EXTINF:-1 group-title="Peru" tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg",BHTV
 http://elmonkey.us:25461/Victor/Victor/693
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/yIqOcP5.png",Bibel TV Musik (720p)
@@ -195,8 +177,6 @@ http://elmonkey.us:25461/Victor/Victor/91896
 http://elmonkey.us:25461/Victor/Victor/103299
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/hv4zi9N.png",Camera dei Deputati (via RR) (240p)
 http://elmonkey.us:25461/Victor/Victor/103300
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://ia800802.us.archive.org/34/items/SportsnetPacific/sportsnet%20pacific.png",CANADA | Sportsnet Pacific
-http://elmonkey.us:25461/Victor/Victor/337
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://logodix.com/logo/1906241.png",CANADA | TSN 1
 http://elmonkey.us:25461/Victor/Victor/339
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://sport-tv-guide.live/images/tv-station-tsn2-189.png",CANADA | TSN 2
@@ -299,14 +279,10 @@ http://elmonkey.us:25461/Victor/Victor/92175
 http://elmonkey.us:25461/Victor/Victor/92177
 #EXTINF:-1 group-title="CINEMA PREMIUM" tvg-logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg",CINEMAX
 http://elmonkey.us:25461/Victor/Victor/38
-#EXTINF:-1 group-title="CINE multiLENGUAJE" tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo",Cinevision Canal 19 (720p)
-http://elmonkey.us:25461/Victor/Victor/92180
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/pGBRsjO.png",City Music TV (720p)
 http://elmonkey.us:25461/Victor/Victor/91900
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://m.eltiempo.com/uploads/2017/09/06/59afb1bde5508.png",CITY TV
 http://elmonkey.us:25461/Victor/Victor/260
-#EXTINF:-1 group-title="DEPORTES 2",Claro Sports FHD
-http://elmonkey.us:25461/Victor/Victor/117132
 #EXTINF:-1 group-title="CINE multiLENGUAJE" tvg-logo="https://i.imgur.com/rHxcraT.png",Classique TV (360p)
 http://elmonkey.us:25461/Victor/Victor/92182
 #EXTINF:-1 group-title="CINE multiLENGUAJE" tvg-logo="https://i.imgur.com/rHxcraT.png",Classique TV Western (360p)
@@ -323,8 +299,6 @@ http://elmonkey.us:25461/Victor/Victor/91848
 http://elmonkey.us:25461/Victor/Victor/678
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/PCiKhi.png",CNN ESPAÑOL
 http://elmonkey.us:25461/Victor/Victor/39
-#EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png",CNN Turk
-http://elmonkey.us:25461/Victor/Victor/103562
 #EXTINF:-1 group-title="NOTICIAS 2",COLOMBIA | CARACOL INTERNACIONAL
 http://elmonkey.us:25461/Victor/Victor/91735
 #EXTINF:-1 group-title="NOTICIAS 2",COLOMBIA | NTN24
@@ -335,8 +309,6 @@ http://elmonkey.us:25461/Victor/Victor/91732
 http://elmonkey.us:25461/Victor/Victor/40
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/ccdwsWj.png",Company TV (720p)
 http://elmonkey.us:25461/Victor/Victor/91903
-#EXTINF:-1 group-title="DEPORTES 2",COSTA RICA | TIGO SPORTS
-http://elmonkey.us:25461/Victor/Victor/117085
 #EXTINF:-1 group-title="CINE multiLENGUAJE" tvg-logo="https://i.imgur.com/7vIsBfF.png",Crackle (XUMO) (1080p)
 http://elmonkey.us:25461/Victor/Victor/92184
 #EXTINF:-1 group-title="NOTICIAS 2" tvg-logo="https://i.imgur.com/V1EVtRm.png",CTS News (華視新聞資訊) [Geo-blocked]
@@ -345,8 +317,6 @@ http://elmonkey.us:25461/Victor/Victor/103565
 http://elmonkey.us:25461/Victor/Victor/103248
 #EXTINF:-1 group-title="Cuba" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CubaPlay_Logo.png",CUBAPLAY
 http://elmonkey.us:25461/Victor/Victor/279
-#EXTINF:-1 group-title="Cuba" tvg-logo="https://cdn.mitvstatic.com/channels/hn_cubavision_m.png",CUBAVISION INTERNACIONAL
-http://elmonkey.us:25461/Victor/Victor/276
 #EXTINF:-1 group-title="MEXICO | EXTRA" tvg-logo="https://i.imgur.com/QJ9lVj2.png",CubaVision Internacional (480p) [Not 24/7]
 http://elmonkey.us:25461/Victor/Victor/103125
 #EXTINF:-1 group-title="Peru" tvg-logo="https://teleon.tv/images/logos/cultura24tv-pe.png",CULTURA 24
@@ -363,8 +333,6 @@ http://elmonkey.us:25461/Victor/Victor/117036
 http://elmonkey.us:25461/Victor/Victor/117037
 #EXTINF:-1 group-title="DEPORTES 2",DEPORTES | FOX SPORTS 1 MX
 http://elmonkey.us:25461/Victor/Victor/117038
-#EXTINF:-1 group-title="DEPORTES 2",DEPORTES | FOX SPORTS 2 MX
-http://elmonkey.us:25461/Victor/Victor/117039
 #EXTINF:-1 group-title="DEPORTES 2",DEPORTES HD | FOX SPORTS  1 ARG
 http://elmonkey.us:25461/Victor/Victor/117031
 #EXTINF:-1 group-title="DEPORTES 2",DEPORTES HD | FOX SPORTS  2 ARG
@@ -513,10 +481,6 @@ http://elmonkey.us:25461/Victor/Victor/67
 http://elmonkey.us:25461/Victor/Victor/68
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.pinimg.com/280x280_RS/4e/a7/9c/4ea79c2b8eaaa0ed0b13000aeca9cab1.jpg",FOX
 http://elmonkey.us:25461/Victor/Victor/69
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://media.foxdeportes.com/assets/images/fxd_logo_450.png",Fox Deportes
-http://elmonkey.us:25461/Victor/Victor/1383
-#EXTINF:-1 group-title="DEPORTES 2",Fox Deportes
-http://elmonkey.us:25461/Victor/Victor/117102
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-life_m.png",FOX LIFE
 http://elmonkey.us:25461/Victor/Victor/74
 #EXTINF:-1 group-title="CINEMA PREMIUM" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png",FOX PREMIUM ACTION (Star Action)
@@ -547,8 +511,6 @@ http://elmonkey.us:25461/Victor/Victor/117025
 http://elmonkey.us:25461/Victor/Victor/117030
 #EXTINF:-1 group-title="DEPORTES 2",FOX SPORTS ARG
 http://elmonkey.us:25461/Victor/Victor/117027
-#EXTINF:-1 group-title="DEPORTES 2",FOX SPORTS PREMIUM
-http://elmonkey.us:25461/Victor/Victor/117029
 #EXTINF:-1 group-title="DEPORTES 2",FS1
 http://elmonkey.us:25461/Victor/Victor/117099
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-2.png",FS2
@@ -607,8 +569,6 @@ http://elmonkey.us:25461/Victor/Victor/84
 http://elmonkey.us:25461/Victor/Victor/117068
 #EXTINF:-1 group-title="ITALY",Gold 78 (1080p)
 http://elmonkey.us:25461/Victor/Victor/103318
-#EXTINF:-1 group-title="CINEMA PREMIUM" tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg",GOLDEN EDGE
-http://elmonkey.us:25461/Victor/Victor/85
 #EXTINF:-1 group-title="CINEMA PREMIUM" tvg-logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png",GOLDEN PLUS
 http://elmonkey.us:25461/Victor/Victor/86
 #EXTINF:-1 group-title="CINEMA PREMIUM" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg",GOLDEN PREMIER
@@ -625,8 +585,6 @@ http://elmonkey.us:25461/Victor/Victor/92202
 http://elmonkey.us:25461/Victor/Victor/88
 #EXTINF:-1 group-title="CINEMA PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO FAMILY
 http://elmonkey.us:25461/Victor/Victor/89
-#EXTINF:-1 group-title="CINEMA PREMIUM" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png",HBO MUNDI
-http://elmonkey.us:25461/Victor/Victor/250
 #EXTINF:-1 group-title="CINEMA PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLUS
 http://elmonkey.us:25461/Victor/Victor/90
 #EXTINF:-1 group-title="CINEMA PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png",HBO POP
@@ -699,8 +657,6 @@ http://elmonkey.us:25461/Victor/Victor/91723
 http://elmonkey.us:25461/Victor/Victor/91719
 #EXTINF:-1 group-title="KIDS 2",KIDS USA | Spacetoon
 http://elmonkey.us:25461/Victor/Victor/91722
-#EXTINF:-1 group-title="KIDS 2",KIDS USA | Watch It Kid
-http://elmonkey.us:25461/Victor/Victor/91724
 #EXTINF:-1 group-title="KIDS 2",KIDS USA | Zoo Moo (Australia)
 http://elmonkey.us:25461/Victor/Victor/91725
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/RsGiBwE.png",Kiss Kiss Napoli TV (720p)
@@ -813,16 +769,12 @@ http://elmonkey.us:25461/Victor/Victor/123050
 http://elmonkey.us:25461/Victor/Victor/123024
 #EXTINF:-1 group-title="Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg",LATINA
 http://elmonkey.us:25461/Victor/Victor/691
-#EXTINF:-1 group-title="DEPORTES 2",Latino | ADN40
-http://elmonkey.us:25461/Victor/Victor/117086
 #EXTINF:-1 group-title="KIDS 2",Latino | Boomerang
 http://elmonkey.us:25461/Victor/Victor/91683
 #EXTINF:-1 group-title="NOTICIAS 2",Latino | CNN en Espanol
 http://elmonkey.us:25461/Victor/Victor/91733
 #EXTINF:-1 group-title="KIDS 2",Latino | Discovery Kids
 http://elmonkey.us:25461/Victor/Victor/91728
-#EXTINF:-1 group-title="KIDS 2",Latino | Disney Channel
-http://elmonkey.us:25461/Victor/Victor/91685
 #EXTINF:-1 group-title="KIDS 2",Latino | Disney Jr
 http://elmonkey.us:25461/Victor/Victor/91686
 #EXTINF:-1 group-title="KIDS 2",Latino | Disney XD
@@ -851,8 +803,6 @@ http://elmonkey.us:25461/Victor/Victor/91970
 http://elmonkey.us:25461/Victor/Victor/699
 #EXTINF:-1 group-title="NOTICIAS 2",MEXICO | CANAL 10 NOTICIAS
 http://elmonkey.us:25461/Victor/Victor/91737
-#EXTINF:-1 group-title="Mexico",MEXICO | CANAL 24 NRT
-http://elmonkey.us:25461/Victor/Victor/106389
 #EXTINF:-1 group-title="Mexico",MEXICO | INGENIO TV
 http://elmonkey.us:25461/Victor/Victor/106379
 #EXTINF:-1 group-title="Mexico",MEXICO | MULTIMEDIOS TORREON
@@ -1015,8 +965,6 @@ http://elmonkey.us:25461/Victor/Victor/92009
 http://elmonkey.us:25461/Victor/Victor/92010
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/n3PweBQ.png",Oxigeno TV (360p) [Not 24/7]
 http://elmonkey.us:25461/Victor/Victor/92012
-#EXTINF:-1 group-title="DEPORTES 2",Pac-12 Washington
-http://elmonkey.us:25461/Victor/Victor/117111
 #EXTINF:-1 group-title="Peru" tvg-logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV-300x300.jpg",PANAMERICANA
 http://elmonkey.us:25461/Victor/Victor/684
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/ldLRe4j.png",Panarmenian TV
@@ -1111,12 +1059,6 @@ http://elmonkey.us:25461/Victor/Victor/4208
 http://elmonkey.us:25461/Victor/Victor/92046
 #EXTINF:-1 group-title="DEPORTES 2",Premiere 1 HD BRA
 http://elmonkey.us:25461/Victor/Victor/117137
-#EXTINF:-1 group-title="DEPORTES 2",Premiere 3  BRA
-http://elmonkey.us:25461/Victor/Victor/117138
-#EXTINF:-1 group-title="DEPORTES 2",Premiere 4 BRA
-http://elmonkey.us:25461/Victor/Victor/117139
-#EXTINF:-1 group-title="DEPORTES 2",Premiere 7 BRA
-http://elmonkey.us:25461/Victor/Victor/117141
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/714Zmt-qXcL.png",PRESUMIENDO MEXICO
 http://elmonkey.us:25461/Victor/Victor/622
 #EXTINF:-1 group-title="MEXICO | EXTRA" tvg-logo="https://i.imgur.com/bFG4Rqz.png",Presumiendo México (720p)
@@ -1195,8 +1137,6 @@ http://elmonkey.us:25461/Victor/Victor/103189
 http://elmonkey.us:25461/Victor/Victor/109
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://www.valoraanalitik.com/wp-content/uploads/2018/07/RCNTV.jpg",RCN.
 http://elmonkey.us:25461/Victor/Victor/255
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/OL5qm2c.png",Real TV (720p) [Not 24/7]
-http://elmonkey.us:25461/Victor/Victor/92061
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/red-bull-tv.png",Red Bull TV
 http://elmonkey.us:25461/Victor/Victor/1304
 #EXTINF:-1 group-title="DEPORTES 2",Red Bull TV
@@ -1249,10 +1189,6 @@ http://elmonkey.us:25461/Victor/Victor/103383
 http://elmonkey.us:25461/Victor/Victor/103384
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/QB3tz0d.png",SanjuaneraTV [Not 24/7]
 http://elmonkey.us:25461/Victor/Victor/92075
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://seeklogo.com/images/S/sec-espn-logo-6D43D86EF6-seeklogo.com.png",SEC Network
-http://elmonkey.us:25461/Victor/Victor/1446
-#EXTINF:-1 group-title="DEPORTES 2",SEC Network
-http://elmonkey.us:25461/Victor/Victor/117106
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/h4NyN5d.png",Senato TV (1080p)
 http://elmonkey.us:25461/Victor/Victor/103385
 #EXTINF:-1 group-title="MEXICO | EXTRA" tvg-logo="https://i.imgur.com/dbJKErB.png",SET Televisión Canal 26.1 (720p) [Not 24/7]
@@ -1273,8 +1209,6 @@ http://elmonkey.us:25461/Victor/Victor/92303
 http://elmonkey.us:25461/Victor/Victor/106280
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/SImJE7c.png",SoloBáilalo
 http://elmonkey.us:25461/Victor/Victor/92080
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/U872KLT.png",SoloStandUp (480p) [Not 24/7]
-http://elmonkey.us:25461/Victor/Victor/103265
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://cdn.mitvstatic.com/channels/co_sony_m.png",SONY
 http://elmonkey.us:25461/Victor/Victor/112
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.imgur.com/RPXusvS.png",Sophia TV
@@ -1287,8 +1221,6 @@ http://elmonkey.us:25461/Victor/Victor/92081
 http://elmonkey.us:25461/Victor/Victor/113
 #EXTINF:-1 group-title="DEPORTES 2",Spectrum Sportsnet LA Dodgers
 http://elmonkey.us:25461/Victor/Victor/117123
-#EXTINF:-1 group-title="DEPORTES 2",SporTV HD BRA
-http://elmonkey.us:25461/Victor/Victor/117129
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-1-hd_m.png",STAR SERIES
 http://elmonkey.us:25461/Victor/Victor/76
 #EXTINF:-1 group-title="CINEMA PREMIUM" tvg-logo="https://sm.pcmag.com/pcmag_uk/review/s/starz-revi/starz-review_33md.png",STARZ
@@ -1393,8 +1325,6 @@ http://elmonkey.us:25461/Victor/Victor/106285
 http://elmonkey.us:25461/Victor/Victor/103270
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/ImvO2rV.png",Telefoggia (480p) [Not 24/7]
 http://elmonkey.us:25461/Victor/Victor/103407
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://cdn.mitvstatic.com/channels/mx_telehit_m.png",TELEHIT
-http://elmonkey.us:25461/Victor/Victor/122
 #EXTINF:-1 group-title="MEXICO | EXTRA" tvg-logo="https://i.imgur.com/klhTyDU.png",Telemax (XEWH-TDT) (720p)
 http://elmonkey.us:25461/Victor/Victor/103204
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png",TeleMia (576p)
@@ -1423,8 +1353,6 @@ http://elmonkey.us:25461/Victor/Victor/106291
 http://elmonkey.us:25461/Victor/Victor/103273
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/e1Cf4Li.png",The Box UK (576p) [Geo-blocked]
 http://elmonkey.us:25461/Victor/Victor/92104
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",The Country Network (1080p)
-http://elmonkey.us:25461/Victor/Victor/92105
 #EXTINF:-1 group-title="CINE multiLENGUAJE" tvg-logo="https://i.imgur.com/yfOwmsP.png",The Film Detective (720p)
 http://elmonkey.us:25461/Victor/Victor/92316
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/t3i1HtE.jpg",The Retro Channel (1080p) [Not 24/7]
@@ -1441,8 +1369,6 @@ http://elmonkey.us:25461/Victor/Victor/103212
 http://elmonkey.us:25461/Victor/Victor/51
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png",TLnovelas
 http://elmonkey.us:25461/Victor/Victor/370
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/1iOAl2j.png",TMA (1080p)
-http://elmonkey.us:25461/Victor/Victor/92109
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://assets.elimparcial.com/__export/1562611313007/sites/elimparcial/img/2019/07/08/tnt-series_crop1562611186225.png_423682103.png",TNT Series
 http://elmonkey.us:25461/Victor/Victor/365
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tooncast_m.png",Tooncast
@@ -1465,14 +1391,10 @@ http://elmonkey.us:25461/Victor/Victor/106294
 http://elmonkey.us:25461/Victor/Victor/367
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/HnjUjog.png",Tu Música HD (1080p)
 http://elmonkey.us:25461/Victor/Victor/92112
-#EXTINF:-1 group-title="MEXICO | EXTRA",Turistik TV (720p)
-http://elmonkey.us:25461/Victor/Victor/103216
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/qeo2oPM.png",TV A7 Plus (1080p)
 http://elmonkey.us:25461/Victor/Victor/92114
 #EXTINF:-1 group-title="MEXICO | EXTRA" tvg-logo="https://i.imgur.com/aGup2ag.png",TV Azteca Noroeste (Monterrey | Nuevo Leon) (720p)
 http://elmonkey.us:25461/Victor/Victor/103217
-#EXTINF:-1 group-title="HONDURAS",TV Centro 27.2 (720p)
-http://elmonkey.us:25461/Victor/Victor/103275
 #EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/bcfmqHb.png",TV Centro HD (720p)
 http://elmonkey.us:25461/Victor/Victor/103276
 #EXTINF:-1 group-title="CINE multiLENGUAJE" tvg-logo="https://i.imgur.com/Svm5pun.png",TV Cinec (240p) [Not 24/7]
@@ -1487,12 +1409,8 @@ http://elmonkey.us:25461/Victor/Victor/103218
 http://elmonkey.us:25461/Victor/Victor/103219
 #EXTINF:-1 group-title="MEXICO | EXTRA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_cuatro_mx.png",TV Cuatro 4.3 (1080p)
 http://elmonkey.us:25461/Victor/Victor/103220
-#EXTINF:-1 group-title="MEXICO | EXTRA" tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png",TV Daja
-http://elmonkey.us:25461/Victor/Victor/103221
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/bE1Vksp.png",TV Duga Plus (480p) [Not 24/7]
 http://elmonkey.us:25461/Victor/Victor/92115
-#EXTINF:-1 group-title="KIDS 2",TV GALICIA INFANTIL
-http://elmonkey.us:25461/Victor/Victor/91706
 #EXTINF:-1 group-title="MEXICO | EXTRA" tvg-logo="https://i.imgur.com/q9p1Spj.png",TV Lobo Durango
 http://elmonkey.us:25461/Victor/Victor/103222
 #EXTINF:-1 group-title="Portugal" tvg-logo="https://i.imgur.com/6jNqpTP.png",TV Maná 1 (1080p)
@@ -1517,10 +1435,6 @@ http://elmonkey.us:25461/Victor/Victor/92116
 http://elmonkey.us:25461/Victor/Victor/106300
 #EXTINF:-1 group-title="ITALY",TV UNO (240p)
 http://elmonkey.us:25461/Victor/Victor/103429
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.seekpng.com/png/detail/297-2976535_deportes-tvc-deportes-2-logo.png",TVC Deportes
-http://elmonkey.us:25461/Victor/Victor/347
-#EXTINF:-1 group-title="DEPORTES 2",TVC Deportes
-http://elmonkey.us:25461/Victor/Victor/117087
 #EXTINF:-1 group-title="PERU EXTRA" tvg-logo="https://i.imgur.com/txV8lw0.png",TVenLinea (Cuzco) (720p) [Not 24/7]
 http://elmonkey.us:25461/Victor/Victor/106301
 #EXTINF:-1 group-title="PERU EXTRA" tvg-logo="https://i.imgur.com/PL0pTxs.png",Tvfaces Online (360p) [Not 24/7]
@@ -1543,8 +1457,6 @@ http://elmonkey.us:25461/Victor/Victor/103228
 http://elmonkey.us:25461/Victor/Victor/103229
 #EXTINF:-1 group-title="MEXICO | EXTRA" tvg-logo="https://i.imgur.com/mw4992J.png",TVP Obregón (542p) [Not 24/7]
 http://elmonkey.us:25461/Victor/Victor/103230
-#EXTINF:-1 group-title="DEPORTES 2",TyC Sports
-http://elmonkey.us:25461/Victor/Victor/117088
 #EXTINF:-1 group-title="DEPORTES 2",UFC Fight Pass
 http://elmonkey.us:25461/Victor/Victor/117143
 #EXTINF:-1 group-title="ITALY" tvg-logo="https://i.imgur.com/olJIJ7c.png",Umbria TV (576p) [Not 24/7]
@@ -1563,8 +1475,6 @@ http://elmonkey.us:25461/Victor/Victor/117127
 http://elmonkey.us:25461/Victor/Victor/117126
 #EXTINF:-1 group-title="DEPORTES 2",USA | AT&T Sportsnet South West
 http://elmonkey.us:25461/Victor/Victor/117125
-#EXTINF:-1 group-title="DEPORTES 2",USA | BEIN 4
-http://elmonkey.us:25461/Victor/Victor/117064
 #EXTINF:-1 group-title="DEPORTES 2",USA | BEIN 6
 http://elmonkey.us:25461/Victor/Victor/117062
 #EXTINF:-1 group-title="DEPORTES 2",USA | BEIN 7
@@ -1681,10 +1591,6 @@ http://elmonkey.us:25461/Victor/Victor/92332
 http://elmonkey.us:25461/Victor/Victor/92333
 #EXTINF:-1 group-title="Peru" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png",WILLAX TV
 http://elmonkey.us:25461/Victor/Victor/681
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png",Win Sports
-http://elmonkey.us:25461/Victor/Victor/349
-#EXTINF:-1 group-title="DEPORTES 2",Win Sports
-http://elmonkey.us:25461/Victor/Victor/117089
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png",WINSPORTS PLUS
 http://elmonkey.us:25461/Victor/Victor/267
 #EXTINF:-1 group-title="DEPORTES 2",WINSPORTS PLUS
@@ -1719,8 +1625,6 @@ http://elmonkey.us:25461/Victor/Victor/91583
 http://elmonkey.us:25461/Victor/Victor/91528
 #EXTINF:-1 group-title="XXX ADULTOS",XXX | ADULTOS 7
 http://elmonkey.us:25461/Victor/Victor/91527
-#EXTINF:-1 group-title="XXX ADULTOS",XXX | Hustler
-http://elmonkey.us:25461/Victor/Victor/91522
 #EXTINF:-1 group-title="XXX ADULTOS",XXX | Penthouse Quickies
 http://elmonkey.us:25461/Victor/Victor/91525
 #EXTINF:-1 group-title="XXX ADULTOS",XXX | RedTraffic Big Ass
