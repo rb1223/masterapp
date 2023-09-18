@@ -1,0 +1,576 @@
+#EXTM3U
+#EXTINF:-1 ,DESCARGA VOX PLAYER M3U DESDE PLAYSTORE
+https://dl.dropboxusercontent.com/s/vbbf23iud82xqks/voxplayerm3u.mp4
+#EXTINF:1,10 NEWS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0126/playlist.m3u8
+#EXTINF:1,9
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0130/playlist.m3u8
+#EXTINF:1,A&E
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0022/playlist.m3u8
+#EXTINF:24,A3SERIES
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0028/playlist.m3u8
+#EXTINF:1,ABC
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0123/playlist.m3u8
+#EXTINF:1,ABC 13
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0124/playlist.m3u8
+#EXTINF:1,ABC 7
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0125/playlist.m3u8
+#EXTINF:1,ABC 7
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0127/playlist.m3u8
+#EXTINF:1,ADN 40
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0023/playlist.m3u8
+#EXTINF:1,ADRENALINA
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0025/playlist.m3u8
+#EXTINF:1,AFFIZIONADOS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0026/playlist.m3u8
+#EXTINF:1,AMC
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0027/playlist.m3u8
+#EXTINF:1,ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0131/playlist.m3u8
+#EXTINF:1,ANIMAL PLANET
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0131/playlist.m3u8
+#EXTINF:1,ANTENA 3
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0001/playlist.m3u8
+#EXTINF:1,AXN
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0005/playlist.m3u8
+#EXTINF:1,AYM HD
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0029/playlist.m3u8
+#EXTINF:1,AZ CINEMA
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0002/playlist.m3u8
+#EXTINF:1,AZ CORAZÓN
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0030/playlist.m3u8
+#EXTINF:1,AZ MUNDO
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0003/playlist.m3u8
+#EXTINF:1,AZTECA 7
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0132/playlist.m3u8
+#EXTINF:1,AZTECA UNO
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0134/playlist.m3u8
+#EXTINF:1,BABY TV
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0031/playlist.m3u8
+#EXTINF:1,BABY TV
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0031/playlist.m3u8
+#EXTINF:1,BANDAMAX
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0032/playlist.m3u8
+#EXTINF:1,BITME
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0033/playlist.m3u8
+#EXTINF:1,BOOMERANG
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0034/playlist.m3u8
+#EXTINF:1,CANAL 16
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0108/playlist.m3u8
+#EXTINF:1,CANAL 2
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0122/playlist.m3u8
+#EXTINF:1,CANAL 5
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0150/playlist.m3u8
+#EXTINF:1,CARACOL
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0036/playlist.m3u8
+#EXTINF:1,CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0037/playlist.m3u8
+#EXTINF:1,CARTOONITO
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0034/playlist.m3u8
+#EXTINF:1,CARTOONITO
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0034/playlist.m3u8
+#EXTINF:1,CBS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0151/playlist.m3u8
+#EXTINF:1,CBS NEWS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0154/playlist.m3u8
+#EXTINF:1,CBS SPORTS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0011/playlist.m3u8
+#EXTINF:1,CINE CANAL
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0147/playlist.m3u8
+#EXTINF:1,CINECANAL
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0147/playlist.m3u8
+#EXTINF:1,CINEMAX
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0157/playlist.m3u8
+#EXTINF:1,CINEMAX
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0157/playlist.m3u8
+#EXTINF:1,CLARO SPORTS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0038/playlist.m3u8
+#EXTINF:1,CNN ESPAÑOL
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0039/playlist.m3u8
+#EXTINF:1,COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0040/playlist.m3u8
+#EXTINF:1,DAZN F1
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0205/playlist.m3u8
+#EXTINF:1,DE PELICULA
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0021/playlist.m3u8
+#EXTINF:1,DE PELICULA+
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0041/playlist.m3u8
+#EXTINF:1,DISCOVERY
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0158/playlist.m3u8
+#EXTINF:1,DISCOVERY H&H
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0159/playlist.m3u8
+#EXTINF:1,DISCOVERY ID
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0162/playlist.m3u8
+#EXTINF:1,DISCOVERY KIDS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0042/playlist.m3u8
+#EXTINF:1,DISCOVERY SCIENCE
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0043/playlist.m3u8
+#EXTINF:1,DISCOVERY THEATER
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0044/playlist.m3u8
+#EXTINF:1,DISCOVERY TLC
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0160/playlist.m3u8
+#EXTINF:1,DISCOVERY TURBO
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0161/playlist.m3u8
+#EXTINF:1,DISCOVERY WORLD
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0045/playlist.m3u8
+#EXTINF:1,DISNEY
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0046/playlist.m3u8
+#EXTINF:1,DISNEY JR
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0047/playlist.m3u8
+#EXTINF:1,DISTRITO COMEDIA
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0049/playlist.m3u8
+#EXTINF:1,EL GOURMET
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0051/playlist.m3u8
+#EXTINF:1,ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0050/playlist.m3u8
+#EXTINF:1,ESPN
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0447/playlist.m3u8
+#EXTINF:1,ESPN 1
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0446/playlist.m3u8
+#EXTINF:1,ESPN 1
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0053/playlist.m3u8
+#EXTINF:1,ESPN 2
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0054/playlist.m3u8
+#EXTINF:1,ESPN 2 MX
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0055/playlist.m3u8
+#EXTINF:1,ESPN DEPORTES
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0163/playlist.m3u8
+#EXTINF:1,ESPN EXTRA
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0052/playlist.m3u8
+#EXTINF:1,ESTRELLA TV
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0013/playlist.m3u8
+#EXTINF:1,EURO SPORT 2
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0202/playlist.m3u8
+#EXTINF:1,FANDUEL TV
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0143/playlist.m3u8
+#EXTINF:1,FOOD NETWORK
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0056/playlist.m3u8
+#EXTINF:1,FORO TV
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0057/playlist.m3u8
+#EXTINF:1,FOX 13
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0176/playlist.m3u8
+#EXTINF:1,FOX 5
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0164/playlist.m3u8
+#EXTINF:1,FOX 7
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0165/playlist.m3u8
+#EXTINF:1,FOX DEPORTES
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0138/playlist.m3u8
+#EXTINF:1,FOX SPORTS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0175/playlist.m3u8
+#EXTINF:1,FOX SPORTS 1
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0449/playlist.m3u8
+#EXTINF:1,FOX SPORTS 2
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0450/playlist.m3u8
+#EXTINF:1,FOX SPORTS 2
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0133/playlist.m3u8
+#EXTINF:1,FOX SPORTS 3
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0062/playlist.m3u8
+#EXTINF:1,FOX SPORTS 3
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0062/playlist.m3u8
+#EXTINF:1,FOX SPORTS 3
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0451/playlist.m3u8
+#EXTINF:1,FS PREMIUM
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0010/playlist.m3u8
+#EXTINF:1,FX
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0063/playlist.m3u8
+#EXTINF:1,FX
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0063/playlist.m3u8
+#EXTINF:1,GARAGE TV
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0014/playlist.m3u8
+#EXTINF:1,GLITZ
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0015/playlist.m3u8
+#EXTINF:1,GOL TV
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0385/playlist.m3u8
+#EXTINF:1,GOLDEN
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0069/playlist.m3u8
+#EXTINF:1,GOLDEN
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0066/playlist.m3u8
+#EXTINF:1,GOLDEN EDGE
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0067/playlist.m3u8
+#EXTINF:1,GOLDEN PLUS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0068/playlist.m3u8
+#EXTINF:1,HBO EXTREME
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0078/playlist.m3u8
+#EXTINF:1,HBO FAMILY
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0073/playlist.m3u8
+#EXTINF:1,HBO PLUS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0075/playlist.m3u8
+#EXTINF:1,HBO POP
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0076/playlist.m3u8
+#EXTINF:1,HBO POP
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0076/playlist.m3u8
+#EXTINF:1,HBO SIGNATURE
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0077/playlist.m3u8
+#EXTINF:22,HBO2
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0072/playlist.m3u8
+#EXTINF:1,HGTV
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0079/playlist.m3u8
+#EXTINF:1,HISTORIA
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0178/playlist.m3u8
+#EXTINF:1,HOLA TV
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0080/playlist.m3u8
+#EXTINF:1,IMAGEN
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0141/playlist.m3u8
+#EXTINF:1,INFINITY
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0081/playlist.m3u8
+#EXTINF:1,LAS ESTRELLAS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0065/playlist.m3u8
+#EXTINF:1,LAS ESTRELLAS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0179/playlist.m3u8
+#EXTINF:1,LIFETIME
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0082/playlist.m3u8
+#EXTINF:1,MEGA TV
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0223/playlist.m3u8
+#EXTINF:1,MEGA TV
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0224/playlist.m3u8
+#EXTINF:1,MILENIO
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0024/playlist.m3u8
+#EXTINF:1,MILENIUM
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0018/playlist.m3u8
+#EXTINF:1,MOVISTAR
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0204/playlist.m3u8
+#EXTINF:1,MOVISTAR DEPORTES
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0203/playlist.m3u8
+#EXTINF:1,MOVISTAR GOLF
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0016/playlist.m3u8
+#EXTINF:1,MOVISTAR GOLF
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0206/playlist.m3u8
+#EXTINF:1,MOVISTAR LIGA
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0207/playlist.m3u8
+#EXTINF:1,MTV
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0019/playlist.m3u8
+#EXTINF:1,MTV 00S
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0116/playlist.m3u8
+#EXTINF:1,MTV 80S
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0117/playlist.m3u8
+#EXTINF:1,MULTIMEDIOS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0020/playlist.m3u8
+#EXTINF:1,NATGEO
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0088/playlist.m3u8
+#EXTINF:1,NATGEO WILD
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0409/playlist.m3u8
+#EXTINF:1,NBC
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0180/playlist.m3u8
+#EXTINF:1,NBC 6
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0184/playlist.m3u8
+#EXTINF:1,NBC LIVE
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0186/playlist.m3u8
+#EXTINF:1,NBC SPORTS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0145/playlist.m3u8
+#EXTINF:1,NICK
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0430/playlist.m3u8
+#EXTINF:1,NICK
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0090/playlist.m3u8
+#EXTINF:1,NICK MUSIC
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0431/playlist.m3u8
+#EXTINF:1,NICK MUSIC
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0091/playlist.m3u8
+#EXTINF:1,ON
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0171/playlist.m3u8
+#EXTINF:1,ON
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0153/playlist.m3u8
+#EXTINF:1,OUTDOOR
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0433/playlist.m3u8
+#EXTINF:1,PARAMOUNT
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0092/playlist.m3u8
+#EXTINF:1,PASSIONES
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0112/playlist.m3u8
+#EXTINF:1,PREMIERE
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0191/playlist.m3u8
+#EXTINF:1,RACING
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0142/playlist.m3u8
+#EXTINF:1,RCN
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0113/playlist.m3u8
+#EXTINF:1,RCN NOVELAS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0114/playlist.m3u8
+#EXTINF:1,RCN NOVELAS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0115/playlist.m3u8
+#EXTINF:1,REAL MADRID
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0209/playlist.m3u8
+#EXTINF:1,SKY SPORTS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0136/playlist.m3u8
+#EXTINF:1,SONY CHANNEL
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0093/playlist.m3u8
+#EXTINF:1,SPACE
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0094/playlist.m3u8
+#EXTINF:1,SPORTV
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0190/playlist.m3u8
+#EXTINF:1,SPORTV 3 COMBATE
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0192/playlist.m3u8
+#EXTINF:1,STAR CHANNEL
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0177/playlist.m3u8
+#EXTINF:1,STUDIO UNIVERSAL
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0096/playlist.m3u8
+#EXTINF:1,SYFY
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0097/playlist.m3u8
+#EXTINF:1,T
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0144/playlist.m3u8
+#EXTINF:1,TCM
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0099/playlist.m3u8
+#EXTINF:1,TEEN NICK
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0089/playlist.m3u8
+#EXTINF:1,TELEFORMULA
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0149/playlist.m3u8
+#EXTINF:1,TELEHIT
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0101/playlist.m3u8
+#EXTINF:1,TELEHIT
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0100/playlist.m3u8
+#EXTINF:1,TELEMUNDO
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0102/playlist.m3u8
+#EXTINF:1,TELEMUNDO
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0227/playlist.m3u8
+#EXTINF:1,TELENOVELAS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0103/playlist.m3u8
+#EXTINF:1,TNT NOVELAS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0098/playlist.m3u8
+#EXTINF:1,TNT SERIES
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0104/playlist.m3u8
+#EXTINF:1,TNT SPORTS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0105/playlist.m3u8
+#EXTINF:1,TNT SPORTS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0107/playlist.m3u8
+#EXTINF:1,TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0193/playlist.m3u8
+#EXTINF:1,TNT SPORTS 2
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0194/playlist.m3u8
+#EXTINF:1,TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0195/playlist.m3u8
+#EXTINF:1,TNT SPORTS CH
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0198/playlist.m3u8
+#EXTINF:1,TNT SPORTS CH
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0196/playlist.m3u8
+#EXTINF:1,TOONCAST
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0106/playlist.m3u8
+#EXTINF:1,TORO TV
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0208/playlist.m3u8
+#EXTINF:1,TUDN
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0139/playlist.m3u8
+#EXTINF:1,TVN
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0199/playlist.m3u8
+#EXTINF:1,TYC SPORTS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0140/playlist.m3u8
+#EXTINF:1,UNICABLE
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0109/playlist.m3u8
+#EXTINF:1,UNIVERSAL TV
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0110/playlist.m3u8
+#EXTINF:1,UNIVISION
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0228/playlist.m3u8
+#EXTINF:1,UNIVISION
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0148/playlist.m3u8
+#EXTINF:1,VIVA
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0200/playlist.m3u8
+#EXTINF:1,WAPA
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0225/playlist.m3u8
+#EXTINF:1,WARNER TV
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0111/playlist.m3u8
+#EXTINF:1,WIN SPORTS
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0120/playlist.m3u8
+#EXTINF:1,XXX AMATEUR
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0440/playlist.m3u8
+#EXTINF:1,XXX LETSDUIT
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0441/playlist.m3u8
+#EXTINF:1,XXX PORNBOX
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0443/playlist.m3u8
+#EXTINF:1,XXX PORNBOX
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0438/playlist.m3u8
+#EXTINF:1,XXX PORNBOX
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0436/playlist.m3u8
+#EXTINF:1,XXX PORNBOX
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0432/playlist.m3u8
+#EXTINF:1,XXX PORNBOX
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0444/playlist.m3u8
+#EXTINF:1,XXX PORNBOX
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0442/playlist.m3u8
+#EXTINF:1,XXX PORNBOX
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0439/playlist.m3u8
