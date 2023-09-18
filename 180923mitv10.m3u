@@ -415,10 +415,14 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37932
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37917
 #EXTINF:-1 group-title="24/7 ANIME",24/7 Naruto
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/225765
+#EXTINF:-1 group-title="24/7 ANIME" tvg-logo="https://1.bp.blogspot.com/-X-UV2HWVSDU/Xpl5zLc533I/AAAAAAAABuY/Sn-TUNBn7tg1z87KylzjZMGpqTF8qgYJgCLcBGAsYHQ/s200/Naruto%2BShippuden.png",24/7 Naruto Shippuden (e)()
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37811
 #EXTINF:-1 group-title="24/7 ANIME" tvg-logo="https://1.bp.blogspot.com/-RuSIAWoABqE/Xsp7xuEj_qI/AAAAAAAACAA/2ckzmvu7YvUx1tou6AQrLcY9uLbzKMlkgCLcBGAsYHQ/s200/evangelion.png",24/7 Neon Genesis Evangelion (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37864
 #EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/--4WG5GYWvVw/XsbxHVVs9pI/AAAAAAAAAFA/Of7yCbTAL2wrpuLVlZCpWUvdhLsUaJwLACK4BGAsYHg/arnold.png",24/7 Oye Arnold! (e) (720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37861
+#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://1.bp.blogspot.com/-A-pq39ZVAuQ/Xj38zci4kKI/AAAAAAAABHo/LJ3SxA42_YIdeHWZI3K-vPShVL5hoiBrgCLcBGAsYHQ/s200/family%2Bguy%2Bdual.png",24/7 Padre De Familia (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37764
 #EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/-LZyiMEaggUI/Xtyz2Ng0z4I/AAAAAAAACDA/6GhR2k68hwE5Yiepxod9aTdcUCY-0pYdwCLcBGAsYHQ/s200/patoaventuras2.png",24/7 Patoaventuras (e)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37877
 #EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/-OTO4Pqz6KDg/Xpl2sCWEUhI/AAAAAAAABts/Xe_HQoXkKgIcoyIZ0ft-GSDw2GULwMd3ACLcBGAsYHQ/s200/paq%2Bpatrol.png",24/7 Paw Patrol (e)(SD)
@@ -539,6 +543,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37916
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37907
 #EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://1.bp.blogspot.com/-q-r57opFiyQ/XsGkWrHt5HI/AAAAAAAAB-o/1wBdBPVzr3Iny6r3hqfVaf9ILyVlINKtACLcBGAsYHQ/s200/vecinos.png",24/7 Vecinos (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37785
+#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/-a69oEJdWfNw/XucfTBcZgyI/AAAAAAAACG8/m7ndpsq7goUBESKlaoYrEIp2L3HBYzbbwCLcBGAsYHQ/s200/victorious.png",24/7 Victorious (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37778
 #EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://1.bp.blogspot.com/-YfKJ3i-vIAw/Xq9KH4OBhXI/AAAAAAAAB3g/ckaBMgZZg14vgSXD9L5kyZ5TH0wig_TfwCLcBGAsYHQ/s200/Walker%2BTexas%2BRanger.png",24/7 Walker Texas Ranger (e)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37762
 #EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/-Jwq_SiwD8PQ/Xw46YO_AXAI/AAAAAAAACRM/feVTN6pOuU46Kq-1fgm9xX0R4lV4w_WJgCLcBGAsYHQ/s200/Winnie.png",24/7 Winnie de Pooh (e)(720)
@@ -561,30 +567,158 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37780
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63382
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i2.paste.pics/b4363fe68e2cea79e69ccfb224ed725e.png",Alcance TV | MX
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269284
+#EXTINF:-1 group-title="ARGENTINA",ARG-America 24 (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/116192
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-KnDJiwKtRjc/X2QIK1SbIzI/AAAAAAAABW0/5y2x5JZbg-syMBZGzDpE5v6TfFbT2j7CQCLcBGAsYHQ/w200-h200/37%2BAm%25C3%25A9rica%2Btv.png",ARG-America TV (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22089
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-KnDJiwKtRjc/X2QIK1SbIzI/AAAAAAAABW0/5y2x5JZbg-syMBZGzDpE5v6TfFbT2j7CQCLcBGAsYHQ/w200-h200/37%2BAm%25C3%25A9rica%2Btv.png",ARG-America TV (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153936
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-KnDJiwKtRjc/X2QIK1SbIzI/AAAAAAAABW0/5y2x5JZbg-syMBZGzDpE5v6TfFbT2j7CQCLcBGAsYHQ/w200-h200/37%2BAm%25C3%25A9rica%2Btv.png",ARG-America TV (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22094
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-KnDJiwKtRjc/X2QIK1SbIzI/AAAAAAAABW0/5y2x5JZbg-syMBZGzDpE5v6TfFbT2j7CQCLcBGAsYHQ/w200-h200/37%2BAm%25C3%25A9rica%2Btv.png",ARG-America TV (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/116193
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-2sEle1n_QKI/X2QIFdFmlDI/AAAAAAAABWI/iVqKW-PZy9Q-qu4S6-B2q98vEMnl3h9YgCLcBGAsYHQ/w200-h200/26%2BC5n.png",ARG-C5N (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22097
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-3OEk7TeEwrs/X2QIKYCriGI/AAAAAAAABWw/nkFaPha9r3EcvhSwpN-dCC-Z3z41VKZrgCLcBGAsYHQ/w200-h200/36%2BCanal%2B21..png",ARG-Canal 21 (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22099
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-M5EoDZtqo0U/X2QICx8ERlI/AAAAAAAABV0/KF4u2CWwU3oebh5dwTZjFw6dgfSBYfdDgCLcBGAsYHQ/w200-h200/21%2B26%2BTV.png",ARG-Canal 26 (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22100
+#EXTINF:-1 group-title="ARGENTINA",ARG-Canal 26 (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153860
+#EXTINF:-1 group-title="ARGENTINA",ARG-Canal De La Ciudad (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22102
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-N2gNoaFX1aY/X2Qhivn6MvI/AAAAAAAABYk/MuUMRchiueQp4L5ia5OIQuyD2_sV-panQCLcBGAsYHQ/w200-h200/41%2BMegazine.png",ARG-Ciudad Magazine (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22104
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-AdG3nZ8502Y/X2QIAmw7DfI/AAAAAAAABVk/ezNxTv6lCIAe_Wp1rBehbO8l-1IsSmI8ACLcBGAsYHQ/w200-h200/17%2BCr%25C3%25B3nica%2BTV.png",ARG-Cronica (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22108
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://lh3.googleusercontent.com/-Wbwf2IukM_Y/Yqp2Lcg114I/AAAAAAAADpg/llSkcAlcgLA0YibzeLcAEO_GFWiCxjqNgCNcBGAsYHQ/w200-h200/1655338538835434-2.png",ARG-Directv Sports (e) (1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154287
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://lh3.googleusercontent.com/-Wbwf2IukM_Y/Yqp2Lcg114I/AAAAAAAADpg/llSkcAlcgLA0YibzeLcAEO_GFWiCxjqNgCNcBGAsYHQ/w200-h200/1655338538835434-2.png",ARG-Directv Sports 1 (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166824
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-RHe-nJPhfRc/X2QUq9lLgFI/AAAAAAAABX0/tnQiDDd9elsppcRL-ObMptQNZuSZTaggACLcBGAsYHQ/w200-h200/sketch-1600393968079.png",ARG-El Nueve (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153934
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-RHe-nJPhfRc/X2QUq9lLgFI/AAAAAAAABX0/tnQiDDd9elsppcRL-ObMptQNZuSZTaggACLcBGAsYHQ/w200-h200/sketch-1600393968079.png",ARG-El Nueve (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153935
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-RHe-nJPhfRc/X2QUq9lLgFI/AAAAAAAABX0/tnQiDDd9elsppcRL-ObMptQNZuSZTaggACLcBGAsYHQ/w200-h200/sketch-1600393968079.png",ARG-El Nueve (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22101
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-twF3kXyvN6U/X2QH_MLnQfI/AAAAAAAABVY/1k09hUMynzQScdV-KgRtPmt8hKQELMP0wCLcBGAsYHQ/w200-h200/14%2BEl%2Btrece.png",ARG-El Trece (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153937
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-twF3kXyvN6U/X2QH_MLnQfI/AAAAAAAABVY/1k09hUMynzQScdV-KgRtPmt8hKQELMP0wCLcBGAsYHQ/w200-h200/14%2BEl%2Btrece.png",ARG-El Trece (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/116200
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-twF3kXyvN6U/X2QH_MLnQfI/AAAAAAAABVY/1k09hUMynzQScdV-KgRtPmt8hKQELMP0wCLcBGAsYHQ/w200-h200/14%2BEl%2Btrece.png",ARG-El Trece (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22098
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-twF3kXyvN6U/X2QH_MLnQfI/AAAAAAAABVY/1k09hUMynzQScdV-KgRtPmt8hKQELMP0wCLcBGAsYHQ/w200-h200/14%2BEl%2Btrece.png",ARG-El Trece (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/116199
+#EXTINF:-1 group-title="ARGENTINA",ARG-Espn 1 (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166820
+#EXTINF:-1 group-title="ARGENTINA",ARG-Espn 1 (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166821
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-7Wppv_MV3s4/X2QH9y4ioTI/AAAAAAAABVI/ylN3LQyle9MvDakX16b6Z0HOyxSh81_LQCLcBGAsYHQ/w200-h200/10%2BEspn%2B1.png",ARG-Espn 1 (Local)(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22112
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-Wfwx61RqKUA/X2QH-aBKXDI/AAAAAAAABVM/kdBidh7wITgIgLWEvbqEFs5e9N95YGqWwCLcBGAsYHQ/w200-h200/11%2BEspn%2B2.png",ARG-Espn 2 (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59802
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-ebsBmwjM2-g/X2QH-To3PmI/AAAAAAAABVQ/hfFa_3-baosgsuD9FWKAhNjyx-Fdl61_QCLcBGAsYHQ/w200-h200/12%2BEspn%2B3.png",ARG-Espn 3 (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59803
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-bhtO7GVOw3k/X2QH8tp0RQI/AAAAAAAABU0/QyJnQgmqjxsZobT_cvMPJ9FwthC8UAvuQCLcBGAsYHQ/w200-h200/05%2BFox%2BSports%2BPremium%2Barg.png",ARG-FOX Sports Premium (TV)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59809
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-ufbbBvQT11I/Xay_WAx3ycI/AAAAAAAAAjo/omYCKR_Id4sApuUalehz7TmuKYUTgDavwCLcBGAsYHQ/s200/10.png",ARG-Garage TV (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1531
+#EXTINF:-1 group-title="ARGENTINA",ARG-LN (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153864
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-GKPfx1rugzI/X2QIJbpPN8I/AAAAAAAABWo/XXuxc9Ycoz8z4BKk2qNP0LkHVKTvDX9ZgCLcBGAsYHQ/w200-h200/34%2BLN%2BARG.png",ARG-LN+ (TV)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22115
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png",ARG-Telefe (e)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153673
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png",ARG-Telefe (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153933
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png",ARG-Telefe (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22121
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png",ARG-Telefe (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/101841
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png",ARG-Telefe (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/116201
 #EXTINF:-1 group-title="ARGENTINA",ARG-Telefe Internacional (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153865
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-b5EaQpQreyA/X2QIHSdvIvI/AAAAAAAABWY/FKJdXlw90A8mN132DcKaoO3Hi7Yv1z5LQCLcBGAsYHQ/w200-h200/30%2BTelemax.png",ARG-Telemax (TV)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22122
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-6jXNBd6g0bc/X2QIDcTZTSI/AAAAAAAABV4/HQ-Jxwd3OhsI6LdXkUeZOU4iHwjizZrdQCLcBGAsYHQ/w200-h200/22%2BTodo%2Bnoticia.png",ARG-TN (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22124
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-NlVUFpRAN1I/X2QIL1NCoaI/AAAAAAAABW8/YUkz7Y0eSY8nXv8XwY88nBSfgcltHwZ2QCLcBGAsYHQ/w200-h200/39%2BTNT%2BSport.png",ARG-TNT Sports (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166822
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-NlVUFpRAN1I/X2QIL1NCoaI/AAAAAAAABW8/YUkz7Y0eSY8nXv8XwY88nBSfgcltHwZ2QCLcBGAsYHQ/w200-h200/39%2BTNT%2BSport.png",ARG-TNT Sports (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166823
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-NlVUFpRAN1I/X2QIL1NCoaI/AAAAAAAABW8/YUkz7Y0eSY8nXv8XwY88nBSfgcltHwZ2QCLcBGAsYHQ/w200-h200/39%2BTNT%2BSport.png",ARG-TNT Sports (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153802
+#EXTINF:-1 group-title="ARGENTINA",ARG-TV Publica (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153866
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-Xi_N5VVuGKk/X2QH72MNWpI/AAAAAAAABUo/zHNNc_LLBYIXdiFGe94-Wlz8W8ku9L-JACLcBGAsYHQ/w200-h200/02%2BTv%2Bpublica.png",ARG-TV Publica (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22125
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-Xi_N5VVuGKk/X2QH72MNWpI/AAAAAAAABUo/zHNNc_LLBYIXdiFGe94-Wlz8W8ku9L-JACLcBGAsYHQ/w200-h200/02%2BTv%2Bpublica.png",ARG-TV Publica (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/116203
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-Tpkec48hjwA/X2QIG6J2HRI/AAAAAAAABWU/yKzkfxy1A4UwmBhd3arRzEma8UKwxryYQCLcBGAsYHQ/w200-h200/29%2BTv%2B5%2BARG.png",ARG-TV5 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22126
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-lcreQH1BJI0/X2QH7y5OpVI/AAAAAAAABUk/6jct1Z5XISc_LMH1opW8Hd4TIVK8sskUQCLcBGAsYHQ/w200-h200/01%2BTyc%2Bsports.png",ARG-TYC Sports Local (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22127
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-lcreQH1BJI0/X2QH7y5OpVI/AAAAAAAABUk/6jct1Z5XISc_LMH1opW8Hd4TIVK8sskUQCLcBGAsYHQ/w200-h200/01%2BTyc%2Bsports.png",ARG-TyC Sports Local (L)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59813
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-hK7dPTyre0Y/X2QID2W4DOI/AAAAAAAABV8/Ns9rVmt8zRgGlWt1QTBMTJKz9qG3C6_wACLcBGAsYHQ/w200-h200/23%2BVolver.png",ARG-Volver (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22128
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://lh3.googleusercontent.com/-M8M7AhMwcoA/YmxPOgzzVeI/AAAAAAAADjM/6dHNpd8IDKsLWLgy14F1p5kUo0-G2HTNQCNcBGAsYHQ/w200-h200/1651265337043138-16.png",BOL-ATB (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153974
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://lh3.googleusercontent.com/-pWIsodS9BMc/YmxPOAVvj7I/AAAAAAAADjI/JoqN2KTles4icHl4y9oFV-ilmeLUlqt7wCNcBGAsYHQ/w200-h200/1651265334987545-17.png",BOL-Bolivia TV (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153973
+#EXTINF:-1 group-title="BOLIVIA",BOL-Bolivision (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3751
 #EXTINF:-1 group-title="BOLIVIA",BOL-Tigo Sports 1 (C)(720)(M)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3750
+#EXTINF:-1 group-title="BOLIVIA",BOL-Tigo Sports 3 (SD)(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3745
+#EXTINF:-1 group-title="BRASIL",BRA-Espn (720)(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/9409
+#EXTINF:-1 group-title="BRASIL",BRA-Espn 2 (720)(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/9406
+#EXTINF:-1 group-title="BRASIL",BRA-Espn Brasil (720)(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/9417
+#EXTINF:-1 group-title="BRASIL",BRA-Fox Sports 2 (720)(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/9410
+#EXTINF:-1 group-title="BRASIL",BRA-SporTV (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/9413
+#EXTINF:-1 group-title="BRASIL",BRA-SporTV 2 (720)(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/9411
+#EXTINF:-1 group-title="BRASIL",BRA-SporTV 3 (720)(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/9412
+#EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-6tQjdX3egVE/X1BUs8EdjII/AAAAAAAA5MI/MQ4mGLIIwF4MiheZiu3zQxUPWnQ1NdnlwCK8BGAsYHg/s0/2020-09-02.jpg",Canal Dios Te Ve | HN
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269291
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-BAGm0_jccnk/Xpz6lms-rHI/AAAAAAAAyBk/Mbk9tiXSZPMBkW90NGR8LEG7OR1mmb2sQCK8BGAsYHg/s0/2020-04-19.png",Canal ISB | CL
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269292
-#EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i2.paste.pics/fabed3217697cbd31cbd240376b2dfdb.png",Casa Sobre La Roca TV | CL
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269293
+#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://1.bp.blogspot.com/-E0Bu_ujg8z8/YL6TMO4MgCI/AAAAAAAACRg/lhuATNDPGIECKhCzGsMy4DA9peIgiwLqgCLcBGAsYHQ/w200-h200/IMG_20210607_162403.png",CAN-City (1080)(C)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3676
+#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://1.bp.blogspot.com/-OQy2Fb7B7sI/YL6S6qFyBcI/AAAAAAAACPM/LGtvYxN6d9MVezP2ijDFrr-XNErgPcH5wCLcBGAsYHQ/w200-h200/IMG_20210607_160308.png",CAN-CP24 (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119559
+#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png",CAN-E! Entertainment (720)(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3685
+#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://1.bp.blogspot.com/-pzpeM4aZub8/YL6TIrC169I/AAAAAAAACRE/ilPsZXFAKy8Sqfcq68vmlSBTyVS14ta6gCLcBGAsYHQ/w200-h200/IMG_20210607_162105.png",CAN-FX (1080)(TV)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3688
+#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://1.bp.blogspot.com/-yCmMtSCBBOc/YL6S8vmoqII/AAAAAAAACPk/zJiQqDL4SKknu9dZXFq0ecib-kc0-oFDwCLcBGAsYHQ/w200-h200/IMG_20210607_160607.png",CAN-Golf (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119367
+#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://1.bp.blogspot.com/-MGEzl_PYUFo/YL6THsI8VCI/AAAAAAAACQ8/5U1FmVc9uukA1KIHHa3D7Mkzwn6EZ60lQCLcBGAsYHQ/w200-h200/IMG_20210607_161955.png",CAN-HBO 1 (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3692
+#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://1.bp.blogspot.com/-gwp34LAnVPI/YL6TGLuI6LI/AAAAAAAACQw/zYm7LzCDqUs8B6AykafSpnppwS_a9EWmwCLcBGAsYHQ/w200-h200/IMG_20210607_161715.png",CAN-NTV News (720)(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3696
+#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://lh3.googleusercontent.com/-oT-9bQ4GBMk/YmxPFIfV8DI/AAAAAAAADiU/wa8Uifrhy-A94FH3pH-eRLYvk9GVR71lACNcBGAsYHQ/w200-h200/1651265299504050-30.png",CAN-Sportsnet EAST (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153955
+#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://lh3.googleusercontent.com/-eZdUxibz_bY/YmxPGgdZoJI/AAAAAAAADic/kErYoqgQfMkrWyUqL-MFsVzu8EJBxpB5wCNcBGAsYHQ/w200-h200/1651265304293325-28.png",CAN-Sportsnet Ontario (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153956
+#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://lh3.googleusercontent.com/-4aiHaCaxdCg/YmxPF4g_w8I/AAAAAAAADiY/SgTTekV3YFUh276eLFrGefadhq5bVBqCACNcBGAsYHQ/w200-h200/1651265301571851-29.png",CAN-Sportsnet Pacific (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153957
+#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://1.bp.blogspot.com/-ROsr5NRJmd0/YL6S8DITTKI/AAAAAAAACPg/KjOm5KB3BPQbnj1Q223g2e9mygwnq2QuACLcBGAsYHQ/w200-h200/IMG_20210607_160540.png",CAN-TSN 1 (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119368
+#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://1.bp.blogspot.com/-5iqm0go37HQ/YL6S7uF7MOI/AAAAAAAACPc/FmhYeCuIYL8vrOI6229BP_Hy1ChE5kD3wCLcBGAsYHQ/w200-h200/IMG_20210607_160512.png",CAN-TSN 2 (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119369
+#EXTINF:-1 group-title="CANADA PREMIUM" tvg-logo="https://1.bp.blogspot.com/-qGI1ccy3eto/YL6S9F2NOBI/AAAAAAAACPo/c5rKnBBEKqMeMOMhbwP6coZ2NFs6mzdnwCLcBGAsYHQ/w200-h200/IMG_20210607_160727.png",CAN-TVA Sports 1 (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119366
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-q3LsPocPUvA/Xajpuil_n6I/AAAAAAAAASo/pOK1mbX7lnA3mbqN-qqdVSNbx6ea33PEgCLcBGAsYHQ/s200/15.png",CHI-24 Horas (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/31527
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-q3LsPocPUvA/Xajpuil_n6I/AAAAAAAAASo/pOK1mbX7lnA3mbqN-qqdVSNbx6ea33PEgCLcBGAsYHQ/s200/15.png",CHI-24 Horas (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3206
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-q3LsPocPUvA/Xajpuil_n6I/AAAAAAAAASo/pOK1mbX7lnA3mbqN-qqdVSNbx6ea33PEgCLcBGAsYHQ/s200/15.png",CHI-24 Horas (X)(1080)
@@ -597,6 +731,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1773
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1776
 #EXTINF:-1 group-title="CHILE [GEO BLOQUEO]" tvg-logo="https://1.bp.blogspot.com/-qBWRMYeiP0o/XavSKAzLEuI/AAAAAAAAAjQ/3aPtNZY1580ZkMbVQgCnVyAOxmU8tsnWwCLcBGAsYHQ/s200/42.png",CHI-Camara de diputados(GEO)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1798
+#EXTINF:-1 group-title="CHILE",CHI-Canal 13 (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153867
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png",CHI-Canal 13 (L)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/218477
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png",CHI-Canal 13 (TV)(SD)
@@ -611,8 +747,14 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1015
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/2751
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png",CHI-Canal 13c (L)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/218476
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-KWICGOwxJ0c/XajpxZqpW4I/AAAAAAAAATM/wLSjZ_y0yNsiRbTEd3ZrGvOS_NgHjicAgCLcBGAsYHQ/s200/8.png",CHI-Canal 13c (X)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3196
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png",CHI-CDO (C)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3201
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png",CHI-Cdo Premium (e)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/992
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png",CHI-CDO Premium (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/180308
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png",CHI-Cdo Premium (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/993
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png",CHI-CDO Premium (L)(720)
@@ -621,30 +763,80 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/994
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/2748
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png",CHI-Chilevision (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/140901
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-1MYo2aoLlTg/XdIRAtMZA4I/AAAAAAAAA2M/2vPXTAlEaf4uuLj4AMSo37JfShkRdtzrgCLcBGAsYHQ/s200/44.png",CHI-CNN CL (C)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/31521
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png",CHI-Chilevision (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153871
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png",CHI-Chilevision (L)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1013
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-aKKnE5zelf0/XajpwuQbiiI/AAAAAAAAATA/5f4gU1aoAV8DeFtUKrBem58nsrj8P8HHQCLcBGAsYHQ/s200/5.png",CHI-Chilevision (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1011
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",CHI-Espn 1 (e)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1001
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",CHI-Espn 1 (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1002
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",CHI-Espn 1 (L)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1003
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png",CHI-Espn 2 (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/31524
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png",CHI-Espn 2 (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/31523
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-55md5tUhHKE/YAXPUUmrNfI/AAAAAAAACC0/gooQ2-PdM6E-lB_HvnBNSlMV8Dv6sBKZACLcBGAsYHQ/w200-h200/Estadio%2Btnt%2Bsports%2BChile%2Bvisi%25C3%25B3n.png",CHI-Estadio TNT Sports (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153872
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-08UXr5rCW5A/XajpxIJ8MZI/AAAAAAAAATI/wUGS1sufclQdgaVE0-Smam8E_LHIwD6RQCLcBGAsYHQ/s200/7.png",CHI-ETC (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1027
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-08UXr5rCW5A/XajpxIJ8MZI/AAAAAAAAATI/wUGS1sufclQdgaVE0-Smam8E_LHIwD6RQCLcBGAsYHQ/s200/7.png",CHI-ETC TV (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153873
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png",CHI-Fox Sports 1  Chile (L)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/218484
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png",CHI-Fox Sports 1 (e)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/998
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png",CHI-Fox Sports 1 (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/136230
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png",CHI-Fox Sports 1 (e)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1000
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-HGq7a6Cg1qA/XajpshDNjUI/AAAAAAAAASQ/jP319jFgSyI-F1U-VFhe0ooc7RY_Mkn2ACLcBGAsYHQ/s200/10.png",CHI-Fox Sports 1 (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63080
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png",CHI-Fox Sports 2 (L)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1021
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png",CHI-Fox Sports 2 (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1020
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png",CHI-Fox Sports 2 (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63081
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png",CHI-Fox Sports 3 Chile (L)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/218486
+#EXTINF:-1 group-title="CHILE",CHI-La Red (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153874
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-SUSMLk6Nd9s/XajptfrmHrI/AAAAAAAAASc/lEEtobK_kGkKh2qqZO3G-eguobRQWKUJwCLcBGAsYHQ/s200/12.png",CHI-La Red TV (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/995
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-SUSMLk6Nd9s/XajptfrmHrI/AAAAAAAAASc/lEEtobK_kGkKh2qqZO3G-eguobRQWKUJwCLcBGAsYHQ/s200/12.png",CHI-LA Red TV (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/996
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-SUSMLk6Nd9s/XajptfrmHrI/AAAAAAAAASc/lEEtobK_kGkKh2qqZO3G-eguobRQWKUJwCLcBGAsYHQ/s200/12.png",CHI-La Red TV (TV)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144600
+#EXTINF:-1 group-title="CHILE",CHI-Mega (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153875
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-AUWZ0lqvHw4/XajpwcGPL2I/AAAAAAAAAS8/2mLLh5UN2FYLtwIFNcr2bd6LpqZxOcrJACLcBGAsYHQ/s200/4.png",CHI-Mega (TV)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1008
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-AUWZ0lqvHw4/XajpwcGPL2I/AAAAAAAAAS8/2mLLh5UN2FYLtwIFNcr2bd6LpqZxOcrJACLcBGAsYHQ/s200/4.png",CHI-Mega (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1009
 #EXTINF:-1 group-title="CHILE [GEO BLOQUEO]" tvg-logo="https://1.bp.blogspot.com/-SywCHT27A04/XatePpwAw-I/AAAAAAAAAds/-rU6a8vlqE82FilmxpaIdsGkY3YmMsP7ACLcBGAsYHQ/s200/23.png",CHI-Mega plus(GEO)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1757
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-VnhcSgVNqHA/XajpvSSZDDI/AAAAAAAAASw/KNnn79rkN0U_5ZR2jU5MIHsbZgyyDegUQCLcBGAsYHQ/s200/17.png",CHI-PPV 1 (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1007
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-4w0EVwwvHq8/YAXD862xJ3I/AAAAAAAACCg/HB83nZ9TsNsjYKJeRGrE8r-U2uWT72pXACLcBGAsYHQ/w200-h200/Tnt%2Bsport%2BChile%2B1.png",CHI-TNT Sports (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/121702
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-38KmmhBB7Ek/YASHazfjqXI/AAAAAAAACCQ/x8nVdlFHbocfjscRIR-LlRGRD6pkH-iXwCLcBGAsYHQ/w200-h200/tnt%2Bs.png",CHI-TNT Sports (e)(1080)(60FPS)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69971
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-4w0EVwwvHq8/YAXD862xJ3I/AAAAAAAACCg/HB83nZ9TsNsjYKJeRGrE8r-U2uWT72pXACLcBGAsYHQ/w200-h200/Tnt%2Bsport%2BChile%2B1.png",CHI-TNT Sports (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1025
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-4w0EVwwvHq8/YAXD862xJ3I/AAAAAAAACCg/HB83nZ9TsNsjYKJeRGrE8r-U2uWT72pXACLcBGAsYHQ/w200-h200/Tnt%2Bsport%2BChile%2B1.png",CHI-TNT Sports (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1026
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-38KmmhBB7Ek/YASHazfjqXI/AAAAAAAACCQ/x8nVdlFHbocfjscRIR-LlRGRD6pkH-iXwCLcBGAsYHQ/w200-h200/tnt%2Bs.png",CHI-TNT Sports 1 (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153869
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-38KmmhBB7Ek/YASHazfjqXI/AAAAAAAACCQ/x8nVdlFHbocfjscRIR-LlRGRD6pkH-iXwCLcBGAsYHQ/w200-h200/tnt%2Bs.png",CHI-TNT Sports 2 (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153868
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-4w0EVwwvHq8/YAXD862xJ3I/AAAAAAAACCg/HB83nZ9TsNsjYKJeRGrE8r-U2uWT72pXACLcBGAsYHQ/w200-h200/Tnt%2Bsport%2BChile%2B1.png",CHI-TNT Sports 2 (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/140906
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-4w0EVwwvHq8/YAXD862xJ3I/AAAAAAAACCg/HB83nZ9TsNsjYKJeRGrE8r-U2uWT72pXACLcBGAsYHQ/w200-h200/Tnt%2Bsport%2BChile%2B1.png",CHI-TNT Sports 2 Chile (L)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/218489
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-38KmmhBB7Ek/YASHazfjqXI/AAAAAAAACCQ/x8nVdlFHbocfjscRIR-LlRGRD6pkH-iXwCLcBGAsYHQ/w200-h200/tnt%2Bs.png",CHI-TNT Sports 3 (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/140909
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-38KmmhBB7Ek/YASHazfjqXI/AAAAAAAACCQ/x8nVdlFHbocfjscRIR-LlRGRD6pkH-iXwCLcBGAsYHQ/w200-h200/tnt%2Bs.png",CHI-TNT Sports 3 Chile (L)(720)
@@ -655,6 +847,12 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1799
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69931
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-wk9aj76dkuM/XajpxUSsJoI/AAAAAAAAATQ/aWvKWEaQGts9yYJ5nt0UuBRpN4yd_T_fACLcBGAsYHQ/s200/9.png",CHI-TV+ (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69932
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-wk9aj76dkuM/XajpxUSsJoI/AAAAAAAAATQ/aWvKWEaQGts9yYJ5nt0UuBRpN4yd_T_fACLcBGAsYHQ/s200/9.png",CHI-TV+ (L)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69933
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-0MX8CrqCS_Q/XajpwmY8XSI/AAAAAAAAATE/DjSc2WVCh9cxoTOZVi9CxkRUA8LZq0OSwCLcBGAsYHQ/s200/6.png",CHI-TVN (L)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/218488
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-0MX8CrqCS_Q/XajpwmY8XSI/AAAAAAAAATE/DjSc2WVCh9cxoTOZVi9CxkRUA8LZq0OSwCLcBGAsYHQ/s200/6.png",CHI-TVN (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/36500
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-0MX8CrqCS_Q/XajpwmY8XSI/AAAAAAAAATE/DjSc2WVCh9cxoTOZVi9CxkRUA8LZq0OSwCLcBGAsYHQ/s200/6.png",CHI-TVN (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1018
 #EXTINF:-1 group-title="CHILE [GEO BLOQUEO]" tvg-logo="https://1.bp.blogspot.com/-MlDIbcpVWxI/XavNg8r1nZI/AAAAAAAAAio/P1r2CiKdN8063yRgB774GxdHIM8aVQjnQCLcBGAsYHQ/s200/41.png",CHI-TVU Concepcion(GEO)
@@ -669,6 +867,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119339
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26925
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png",CINE - A&E (M)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26749
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-nYXXZBWn3K8/Xbf03udfliI/AAAAAAAAAuQ/TbR_EaUFPp4owroSxx09nXC7CHvvW1q0ACLcBGAsYHQ/s200/58.png",CINE - A3 Series (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26906
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png",CINE - AMC (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/116476
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png",CINE - AMC (M)(720)
@@ -677,16 +877,18 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26931
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26744
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png",CINE - AXN (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26922
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png",CINE - AXN (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26761
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png",CINE - AXN (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119331
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-3-EvoMrQo-M/XaokZPxvp-I/AAAAAAAAAV8/wiPsHTnn5TQPaAOxfW6h00GSoQA1UvGgwCLcBGAsYHQ/s200/17.png",CINE - Cine Latino (C)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1926
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png",CINE - CineCanal (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1927
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png",CINE - Cinecanal (M)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26753
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png",CINE - CineCanal (PM)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26903
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png",CINE - Cinemax (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1444
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png",CINE - Cinemax (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26743
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7.png",CINE - Comedy Central (M)(1080)
@@ -699,10 +901,24 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26754
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1448
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-jqswxQ6niNw/YChCZHEINWI/AAAAAAAACD0/AP2Iw0dAfhEiheh8q_6hBRLBRF724MLYQCLcBGAsYHQ/w200-h200/DP%2BCLASSICO.png",CINE - De Pelicula Clasico (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69583
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png",CINE - De Pelicula Plus (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1449
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png",CINE - De Pelicula Plus (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1450
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png",CINE - Distrito Comedia (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26923
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png",CINE - Distrito Comedia (M)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1451
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png",CINE - E! (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26913
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png",CINE - E! (PM)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1880
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-CBdE6D49lec/XdtQjO47pYI/AAAAAAAAA3M/6wPiW4palq8OIODpugRUzyKO4LHK6Kl1wCLcBGAsYHQ/s200/21.png",CINE - El Gourmet (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26928
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-hp_TVEc208E/Xg-BsZUcaKI/AAAAAAAAA48/eXROhRPKdKop12SD74yIK-zUaK-OZr_tACLcBGAsYHQ/s200/64.png",CINE - Europa Europa (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26755
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-0Ey1X4aOpGY/Xg-Cjv2sU3I/AAAAAAAAA5E/Dt5jR8PGYFY7JZ-at0mMfzEjV9MNqaRvwCLcBGAsYHQ/s200/65.png",CINE - Film And Arts (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26745
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-7LnO12UdM74/XkOMWms5SLI/AAAAAAAABWw/1_TuyGdHKgUvadJu2umfY-JB3zGZvdzqQCLcBGAsYHQ/s200/68.png",CINE - Food Network (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26909
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-7LnO12UdM74/XkOMWms5SLI/AAAAAAAABWw/1_TuyGdHKgUvadJu2umfY-JB3zGZvdzqQCLcBGAsYHQ/s200/68.png",CINE - Food Network (M)(SD)
@@ -717,22 +933,30 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119334
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1473
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png",CINE - Golden Edge (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1478
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png",CINE - Golden Plus (M)(1080) [Dual Audio]
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1476
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png",CINE - Golden Plus (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1477
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png",CINE - Golden Premiere (M)(1080) [Dual Audio]
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1474
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png",CINE - Golden Premiere 2 (PM)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69893
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png",CINE - HBO (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1040
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png",CINE - HBO (e)(SD)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1041
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png",CINE - HBO (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/141189
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png",CINE - HBO (PM)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1039
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png",CINE - HBO 2 (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1031
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png",CINE - HBO 2 (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/52876
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png",CINE - HBO 2 (PM)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1030
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png",CINE - HBO 2 (PM)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1913
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png",CINE - HBO Family (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1035
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png",CINE - HBO Family (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1034
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png",CINE - HBO Family (PM)(1080)
@@ -749,14 +973,20 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1434
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/5340
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png",CINE - HBO Plus (PM)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1912
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png",CINE - HBO POP (M)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1479
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png",CINE - HBO POP (PM)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1911
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png",CINE - HBO Signature (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/52879
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png",CINE - HBO Signature (M)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53240
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png",CINE - HBO Xtreme (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1481
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png",CINE - HBO Xtreme (PM)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1910
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png",CINE - HBO Xtreme (X)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1482
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-RG0qBmZsSKA/XbfvxD0TeDI/AAAAAAAAAtY/cYZhffEHTbcbie0w_IMG2sgSAyqs80zPACLcBGAsYHQ/s200/56.png",CINE - I.Sat (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26752
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-iMAi_8FJwwQ/XatGmhKYmbI/AAAAAAAAAbQ/0z9DR3Ur5KYfsAzeHVCogx2jNUubeChrACLcBGAsYHQ/s200/37.png",CINE - Lifetime (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26914
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO",CINE - Panico MEX (TV)(720)
@@ -767,6 +997,12 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1486
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1485
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-hN1LIpeBxmo/XatGnSfXE2I/AAAAAAAAAbY/oEcqLYx31rQATVggy6N5l3sK2D6BMQ1MgCLcBGAsYHQ/s200/40.png",CINE - Paramount Channel (PM)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1916
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-mG7vQuKLEC4/XxCHEaiEw4I/AAAAAAAAAbc/NsNV_7U6HTM_EvD-B2U4s9cRh6aTKzlIgCLcBGAsYHQ/w200-h200/Showtime%2BEast.png",CINE - Showtime East Dual (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53245
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-1CyRY6HMjJE/XxCHEUy_trI/AAAAAAAAAbg/g0eCuMarEbA_5d3m7g468QjwKuXA91EjgCLcBGAsYHQ/w200-h200/Showtime%2BWEST.png",CINE - Showtime West Dual (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53243
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png",CINE - Sony Channel (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26910
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png",CINE - Sony Channel (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1487
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png",CINE - Sony Channel (PM)(720)
@@ -783,6 +1019,12 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154352
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/74409
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png",CINE - Space (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/74410
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png",CINE - Space (X)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26759
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png",CINE - Space MX (TV)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26904
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png",CINE - STAR Channel (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26901
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png",CINE - STAR Channel (M)(1080) [Dual Audio]
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1454
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-yvtMpSceSWI/Yf9U8n6XN7I/AAAAAAAADGQ/HQ7NWPvhrwkmM8sQxwUZ3kRyu1u0iyIOgCNcBGAsYHQ/w200-h200/1644123375803213-1.png",CINE - STAR Channel (M)(SD)
@@ -791,6 +1033,16 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26758
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1920
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Ru5-dc21HTI/Xmvz5ztZLnI/AAAAAAAABZs/25I5OIJh_tEoTM5rCvQfFtj83-GqrI_fwCLcBGAsYHQ/s200/71.png",CINE - Star TVE (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26911
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png",CINE - Starz (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1930
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-2-P-SFuIkVg/Yf9U87XfmbI/AAAAAAAADGU/dR2s6hvETdM_UMHM9Uf1WMwzni5_nNLzwCNcBGAsYHQ/w200-h200/1644123377530154-0.png",CINE - STARZ Edge (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26751
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-2-P-SFuIkVg/Yf9U87XfmbI/AAAAAAAADGU/dR2s6hvETdM_UMHM9Uf1WMwzni5_nNLzwCNcBGAsYHQ/w200-h200/1644123377530154-0.png",CINE - STARZ Encore Suspenso (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26918
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png",CINE - Starz Family (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/29664
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Mm4RcdZlydc/XatpNZ2eSDI/AAAAAAAAAek/B1kOZW_TEv0GakL-m6tUYEmi592FBiSEQCLcBGAsYHQ/s200/52.png",CINE - Studio Universal (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1495
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Mm4RcdZlydc/XatpNZ2eSDI/AAAAAAAAAek/B1kOZW_TEv0GakL-m6tUYEmi592FBiSEQCLcBGAsYHQ/s200/52.png",CINE - Studio Universal (PM)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1925
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-Mm4RcdZlydc/XatpNZ2eSDI/AAAAAAAAAek/B1kOZW_TEv0GakL-m6tUYEmi592FBiSEQCLcBGAsYHQ/s200/52.png",CINE - Studio Universal S (M)(1080)
@@ -805,6 +1057,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1907
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1499
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-wMzLh7XtNXQ/XaqajETYhtI/AAAAAAAAAZM/PSGrPhF2qbMiqH0jLk_-dY-A3yehkNxkwCLcBGAsYHQ/s200/27.png",CINE - TBS Very Funny (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1501
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-I0it6XRRNxo/XdtVtXF2xPI/AAAAAAAAA30/Cb3ZdzakgygMU2_98viDf2CFqek_sQRTACLcBGAsYHQ/s200/24.png",CINE - TCM (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26756
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png",CINE - TNT (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26926
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png",CINE - TNT (M)(720)
@@ -823,6 +1077,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26907
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1504
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png",CINE - TNT Series (PM)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1042
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png",CINE - TNT Series COL (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119337
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png",CINE - Universal Channel (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26908
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png",CINE - Universal Channel (M)(SD)
@@ -837,6 +1093,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144835
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153306
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png",CINE - Universal Crime (L)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144836
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png",CINE - Universal Crime (M)(1080) [Dual Audio]
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1466
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png",CINE - Universal Premier (M)(1080) [Dual Audio]
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26738
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png",CINE - Universal Premier (M)(720)
@@ -847,6 +1105,12 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144838
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144837
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png",CINE - Universal Reality (L)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/65437
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png",CINE - Universal Reality (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1460
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png",CINE - Warner Channel (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1515
+#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png",CINE - Warner Channel (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1516
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png",CINE - Warner Channel MEX (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119338
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-eewIYgEehoo/Xmv1VpJFO8I/AAAAAAAABZ4/BPjBSNwzMQQW68jCaM2IoppQQe4HWATJgCLcBGAsYHQ/s200/72.png",CINE - Wobi TV TV)(1080)
@@ -855,8 +1119,12 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26900
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1458
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png",CINE -HBO Xtreme (PM)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1908
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-6qBWy0B-kzM/X3IdKD9-cLI/AAAAAAAABho/-WepO7Ffbrko7C08koMU5s-jbvyazbVyACLcBGAsYHQ/w200-h200/Cable%2BNoticias%2Bcolombia.png",COL-Cable Noticias (TV)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59845
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-Lkjw87pS4Us/X3Ia7IrKrFI/AAAAAAAABhQ/Yi5wpZOdOR4Q4jXrbsrH6mOw8CwztMwpQCLcBGAsYHQ/w200-h200/Canal%2B1.png",COL-Canal Uno (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59846
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-Lkjw87pS4Us/X3Ia7IrKrFI/AAAAAAAABhQ/Yi5wpZOdOR4Q4jXrbsrH6mOw8CwztMwpQCLcBGAsYHQ/w200-h200/Canal%2B1.png",COL-Canal Uno (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/118350
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png",COL-Caracol (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/118351
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png",COL-Caracol (M) (SD)
@@ -867,12 +1135,24 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59848
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59847
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png",COL-Caracol (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/115772
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://lh3.googleusercontent.com/-HUN-e9hEmeo/YmxO22fDzlI/AAAAAAAADg4/ae3ybD14OHEIXlsudK8_b2sIh5fttNcXgCNcBGAsYHQ/w200-h200/1651265242427735-53.png",COL-Caracol 2 (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153307
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-ZPyxVnk8WeA/XbDQumlWx4I/AAAAAAAAAoQ/8lE0ENHHPykGNXyTS0aOpSAwEi9GZFckACLcBGAsYHQ/s200/10.png",COL-Caracol Internacional (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53535
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-Ku1Pv3IrW7o/X3IubH8boTI/AAAAAAAABkE/BvFiBQ437MIEhnL5M4Z7l61HtGX9e7QdwCLcBGAsYHQ/w200-h200/City%2Btv.png",COL-City TV (C)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/118369
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png",COL-Claro Sports (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22142
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png",COL-Directv Sports (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154283
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png",COL-Directv Sports + (TV)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154284
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-dgEzsx4CnZ0/X3JEMbsOJvI/AAAAAAAABk4/PPbEgQ4Dip8Lcw2VCq64vg8xgw0mPYXhACLcBGAsYHQ/w200-h200/Ntnt24.png",COL-NTN 24 (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/118365
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://cdn.resfu.com/img_data/competiciones/logo/846.png",COL-PPV 1 EVENTOS 1 (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/178018
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://cdn.resfu.com/img_data/competiciones/logo/846.png",COL-PPV 2 EVENTOS 2 (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/178019
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png",COL-RCN (SD) (M)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22135
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png",COL-RCN (TV)(1080)
@@ -883,10 +1163,32 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22137
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/118353
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png",COL-RCN Internacional (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/118354
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-nlUknDNIXlU/XbDQwgY043I/AAAAAAAAAog/FKt_hvgE8sIwouXT_hpmxcCIoIZAS5jJACLcBGAsYHQ/s200/15.png",COL-RCN Novelas (C)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22133
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-nlUknDNIXlU/XbDQwgY043I/AAAAAAAAAog/FKt_hvgE8sIwouXT_hpmxcCIoIZAS5jJACLcBGAsYHQ/s200/15.png",COL-RCN Novelas (TV)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59854
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-D_fKGhbIo0A/XjbsMVuamQI/AAAAAAAAA_Q/ZOGFVYBo_DkSXZuXr4RPRnfw3HVVcz7hQCLcBGAsYHQ/s200/28.png",COL-RCN Nuestra Tele (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22134
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-A844AbOBuTo/X3IscaXacMI/AAAAAAAABjg/BagchfpTOu4qZ_vk7UBpeIxTkRWVE_xRACLcBGAsYHQ/w200-h200/Se%25C3%25B1al%2BColombia.png",COL-Señal Colombia (X)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/118372
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-w5pYQM0YFcM/YJIS5tiWBqI/AAAAAAAACJ4/I9WLhqQ-Z1cmiBaPuMhlZVsqx9i-w9s3wCLcBGAsYHQ/w200-h200/TeleAntioquia.png",COL-TeleAntioquia (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/118356
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-uymnve3YKYY/XbDQx_IKbGI/AAAAAAAAAow/jW5B9EBjV3c8Rt0i87QJcl-dSK5uOhU-QCLcBGAsYHQ/s200/19.png",COL-TeleCafe (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/5359
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-3W2BTrQegdw/XbDQyjKTBJI/AAAAAAAAAo8/62RahsE9FbwAzQ4XRGv3-5V6Ov163gKHACLcBGAsYHQ/s200/21.png",COL-Telemedellin (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/118358
+#EXTINF:-1 group-title="COLOMBIA",COL-TeleMusica (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/118371
+#EXTINF:-1 group-title="COLOMBIA",COL-Telepacifico (X)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/118410
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-QFD7HnsLCKs/X3Irz_DnKfI/AAAAAAAABjY/bqXo7qn-MmkSIx4pMnWUZr_pJ5bUV7aPgCLcBGAsYHQ/w200-h200/Tv%2Bagro.png",COL-TV Agro (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/118373
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png",COL-Winsport + (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59855
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png",COL-WinSports (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3419
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png",COL-WinSports (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3420
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png",COL-Winsports (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59856
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png",COL-WinSports + (C)(720)
@@ -895,16 +1197,20 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/23130
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/23129
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png",COL-WinSports + (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144406
+#EXTINF:-1 group-title="COSTARICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaXOlZTH0EHtoW-Hk1rZ3UdBqXAGoL4OkmYg&usqp=CAU",CR-Canal 13 (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153878
 #EXTINF:-1 group-title="COSTARICA" tvg-logo="http://l3d.us:8080/images/879ee15abcc5ae31125df0d901af9f4c.png",CR-Canal 14 Tv Sur (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153879
+#EXTINF:-1 group-title="COSTARICA" tvg-logo="http://l3d.us:8080/images/094a9922d278b8304ad101e1c849dfa9.png",CR-Extrema TV (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153880
 #EXTINF:-1 group-title="COSTARICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThA6HkKqYo0jMnPwMXsu5Uyt88GNrmExQ8QQ&usqp=CAU",CR-FUTV (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153877
+#EXTINF:-1 group-title="COSTARICA",CR-FUTV (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/107221
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-CVm245eZ890/YE6U9N6yZSI/AAAAAAABAuE/9Auajk4UAtM5WfqNd3bWvPawI9cGHvc2ACK8BGAsYHg/s512/2021-03-14.png",Cristiana TV | ES
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269297
 #EXTINF:-1 group-title="COSTARICA" tvg-logo="http://tv.dominiotv.xyz:25461/images/0bc75b556f89ef4e9bfb7eb45eb61b56.png",CR-Repretel 11 (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153885
-#EXTINF:-1 group-title="COSTARICA" tvg-logo="http://tv.dominiotv.xyz:25461/images/f12c62586d76e81cd752c577905bff2a.png",CR-Repretel 4 (TV)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153886
 #EXTINF:-1 group-title="COSTARICA" tvg-logo="http://tv.dominiotv.xyz:25461/images/67714a43e5c2b9b3390cea34847f9a3c.png",CR-Repretel 6 (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153887
 #EXTINF:-1 group-title="COSTARICA",CR-TD +2 (C)(720)
@@ -941,10 +1247,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153895
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/180145
 #EXTINF:-1 group-title="EVENTOS PPV MUNDIAL" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png",DAZN 2 (L)(PPV)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/180146
-#EXTINF:-1 group-title="EVENTOS PPV MUNDIAL" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png",DAZN 4 (L)(PPV)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/180148
-#EXTINF:-1 group-title="EVENTOS PPV MUNDIAL" tvg-logo="https://i.postimg.cc/0jzVdSj7/daznproyectox.png",DAZN F1 (L)(PPV)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/180149
 #EXTINF:-1 group-title="EVENTOS PPV MUNDIAL" tvg-logo="https://i.postimg.cc/0jzVdSj7/daznproyectox.png",DAZN F1 (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/115985
 #EXTINF:-1 group-title="EVENTOS PPV MUNDIAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYE97MYavHU315yefrLUnCNW4MONA7ih-8kv9lQk9dzAj8hy2dkpwjc3BpHaoOCe0B79qySNkxL9zwegtGH0YFt1LK-rACj9uLB2krpkLueJ139JBnKM4ZVYW1LIchfGjiSLjZB300ll30PM2yup6PUpT6AliCLd4TNJynDmr9n8StLZQomnbC8ZA/w200-h200/laliga.png",Dazn La Liga (L)(PPV)
@@ -993,10 +1295,10 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154271
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/959
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-f5u2OnKyA8A/XazFPWIst9I/AAAAAAAAAlU/H15BTBiKOu4UhFg3Js1-NMLwNcx_HCC9QCLcBGAsYHQ/s200/20.png",DEPORTES - Directv Sports 2 (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/4672
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-LvUS6dp9vwM/Yqp4uneH-jI/AAAAAAAADp0/LjXyQj4JDQEfHChtmDP-s3UklHIsEpTWQCNcBGAsYHQ/w200-h200/1655339191039165-0.png",DEPORTES - Directv Sports Fight (C)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154277
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-LvUS6dp9vwM/Yqp4uneH-jI/AAAAAAAADp0/LjXyQj4JDQEfHChtmDP-s3UklHIsEpTWQCNcBGAsYHQ/w200-h200/1655339191039165-0.png",DEPORTES - Directv Sports Fight (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/20143
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://dplnews.com/wp-content/uploads/2023/06/dplnews_DSports-Motor_mc9622-750x430.jpeg",DEPORTES - Directv Sports Motors (L)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/180419
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",DEPORTES - Espn 1 ARG (e)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166827
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",DEPORTES - Espn 1 ARG (e)(720)
@@ -1019,8 +1321,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1900
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1533
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png",DEPORTES - Espn 2 ARG (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/136228
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png",DEPORTES - Espn 2 ARG (e)(SD)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/969
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png",DEPORTES - Espn 2 ARG (PM)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/967
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png",DEPORTES - Espn 2 COL (C)(1080)
@@ -1057,6 +1357,12 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63211
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26810
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-Y_N3VABdVF4/Xay_YYbfoSI/AAAAAAAAAj8/D-gsleVUxQc3V27-hHor1lopCPZeORCDgCLcBGAsYHQ/s200/15.png",DEPORTES - ESPN Premium ARG (C)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1528
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png",DEPORTES - Espn Premium ARG (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154049
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png",DEPORTES - Espn Premium ARG (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154050
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-Y_N3VABdVF4/Xay_YYbfoSI/AAAAAAAAAj8/D-gsleVUxQc3V27-hHor1lopCPZeORCDgCLcBGAsYHQ/s200/15.png",DEPORTES - ESPN Premium ARG (X)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1529
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-trZC8_-fPrc/X2kBptXt-QI/AAAAAAAABZY/ebjwHb5BxW4LLF_iJltMKJ-mVQHv4gqbgCLcBGAsYHQ/w200-h200/Fight%2Bbox.png",DEPORTES - Fight BOX  (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/60375
 #EXTINF:-1 group-title="CANALES-DEPORTES",DEPORTES - Fox Deportes (C)(720)
@@ -1109,8 +1415,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69587
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26812
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png",DEPORTES - Gol TV ES (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153304
-#EXTINF:-1 group-title="CANALES-DEPORTES",DEPORTES - Gol TV Internacional (TV)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154242
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png",DEPORTES - Golf Latin America (M)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26767
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png",DEPORTES - Golf Latin MEX (M)(1080)
@@ -1119,6 +1423,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26813
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153586
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-UHbphuMzTLI/Xjb-ajdIv1I/AAAAAAAABA0/W2Dhehq7thsNNu92yKs9orPOD9LLYaddACLcBGAsYHQ/s200/34.png",DEPORTES - Tennis Channel (X)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/23132
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-NlVUFpRAN1I/X2QIL1NCoaI/AAAAAAAABW8/YUkz7Y0eSY8nXv8XwY88nBSfgcltHwZ2QCLcBGAsYHQ/w200-h200/39%2BTNT%2BSport.png",DEPORTES - TNT Sports (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166829
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-NlVUFpRAN1I/X2QIL1NCoaI/AAAAAAAABW8/YUkz7Y0eSY8nXv8XwY88nBSfgcltHwZ2QCLcBGAsYHQ/w200-h200/39%2BTNT%2BSport.png",DEPORTES - TNT Sports (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166830
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png",DEPORTES - TUDN - MEX (C)
@@ -1127,18 +1433,28 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153613
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1549
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png",DEPORTES - TUDN - MEX (TV)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117291
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png",DEPORTES - TUDN - USA (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177324
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png",DEPORTES - TUDN - USA (TV)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177323
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png",DEPORTES - TUDN - USA (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/66004
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png",DEPORTES - TUDN LAT (PM)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1871
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png",DEPORTES - TyC Sports INT (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/2076
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png",DEPORTES - TyC Sports INT(M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/27530
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-T4uG5FYIDek/XhA6fXlKRQI/AAAAAAAAA8U/xRyQIitNaVsNGYmrK2TVTPJKiCITuGGoACLcBGAsYHQ/s200/32.png",DEPORTES - UFC (720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/8918
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-Br7dLua2HYc/YkjfrZ9IdzI/AAAAAAAADd8/uFaZ9I5FrckfSZ22_0RaaH-63zhw_TpOQCNcBGAsYHQ/w200-h200/1648943020342945-0.png",DEPORTES - WWE (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153466
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-Br7dLua2HYc/YkjfrZ9IdzI/AAAAAAAADd8/uFaZ9I5FrckfSZ22_0RaaH-63zhw_TpOQCNcBGAsYHQ/w200-h200/1648943020342945-0.png",DEPORTES - WWE Op 2 (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153467
 #EXTINF:-1 group-title="CANALES-DEPORTES",DEPORTES-Fox Sports Premium MX
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/252733
+#EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i2.paste.pics/7531a8ebb710c1cab92a802384406d9a.png",Dios Te Ve Kids | HN
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269301
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://logos.xbots.com.mx/41078.png",DOC - Discovery Theater (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177631
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png",DOC-Animal Planet (e)(720)
@@ -1213,14 +1529,10 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1424
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1423
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-xSsX0Ia8wF4/XaukdVsLyAI/AAAAAAAAAfo/k34jiOUjQKYMLSGBsGCOIR2ZZTKD7tkhQCLcBGAsYHQ/s200/12.png",DOC-H2 (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1062
-#EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-xSsX0Ia8wF4/XaukdVsLyAI/AAAAAAAAAfo/k34jiOUjQKYMLSGBsGCOIR2ZZTKD7tkhQCLcBGAsYHQ/s200/12.png",DOC-H2 (e)(SD)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1063
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-xSsX0Ia8wF4/XaukdVsLyAI/AAAAAAAAAfo/k34jiOUjQKYMLSGBsGCOIR2ZZTKD7tkhQCLcBGAsYHQ/s200/12.png",DOC-H2 (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1408
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-xSsX0Ia8wF4/XaukdVsLyAI/AAAAAAAAAfo/k34jiOUjQKYMLSGBsGCOIR2ZZTKD7tkhQCLcBGAsYHQ/s200/12.png",DOC-H2 (PM)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1061
-#EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-krRxJeizvDU/XzQdUcia0SI/AAAAAAAAA0s/ouYB4v2X10EiAsYCQJ2LtajrGEBUSfaagCLcBGAsYHQ/w200-h200/112%2BHgtv.png",DOC-HGTV (TV)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1417
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://logos.xbots.com.mx/89.png",DOC-History (L)(1080) (1080p)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177629
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://logos.xbots.com.mx/41063.png",DOC-History 2 (L)(1080)
@@ -1259,10 +1571,18 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1076
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153308
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://logos.xbots.com.mx/79.png",DOC-TRU TV (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177626
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png",ECU-Canal del Futbol (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/179084
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png",ECU-Canal del Futbol (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/179085
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png",ECU-Canal Del Futbol (PM)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/65386
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png",ECU-Directv Sports (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/989
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png",ECU-Directv Sports (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/990
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png",ECU-Ecuavisa Costa (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1109
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png",ECU-Ecuavisa Costa (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1110
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png",ECU-Ecuavisa Costa (e)(SD)
@@ -1281,6 +1601,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/121626
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22153
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png",ECU-Gol TV (e)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1098
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png",ECU-Gol TV (PM)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1097
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png",ECU-Gol TV (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22160
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-zZisdj4cxaA/XjhIBJtxXHI/AAAAAAAABDw/HXpmjpAlU-YeWqNI3BywBg_whbI3N6PEACLcBGAsYHQ/s200/10.png",ECU-Oromar Tv (e)(1080)
@@ -1289,6 +1611,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1100
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1101
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-zZisdj4cxaA/XjhIBJtxXHI/AAAAAAAABDw/HXpmjpAlU-YeWqNI3BywBg_whbI3N6PEACLcBGAsYHQ/s200/10.png",ECU-Oromar TV (X)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22150
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-QeYaHCkFXCQ/X9qLYLe7oKI/AAAAAAAAB_o/lwKcEeedVmQuAIaqPr9eUdP27YLI0IJ-ACLcBGAsYHQ/w200-h200/liga%2Bpro.png",ECU-PPV 1 (PM)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/66867
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-QeYaHCkFXCQ/X9qLYLe7oKI/AAAAAAAAB_o/lwKcEeedVmQuAIaqPr9eUdP27YLI0IJ-ACLcBGAsYHQ/w200-h200/liga%2Bpro.png",ECU-PPV 2 (PM)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/66868
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png",ECU-RTS Costa (e)(1080)
@@ -1327,16 +1651,14 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269306
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117676
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://tvgolatino.com:8080/images/6be7cbfc3e262821b3c3cf041f24de5c.png",ESP - 24h (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117168
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-01Iu08DxodI/XxZrj1enWOI/AAAAAAAAAgQ/VnAGbJRScig1lpGRu6sS9IvpCwzgNgB5QCLcBGAsYHQ/w200-h200/17%2Ba3%2Bseries.png",ESP - A3Series (TV)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117229
-#EXTINF:-1 group-title="ESPAÑA",ESP - A3Series Internacional (TV)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117230
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-nqbZNAkwmuc/XxZrkj6a2HI/AAAAAAAAAgY/mbXMt5LQRxMhTeAZGxfHu8QWiJU0TLLwgCLcBGAsYHQ/w200-h200/20%2BAMC.png",ESP - AMC (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117213
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-nqbZNAkwmuc/XxZrkj6a2HI/AAAAAAAAAgY/mbXMt5LQRxMhTeAZGxfHu8QWiJU0TLLwgCLcBGAsYHQ/w200-h200/20%2BAMC.png",ESP - AMC (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117212
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-Afvn3kCU-EU/XxZrlB-6q4I/AAAAAAAAAgg/PH9UFG7JVv8N0ng2Tl_tguLePuxbsKsAgCLcBGAsYHQ/w200-h200/22%2BAntena%2B3.png",ESP - Antena 3 (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117159
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-Afvn3kCU-EU/XxZrlB-6q4I/AAAAAAAAAgg/PH9UFG7JVv8N0ng2Tl_tguLePuxbsKsAgCLcBGAsYHQ/w200-h200/22%2BAntena%2B3.png",ESP - Antena 3 (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117158
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-_SG5c5jiKmI/XyNeHmgz0wI/AAAAAAAAAnE/JCc9IsDbuUQidocx-o4AxZHdAoCIHRXsQCLcBGAsYHQ/w200-h200/84%2BAntena3int.png",ESP - Antena 3 Internacional (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117160
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-_yN6S9GwyRI/XxZrmFipxHI/AAAAAAAAAgs/UHjw8RHgXngR7aibf3eePWKK6sS6U2AWgCLcBGAsYHQ/w200-h200/25%2BAXN.png",ESP - AXN (X)(720)
@@ -1349,6 +1671,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117216
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117274
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-bm5lL9OBOEc/XxPVkmSAKzI/AAAAAAAAAew/puTWp_TAvYAQk_UwS4d7lPNUktB90PCpgCLcBGAsYHQ/w200-h200/Be%2BMad.png",ESP - BeMad (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117174
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-bm5lL9OBOEc/XxPVkmSAKzI/AAAAAAAAAew/puTWp_TAvYAQk_UwS4d7lPNUktB90PCpgCLcBGAsYHQ/w200-h200/Be%2BMad.png",ESP - BeMad (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117173
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-mrfnJ67Yz4U/XyNd_v8a9GI/AAAAAAAAAmE/jW-3HjaSjF0ReAuf5yzaWExOzB_0hCU5ACLcBGAsYHQ/w200-h200/68%2BCalle13.png",ESP - Calle 13 (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117219
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-5VrlDahw3Lo/XxZrqTRI3PI/AAAAAAAAAhM/uHQwt1eoF0cRhMLfbecA8DTgUla_pjXCgCLcBGAsYHQ/w200-h200/33%2BCanal%2BCocina.png",ESP - Canal Cocina (X)(720)
@@ -1363,10 +1687,10 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117226
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117197
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-rJu5vDBvqMU/XxPVkqAiSRI/AAAAAAAAAe4/g1rbjDxqZf0YkQtbxAOF9TbzGXMu3HdaACLcBGAsYHQ/w200-h200/Coemdy%2BCentral%2BEspa%25C3%25B1a.png",ESP - Comedy Central (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117196
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-IzHQ8ypK76g/XyNeEPO_oMI/AAAAAAAAAmo/7qvAfjTXodcLaoEf4BtqrA2BodCGUcCAgCLcBGAsYHQ/w200-h200/77%2BCrimenInvetigac.png",ESP - Crimen Investigacion (M)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117185
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-y7d9FdYmTyI/XyNeHIuUayI/AAAAAAAAAnA/5ikoAsDNjxAbem4oLAvRUjp_ZKIgiIXlwCLcBGAsYHQ/w200-h200/83%2BCuatrohd.png",ESP - Cuatro (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117162
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-y7d9FdYmTyI/XyNeHIuUayI/AAAAAAAAAnA/5ikoAsDNjxAbem4oLAvRUjp_ZKIgiIXlwCLcBGAsYHQ/w200-h200/83%2BCuatrohd.png",ESP - Cuatro (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117161
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-r-ICzMZJ0m4/XyNd_IP-pKI/AAAAAAAAAmA/POOZGMgB0yULrYlU0E6T2im9EH_R9gzfwCLcBGAsYHQ/w200-h200/67%2Bdark.png",ESP - DARK (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117221
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-gNru16SK8CU/XyNeBEuaPoI/AAAAAAAAAmQ/8l6wFqvOMDQakrAbAHKcXO0t3JvPFXDSwCLcBGAsYHQ/w200-h200/71%2Bdecasa.png",ESP - Decasa (TV)(1080)
@@ -1383,8 +1707,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117267
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117269
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://tvgolatino.com:8080/images/fc00d9aae9bd8af94a1d288fbffcbefc.png",ESP - Divinity (TV)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117177
-#EXTINF:-1 group-title="ESPAÑA",ESP - Dkiss (TV)(SD)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117175
 #EXTINF:-1 group-title="ESPAÑA",ESP - DMAX (TV)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117176
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png",ESP - El Toros TV (TV)(720)
@@ -1395,10 +1717,10 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117178
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117140
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-GKpgi7V2FcQ/XztLs0jb5FI/AAAAAAAABGw/UQwFjj74P0Yi4S7YHMXEXYcMn30on4XlgCLcBGAsYHQ/w200-h200/94%2BEurosport%2B2.png",ESP - Eurosport 2 (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117142
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-GL4alboGrPo/XxPVlP0xoRI/AAAAAAAAAe8/u4v68eYxAjE2KR8IvLWwSFP2mtq1PxtMQCLcBGAsYHQ/w200-h200/Fox%2BEspa%25C3%25B1a.png",ESP - FOX (TV)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117223
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-GL4alboGrPo/XxPVlP0xoRI/AAAAAAAAAe8/u4v68eYxAjE2KR8IvLWwSFP2mtq1PxtMQCLcBGAsYHQ/w200-h200/Fox%2BEspa%25C3%25B1a.png",ESP - FOX (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117222
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-tSPbyDdCT3o/XyNd0HRzcpI/AAAAAAAAAkc/NgqjhVOATWA3IESirAVpDx0W9s9C75xvwCLcBGAsYHQ/w200-h200/43%2Bgol%2Btv%2Bes.png",ESP - GOL (TV)(SD)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117131
 #EXTINF:-1 group-title="ESPAÑA",ESP - Gol Play (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117678
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-KGgmQI5ecXE/XyNeCobepzI/AAAAAAAAAmc/xSeTxkjlrUQewpSfCjNJIWqykMimCpbowCLcBGAsYHQ/w200-h200/74%2BHistoria.png",ESP - Historia (TV)(1080)
@@ -1417,10 +1739,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117156
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117155
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-W6Tq2Qy7DkA/XyNeGM80cfI/AAAAAAAAAm4/IYVlaoek-Osk3yphc6WNm5e0lmEjPWonQCLcBGAsYHQ/w200-h200/81%2Blasexta.png",ESP - La Sexta (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117166
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-cwoUnuWyNZU/XxPVlYPz9tI/AAAAAAAAAfA/cRS0npkh5LI6aMtYSqf5ZR6lMELesKSFACLcBGAsYHQ/w200-h200/La%2BLiga%2BBar.png",ESP - LaLiga TV Bar (TV)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117126
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-cwoUnuWyNZU/XxPVlYPz9tI/AAAAAAAAAfA/cRS0npkh5LI6aMtYSqf5ZR6lMELesKSFACLcBGAsYHQ/w200-h200/La%2BLiga%2BBar.png",ESP - LaLiga TV Bar (TV)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117125
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-W6Tq2Qy7DkA/XyNeGM80cfI/AAAAAAAAAm4/IYVlaoek-Osk3yphc6WNm5e0lmEjPWonQCLcBGAsYHQ/w200-h200/81%2Blasexta.png",ESP - La Sexta (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117165
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-wUoVSCGiLEk/XxZrjzp2NWI/AAAAAAAAAgI/NgNsd_d1DwoNsV5GJJE8L2mT2YMiFFJugCLcBGAsYHQ/w200-h200/18%2BMovistar%2BAccion.png",ESP - M. Accion (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117233
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-wUoVSCGiLEk/XxZrjzp2NWI/AAAAAAAAAgI/NgNsd_d1DwoNsV5GJJE8L2mT2YMiFFJugCLcBGAsYHQ/w200-h200/18%2BMovistar%2BAccion.png",ESP - M. Accion (X)(720)
@@ -1477,8 +1797,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117172
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117171
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://tvgolatino.com:8080/images/7dff1d0cc8d6860736984de360d87472.png",ESP - MTV España (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117279
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://tvgolatino.com:8080/images/d374184ab224ce5cd020dd43ae92f5d4.png",ESP - Multideportes (TV)(SD)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117112
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png",ESP - Mundo Toros (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117206
 #EXTINF:-1 group-title="ESPAÑA",ESP - Mundotoro (C)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/268877
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-iAoHtoG_ESQ/XyNeCE5MvJI/AAAAAAAAAmY/Bj1Qa1zryXwnRRhccaCbsT6LsIcZkLQFwCLcBGAsYHQ/w200-h200/73%2Bnatwild.png",ESP - Nat Geo Wild (TV)(1080)
@@ -1507,6 +1827,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117250
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117164
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-77VtI5bwhEU/XyNeGsVP_LI/AAAAAAAAAm8/nAYabkpi5UUFukvmHWoTO4rUL_wAmb9gACLcBGAsYHQ/w200-h200/82%2Btelesinco.png",ESP - Telecinco (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117163
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-77VtI5bwhEU/XyNeGsVP_LI/AAAAAAAAAm8/nAYabkpi5UUFukvmHWoTO4rUL_wAmb9gACLcBGAsYHQ/w200-h200/82%2Btelesinco.png",ESP - Telecinco (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117736
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-NBCjVoN58Ow/XyNd0GwU1wI/AAAAAAAAAkg/gIh08cSLc6QDUvoNkzRrBAQvl0q6nQ_MQCLcBGAsYHQ/w200-h200/41%2BTELEDEPORTES.png",ESP - Teledeporte (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/117135
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-Na7wY2kavzE/XyNd2VxX0oI/AAAAAAAAAk8/mUtupW4cIBcG6QD7y6-F-OPtiNsUf5N8QCLcBGAsYHQ/w200-h200/50%2Btelemadrid.png",ESP - Telemadrid (TV)(1080)
@@ -1633,12 +1955,16 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1397
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/27335
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i2.paste.pics/c6788a74a24fa5859af6167d6fc0f659.png",IPNA Medio | CL
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269314
+#EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-BIk2lXR_rs0/YIIRe88AduI/AAAAAAABB44/0oNlLjQeNggj39kaXRFcY7SFJf8slw1FwCK8BGAsYHg/s512/2021-04-22.jpg",JBN Internacional | HN
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269315
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-83xVlCKhy9M/YE1Kbugpn9I/AAAAAAABAmI/rTOM58rOAXoDAXekm3foJINYew4SZ4xcgCK8BGAsYHg/s512/2021-03-13.png",Jehova TV | HN
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269316
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-kl7V7U5q7f0/YI830_FLyoI/AAAAAAABCJg/VWmNBlxJKzYppBYkN1vC4Rz9WjB7jBrfQCK8BGAsYHg/s512/2021-05-02.png",La Fe Mueve Montanas | DO
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269318
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i2.paste.pics/14dfe90b2eca7a9eccb2cb7fab88286f.png",Manantial de Adoración TV | US
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269321
+#EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i.paste.pics/151c6df5f012237e0a664508de84db1e.png",Metanoia TV | CL
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269282
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.m3u.cl/logo/657_15TV_Sabinas.png",MEX-15TV Sabinas (W)(LOCAL)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153552
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-Yn__LgpchcE/Xm52XauLjpI/AAAAAAAABiY/S60f_ofdAnYF53Jf8JA66zk1PrYaz1SIACLcBGAsYHQ/s200/27.png",MEX-ADN 40 (M)(1080)
@@ -1693,16 +2019,12 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1329
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1881
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-03CaQgAcjpc/Xm5ywyaHEwI/AAAAAAAABhU/fe1Lwkx-om0RJZnr6qS0YIfL2sg7fzgQgCLcBGAsYHQ/s200/23.png",MEX-Bloomberg (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26957
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg?1587752857",MEX-Canal 10 Cancun (X)(LOCAL)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153542
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png",MEX-Canal 5 (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26973
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png",MEX-Canal 5 (M)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26678
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png",MEX-Canal 5 (PM)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1883
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png",MEX-Canal 6 Nacional (X)(LOCAL)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153543
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-0GKPjFkLCbw/Xm5sWsaodSI/AAAAAAAABfo/5qrJ-GrvG2YtVS9bSETVayaR4Aui9tcBACLcBGAsYHQ/s200/15.png",MEX-Canal Once (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1343
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-0GKPjFkLCbw/Xm5sWsaodSI/AAAAAAAABfo/5qrJ-GrvG2YtVS9bSETVayaR4Aui9tcBACLcBGAsYHQ/s200/15.png",MEX-Canal Once (X)(720)
@@ -1749,8 +2071,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26677
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1885
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png",MEX-Las Estrellas (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153528
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://lh3.googleusercontent.com/-8sq9v9VetzU/YrOrsO__dvI/AAAAAAAADqs/_2halnO-pKwVDRs5gEtbEsc1UReFu3k5ACNcBGAsYHQ/w200-h200/1655942062524447-0.png",MEX-Lo Mejor De La Liga MX (X)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154354
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-xJZbc0hvFXg/Xm7SE-8HbyI/AAAAAAAABnk/-1fm_mQwbi8H-TzKWjfka0VgbJbbd4naQCLcBGAsYHQ/s200/47.png",MEX-Más Chic (M)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26688
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-yaWXv4kbt3s/Xm5mzAfya7I/AAAAAAAABdM/affhQIUdPwo9tJPfEfsSxYCVP0k-xjwrACLcBGAsYHQ/s200/10.png",MEX-Mexiquense (C)(1080)
@@ -1759,42 +2079,30 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1351
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1352
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-pmqpRTK0wEM/Xm5m0CyDFmI/AAAAAAAABdY/rozixqEQGM0JdWCUTThU2y9ruNGfD75cQCLcBGAsYHQ/s200/4.png",MEX-Milenio TV (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26981
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/150px-Multimedios_Television.png",MEX-Multimedio Guadalajara (X)(LOCAL)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153546
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/150px-Multimedios_Television.png",MEX-Multimedio Monterrey (X)(LOCAL)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153547
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-pBlrsVZ-j6c/Xm51MIQqpfI/AAAAAAAABiA/QcQJtzsL3owD1PPWzEOuqRzwFvpo0ieegCLcBGAsYHQ/s200/26.png",MEX-Multimedios (C)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1354
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-pBlrsVZ-j6c/Xm51MIQqpfI/AAAAAAAABiA/QcQJtzsL3owD1PPWzEOuqRzwFvpo0ieegCLcBGAsYHQ/s200/26.png",MEX-Multimedios (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26954
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-f1YB7-1taFo/Xm5tPS_d4QI/AAAAAAAABgA/70ToA3StugwIp6kle6ZamNUhL8EvoiyrwCLcBGAsYHQ/s200/16.png",MEX-Multimedios CDMX (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26717
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-f1YB7-1taFo/Xm5tPS_d4QI/AAAAAAAABgA/70ToA3StugwIp6kle6ZamNUhL8EvoiyrwCLcBGAsYHQ/s200/16.png",MEX-Multimedios Plus (M)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26967
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-3CKK68d3N-U/Xm5wXhkIEuI/AAAAAAAABgk/DPborE5QXFkd0dFPhRZnUOwGcScZJq2rACLcBGAsYHQ/s200/18.png",MEX-Nu9ve (C)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26964
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-3CKK68d3N-U/Xm5wXhkIEuI/AAAAAAAABgk/DPborE5QXFkd0dFPhRZnUOwGcScZJq2rACLcBGAsYHQ/s200/18.png",MEX-Nu9ve (X)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/31434
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.m3u.cl/logo/672_Presumiendo_Mexico.png",MEX-Presumiendo Mexico (W)(LOCAL)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153567
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-JZsHSNlgjOY/Xm7PpThP3XI/AAAAAAAABnA/hFdXkIL_ykMU1di2t1QP-7zzcp_zzq0xQCLcBGAsYHQ/s200/45.png",MEX-Px Sports (tv)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26694
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.m3u.cl/logo/673_RCG_1_Saltillo.png",MEX-RCG 1 Saltillo (X)(LOCAL)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153568
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.m3u.cl/logo/675_RCG_3_Saltillo.png",MEX-RCG 3 Saltillo (W)(LOCAL)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153570
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/ParroquiaSanSebastianen_Bernal.JPG/250px-ParroquiaSanSebastianen_Bernal.JPG",MEX-RTQ (X)(LOCAL)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153548
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.m3u.cl/logo/646_SIZART_Canal_24_Zacatecas.png",MEX-SIZART Canal 24 Zacatecas (W)(LOCAL)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153572
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-QQnydDm_l-0/Xm5m1cz8CdI/AAAAAAAABds/RD9b0OTHC3QNPQ5BJgSEn99m4HS42pllgCLcBGAsYHQ/s200/9.png",MEX-Sundance (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26722
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-QQnydDm_l-0/Xm5m1cz8CdI/AAAAAAAABds/RD9b0OTHC3QNPQ5BJgSEn99m4HS42pllgCLcBGAsYHQ/s200/9.png",MEX-Sundance (M)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26976
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-RUU0kvvtPsk/Xm5zycBoQ2I/AAAAAAAABhg/mcwFdLCJi-MVVQt1HK3QiaQtXwxz-751ACLcBGAsYHQ/s200/24.png",MEX-Telefórmula (C)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26956
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.m3u.cl/logo/679_Telemax_Hermosillo.png",MEX-Telemax Hermosillo (W)(LOCAL)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153573
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-zznJ3i27jig/Xm7W33f_2YI/AAAAAAAABoc/jTgvMxfZfKsUl9HYYo4RvBdC2X0Q16YcgCLcBGAsYHQ/s200/50.png",MEX-Telemundo (M)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1362
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-OXCQ1Od1dUM/Xm5mzH9uszI/AAAAAAAABdQ/plWLCcO44SEliyJkdO1zd_3BU_Z0ElUSgCLcBGAsYHQ/s200/1.png",MEX-Televisa MTY (TV)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26984
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.m3u.cl/logo/683_TRC_TV_Campeche.png",MEX-TRC TV Campeche (X)(LOCAL)
@@ -1809,20 +2117,22 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153575
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26965
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-pa66J2QImyE/Xm6svftNZ1I/AAAAAAAABkw/_At9cnvAnREyz7eZcf9F7Df3oalp7W-dgCLcBGAsYHQ/s200/37.png",MEX-TVE (M)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26721
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.m3u.cl/logo/641_UMTV.png",MEX-UMTV (X)(LOCAL)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153583
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-hocv9nd9CDw/Xm5mzM7sIlI/AAAAAAAABdI/84fBjKlqLtcEulO7ow6V_x6YNRvFevQZACLcBGAsYHQ/s200/2.png",MEX-Unicable (C)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1366
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://static.epg.best/mx/Unicable.mx.png",MEX-Unicable (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153541
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-hocv9nd9CDw/Xm5mzM7sIlI/AAAAAAAABdI/84fBjKlqLtcEulO7ow6V_x6YNRvFevQZACLcBGAsYHQ/s200/2.png",MEX-Unicable(M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1365
+#EXTINF:-1 group-title="DEPORTES PPV (NBA,NFL,MLB,NHL)" tvg-logo="http://live.detodotvplay.com:8080/images/89d021e682f117a6ff8e6fe859cdcc2d.png",MLB | Atlanta Braves
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177474
 #EXTINF:-1 group-title="CANALES-MUSICA" tvg-logo="https://1.bp.blogspot.com/-My8jG2aOmpU/XhBCyl2gbvI/AAAAAAAAA9E/EUuIZBsXKDcLtS6XjnP3m3fKXNCxn7-ZACLcBGAsYHQ/s200/18.png",MUS-Bandamax (M)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26943
 #EXTINF:-1 group-title="CANALES-MUSICA",MUS-Bandamax (PM)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69593
 #EXTINF:-1 group-title="CANALES-MUSICA",MUS-HTV (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69249
+#EXTINF:-1 group-title="CANALES-MUSICA",MUS-HTV (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69248
 #EXTINF:-1 group-title="CANALES-MUSICA" tvg-logo="https://1.bp.blogspot.com/-HIvWhlHd30I/XbEy7XvOjPI/AAAAAAAAArk/jSdVBjquCdw1V9mAhW45wFLNW3hq2-bawCLcBGAsYHQ/s200/9.png",MUS-MTV (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26944
 #EXTINF:-1 group-title="CANALES-MUSICA" tvg-logo="https://1.bp.blogspot.com/-HIvWhlHd30I/XbEy7XvOjPI/AAAAAAAAArk/jSdVBjquCdw1V9mAhW45wFLNW3hq2-bawCLcBGAsYHQ/s200/9.png",MUS-MTV (M)(1080)
@@ -1875,8 +2185,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1321
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/180062
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i2.paste.pics/4a59ad761b7b6578b320729cb230f778.png",NCTV | CL
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269330
-#EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-4-nicaragua-tv-en-vivo.jpg",NIC-Canal 4 (C)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153928
 #EXTINF:-1 group-title="NICARAGUA" tvg-logo="http://latinoamericatv.vip:8080/images/bc7ce73aa7f4237ec5e4b2a0e0585496.png",NIC-Canal 8 TN8 (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153930
 #EXTINF:-1 group-title="CANALES-NOTICIA" tvg-logo="https://1.bp.blogspot.com/-X4Twi3pHIRM/Xm5XtyganmI/AAAAAAAABbk/6byY3ZUAXUYkg6WVzsqg_MjZY5x5Bg-2gCLcBGAsYHQ/s200/5.png",NOT-BBC World News (M)(720)
@@ -1907,36 +2215,36 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157049
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3253
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Atlanta (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156996
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Boston (M)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156991
+#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Boston (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156975
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Boston (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156948
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Boston (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156997
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Chicago (M)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156990
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Chicago (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156935
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Chicago (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156998
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Colorado (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156999
+#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Colorado Springs (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156955
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Connecticut (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157000
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Dallas (L)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156989
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Dallas (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156947
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Denver (TV)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156946
+#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://play-lh.googleusercontent.com/r1hxIjp_byfaWY69girVnv7vrMLqsVq5e70_GM6gPQ0EUSKYaGBN49G2ZTAYT24v9CI",NOV-Telemundo - DALLAS 39 (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156972
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Denver (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157001
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Fresno (M)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156988
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Fresno (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156945
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Houston (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156944
+#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Internacional (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157002
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Las Vegas (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156943
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Los Angeles (L)(1080)
@@ -1947,24 +2255,26 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156987
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156931
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Los Angeles (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157003
+#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Lubbock (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156980
+#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Medford (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156963
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Miami (C)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156929
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Miami (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156927
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Miami (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157004
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - National East (M)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156993
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - National West (M)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156992
+#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - New Orleans (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156966
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - New Orleans (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157005
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - New York (M)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156926
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - New York (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156923
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - New York (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156924
+#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - OK | Oklahoma City (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156968
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Oklahoma (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157006
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Orlando Florida (M)(1080)
@@ -1979,12 +2289,12 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156941
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157007
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Phoenix Arizona (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156985
+#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Sacramento (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156978
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - San Antonio (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156940
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - San Antonio (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157008
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - San Diego (L)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156984
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - San Francisco (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156983
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - San francisco (TV)(1080)
@@ -2005,8 +2315,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156932
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157012
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo - Washington DC (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156933
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo (M)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156994
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/156995
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-N420mNP_oto/Xz895w5_E8I/AAAAAAAABKc/P3YF5UNR_Bc8CSSdn1ZXVL5HQ7UN8RJWQCLcBGAsYHQ/w200-h200/7%2BTln%2BNovelas.png",NOV-TLN tlnovelas (M)(720)
@@ -2017,22 +2325,20 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1286
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1283
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-R4850qWMRRM/Xz8-484rEaI/AAAAAAAABK0/gZWnuvKx8ss-Gdc8vGOdQY0PlY8-hVr3wCLcBGAsYHQ/w200-h200/8%2BUnicable.png",NOV-Unicable (M)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1284
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png",NOV-Unimas (M)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1282
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-I5coVQh61s8/XzNOnK_MruI/AAAAAAAAAtg/FXnVyaZkKrso3K6ppfYzk9omGs-ttSgXQCLcBGAsYHQ/w200-h200/53%2BUniverso%2Btv.png",NOV-Universo (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69572
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-6M6hQPgGFJA/XzRaku-tHtI/AAAAAAAAA48/8r7dtHJwJ1E80DId_OZOGi-28-hwonydgCLcBGAsYHQ/w200-h200/124%2BTv%2Bone.png",NOV-Universo Este (PM)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/65424
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision (WXTV-New York NY) (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157015
+#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision (X)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157014
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Atlanta (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157028
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Chicago (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157029
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Chicago (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157030
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Dallas (M)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157031
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Houston (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157032
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Los Angeles (M)(720)
@@ -2051,8 +2357,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157027
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157016
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision New York (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157017
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Noticias (TV)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157033
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Phoenix (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157026
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision San Francisco (X)(720)
@@ -2079,96 +2383,326 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/115830
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/58454
 #EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-Ahxh6hpJLxM/X0g-IZuTc_I/AAAAAAAABN0/LAsJQzbLvo4frzt0j5Msm0aXStTDcN_ugCLcBGAsYHQ/w200-h200/COS%2BFC.png",PAN-Cable Onda Sports FC (TV)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/115829
-#EXTINF:-1 group-title="PANAMA",PAN-Claro sport Panama (M)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/125194
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-fn1JTUpSpS0/Xw82mMWw5UI/AAAAAAAAAXw/zTUNeTMPtkcT7oOn3_djg1fx_2osVXcHgCLcBGAsYHQ/w200-h200/HVision%2BPanama.png",PAN-H.Vison (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3259
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-fn1JTUpSpS0/Xw82mMWw5UI/AAAAAAAAAXw/zTUNeTMPtkcT7oOn3_djg1fx_2osVXcHgCLcBGAsYHQ/w200-h200/HVision%2BPanama.png",PAN-hossana vision(M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1261
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-M0m5mwEpo4Q/Xw82m-p33YI/AAAAAAAAAX0/4zcQUq2dIFQyEPVsIXwXYcRZNNJtOTKxgCLcBGAsYHQ/w200-h200/RPC%2BPanama.png",PAN-RPC 4 (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3256
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-M0m5mwEpo4Q/Xw82m-p33YI/AAAAAAAAAX0/4zcQUq2dIFQyEPVsIXwXYcRZNNJtOTKxgCLcBGAsYHQ/w200-h200/RPC%2BPanama.png",PAN-RPC 4(M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1266
+#EXTINF:-1 group-title="PANAMA" tvg-logo="http://www.tvdigital.digital:80/images/031586bd0ae405100d72cd796a908bab.png",PAN-RPC TV (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154201
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-pKQdPEaIL20/Xw82nAzNJmI/AAAAAAAAAX4/jDlUKQr0hbYFHF0JztWZOKcKNxXErMXigCLcBGAsYHQ/w200-h200/Ser%2BTv%2BPanama.png",PAN-Ser TV Canal 11 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3260
 #EXTINF:-1 group-title="PANAMA" tvg-logo="http://www.tvdigital.digital:80/images/0ad6f6a58ae1a5724788b607fcdafe51.png",PAN-Sertv (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154202
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-pKQdPEaIL20/Xw82nAzNJmI/AAAAAAAAAX4/jDlUKQr0hbYFHF0JztWZOKcKNxXErMXigCLcBGAsYHQ/w200-h200/Ser%2BTv%2BPanama.png",PAN-Sertv canal 11 (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1263
+#EXTINF:-1 group-title="PANAMA" tvg-logo="http://www.tvdigital.digital:80/images/82971771b66550cb7566e22c849ba3b5.png",PAN-Telemetro (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154203
 #EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-KZV6uLpQCYc/Xw82njDaj6I/AAAAAAAAAX8/R_7_0gMPhaYHVwkWqlXqpALj5Im6wCPBQCLcBGAsYHQ/w200-h200/Telemetro%2BPanama.png",PAN-Telemetro 13 (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1265
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-KZV6uLpQCYc/Xw82njDaj6I/AAAAAAAAAX8/R_7_0gMPhaYHVwkWqlXqpALj5Im6wCPBQCLcBGAsYHQ/w200-h200/Telemetro%2BPanama.png",PAN-Telemetro 13 (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3258
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-IDav7Vp-Z2E/X3JubZhPwlI/AAAAAAAABn4/Cy7FSTJ0HUwmDws0sC8I_i5jCND6DlWoACLcBGAsYHQ/w200-h200/Tigo%2BSports%2Bhomduras.png",PAN-Tigo Sports Panama (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/181195
 #EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-IDav7Vp-Z2E/X3JubZhPwlI/AAAAAAAABn4/Cy7FSTJ0HUwmDws0sC8I_i5jCND6DlWoACLcBGAsYHQ/w200-h200/Tigo%2BSports%2Bhomduras.png",PAN-Tigo Sports Panama (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/181196
+#EXTINF:-1 group-title="PANAMA",PAN-TV MAX (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154198
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-92TZBJpaNkA/Xw82oH62IkI/AAAAAAAAAYA/s7m9Q5bSvAkWrIYRRAt6H7nxNg09zwKTACLcBGAsYHQ/w200-h200/Tv%2BMax%2BPanama.png",PAN-TV MAX 9 (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3261
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-92TZBJpaNkA/Xw82oH62IkI/AAAAAAAAAYA/s7m9Q5bSvAkWrIYRRAt6H7nxNg09zwKTACLcBGAsYHQ/w200-h200/Tv%2BMax%2BPanama.png",PAN-tv Max 9 (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1264
 #EXTINF:-1 group-title="PANAMA" tvg-logo="http://www.tvdigital.digital:80/images/17894e775a8cd48b0e1ffd7f11dd26d8.png",PAN-TVN (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154204
+#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-3pqhezYHcgs/Xw82omLWsXI/AAAAAAAAAYE/XKdrQHuEbkYBuDn-ZoDVmxG_JQIGUYZwACLcBGAsYHQ/w200-h200/Tvn%2BPanama.png",PAN-Tvn Canal 2 (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3257
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-JrOIpxZm44M/X3O4mgdBcjI/AAAAAAAABqw/8lbyMtW-2s41XGOWRCpSP168bU18B_l3ACLcBGAsYHQ/w200-h200/Canal%2Bc9n%2BParaguay.png",PAR-C9N (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/60120
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-PEOfjRsBMAw/X3O4q885aeI/AAAAAAAABrQ/b2gSzPbocNIk5r9yHpcYVfIlX7cPGkLXACLcBGAsYHQ/w200-h200/Farra%2Bplay%2BParaguay.png",PAR-Farra Play(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1255
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-QVh14wfX-1Q/X3O4l9KvTfI/AAAAAAAABqg/MlbExVBmd34hWVgWTT63NdkZVEzPin2kgCLcBGAsYHQ/w200-h200/Cana%2BGen%2Btv%2BParaguay.png",PAR-Gen TV (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/60122
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-QVh14wfX-1Q/X3O4l9KvTfI/AAAAAAAABqg/MlbExVBmd34hWVgWTT63NdkZVEzPin2kgCLcBGAsYHQ/w200-h200/Cana%2BGen%2Btv%2BParaguay.png",PAR-Gen TV(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1254
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-ay35-McTdkA/X3O4ndUsEHI/AAAAAAAABq0/F6ytXdEqeIcsVdeOoLvo2H2-JFBfsUrxwCLcBGAsYHQ/w200-h200/Canal%2Bla%2Btele%2BParaguay.png",PAR-La Tele(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1251
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-ay35-McTdkA/X3O4ndUsEHI/AAAAAAAABq0/F6ytXdEqeIcsVdeOoLvo2H2-JFBfsUrxwCLcBGAsYHQ/w200-h200/Canal%2Bla%2Btele%2BParaguay.png",PAR-La Tele(M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1252
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-aE1eBYx3jco/X3O4n4uYtyI/AAAAAAAABq4/ffFGmnbRDckjc9VuE7PYqqSXYD2Tty3EQCLcBGAsYHQ/w200-h200/Canal%2Bnoticias%2BParaguay.png",PAR-Noticias (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/60125
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-aE1eBYx3jco/X3O4n4uYtyI/AAAAAAAABq4/ffFGmnbRDckjc9VuE7PYqqSXYD2Tty3EQCLcBGAsYHQ/w200-h200/Canal%2Bnoticias%2BParaguay.png",PAR-Noticias PY(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1249
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-JltdzB525gk/X3O4oWM-i4I/AAAAAAAABq8/y7Ioet0emlQ8SW5oD5Z7_zbiKJAZRyRBgCLcBGAsYHQ/w200-h200/Canal%2Bparavisi%25C3%25B3n%2BParaguay.png",PAR-Paravision (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/60127
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-5l28tZx2j7w/X3O4pf-jWeI/AAAAAAAABrE/eZwAPegHCrYzWtMblWfnPrO1fh3o2ZqSwCLcBGAsYHQ/w200-h200/Canal%2Brpc%2BParaguay.png",PAR-RPC (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1229
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-5l28tZx2j7w/X3O4pf-jWeI/AAAAAAAABrE/eZwAPegHCrYzWtMblWfnPrO1fh3o2ZqSwCLcBGAsYHQ/w200-h200/Canal%2Brpc%2BParaguay.png",PAR-RPC (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/60129
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-uqXbbS3at5I/X3O4pwNY8PI/AAAAAAAABrI/1UcKlG4GxPk_IIKc5cx3w_QP2YQE5eBTwCLcBGAsYHQ/w200-h200/Canal%2Btelefuturo%2BParaguay.png",PAR-Telefuturo (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/60130
+#EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-Qq6NeQfQhPA/X3O4qcNIfWI/AAAAAAAABrM/VvZtFKBO_SwfQ8olMUI4i7xkVFKk74wrACLcBGAsYHQ/w200-h200/Canal%2Btigo%2Bsport%2BParaguay.png",PAR-Tigo Sport (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3753
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-NSFaHxIZvsU/X3O4rTPeqrI/AAAAAAAABrU/_X4L4S_rHiYiIIucuqmzowWIx-HJZXTKgCLcBGAsYHQ/w200-h200/Unicanal%2Bparaguay.png",PAR-Unicanal (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/60134
+#EXTINF:-1 group-title="PERU" tvg-logo="http://daleplay.club:8080/images/b8b8435967655a10b842a1bb1f8c9cb0.png",PER-America (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153834
 #EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png",PER-America tv (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/5275
 #EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png",PER-America TV (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22167
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-bKiI31EDp2U/Xw_BmpCazvI/AAAAAAAAAZo/u2LRHhgCGJwV7gqwsqFFV3yFwyuBWZaFwCLcBGAsYHQ/w200-h200/America%2BTv.png",PER-America TV (TV)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59859
 #EXTINF:-1 group-title="PERU" tvg-logo="http://daleplay.club:8080/images/271c6c11fe0cf24ef7e4e567f8bc04a9.png",PER-ATV (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153836
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-llu-9dmTbq8/Xw_BmejBqTI/AAAAAAAAAZg/0AEQSQYwOAgun2AKJL1B7Bb3G5A4ulkdACLcBGAsYHQ/w200-h200/ATV.png",PER-ATV (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/5276
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-llu-9dmTbq8/Xw_BmejBqTI/AAAAAAAAAZg/0AEQSQYwOAgun2AKJL1B7Bb3G5A4ulkdACLcBGAsYHQ/w200-h200/ATV.png",PER-ATV (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22169
 #EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-llu-9dmTbq8/Xw_BmejBqTI/AAAAAAAAAZg/0AEQSQYwOAgun2AKJL1B7Bb3G5A4ulkdACLcBGAsYHQ/w200-h200/ATV.png",PER-ATV (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/107215
+#EXTINF:-1 group-title="PERU" tvg-logo="http://daleplay.club:8080/images/5a021cd8bff20a0d536aa252ab0a9757.png",PER-ATV + (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153837
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-3D6MQQrJLa4/X2PbXadj9JI/AAAAAAAABUM/lIKYHXWaLYQJhX1AbEh-Ep61Zfp2IpQ7QCLcBGAsYHQ/w200-h200/ATV%2B%252B.png",PER-ATV + (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153590
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-B9BDRwwOw8c/Xw_BnNoYKMI/AAAAAAAAAZs/GaUqj7HQOB8VbQEGuShFi6fGyRBA8_GywCLcBGAsYHQ/w200-h200/Canla%2BN%2BPeru.png",PER-Canal N (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59860
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-jlBQW3VMHDg/Xw_BnQfFA2I/AAAAAAAAAZw/zt-Zh3m97PoNwOK2zPTCyvDhkZd59-OAQCLcBGAsYHQ/w200-h200/Capital%2BTV%2BPeru.png",PER-Capital TV (SD)(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/31436
+#EXTINF:-1 group-title="PERU" tvg-logo="https://lh3.googleusercontent.com/-Vq1faHyWhUU/YmxO6KDonHI/AAAAAAAADhM/TzNOkCqhxnURVeZ6rLdDimJBzSOo9EBbACNcBGAsYHQ/w200-h200/1651265255210180-48.png",PER-Cultura 24 TV (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153597
+#EXTINF:-1 group-title="PERU" tvg-logo="https://lh3.googleusercontent.com/-Wbwf2IukM_Y/Yqp2Lcg114I/AAAAAAAADpg/llSkcAlcgLA0YibzeLcAEO_GFWiCxjqNgCNcBGAsYHQ/w200-h200/1655338538835434-2.png",PER-Directv Sports  (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154280
 #EXTINF:-1 group-title="PERU" tvg-logo="https://lh3.googleusercontent.com/-Wbwf2IukM_Y/Yqp2Lcg114I/AAAAAAAADpg/llSkcAlcgLA0YibzeLcAEO_GFWiCxjqNgCNcBGAsYHQ/w200-h200/1655338538835434-2.png",PER-Directv Sports + (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154279
 #EXTINF:-1 group-title="PERU" tvg-logo="https://lh3.googleusercontent.com/-fApM7BDSOhQ/YmxO39GrPfI/AAAAAAAADg8/VZjxuKM0mug-N2ZB8IsSAzERLjcykfsHwCNcBGAsYHQ/w200-h200/1651265244896203-52.png",PER-Exitosa (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153592
+#EXTINF:-1 group-title="PERU" tvg-logo="http://daleplay.club:8080/images/3a91967450ff2d4f71f2b153a1411c6e.png",PER-GOL Peru (C)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153835
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-xu_xYbzmWcA/Xw_BnxXTuZI/AAAAAAAAAZ0/vhSMlzvY2tgJXjXR284-CmK3kD2YRkXegCLcBGAsYHQ/w200-h200/Gol%2BPeru.png",PER-Gol Peru (TV)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/107213
 #EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-xu_xYbzmWcA/Xw_BnxXTuZI/AAAAAAAAAZ0/vhSMlzvY2tgJXjXR284-CmK3kD2YRkXegCLcBGAsYHQ/w200-h200/Gol%2BPeru.png",PER-Gol Peru (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/5277
 #EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-xu_xYbzmWcA/Xw_BnxXTuZI/AAAAAAAAAZ0/vhSMlzvY2tgJXjXR284-CmK3kD2YRkXegCLcBGAsYHQ/w200-h200/Gol%2BPeru.png",PER-Gol Peru (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153587
 #EXTINF:-1 group-title="PERU" tvg-logo="http://daleplay.club:8080/images/4c9848041592d45e0498b9a6e959a8c6.png",PER-Latina (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153838
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-pKihQf3XmK8/Xw_BoRelQTI/AAAAAAAAAZ4/zcSCcV01gykh_J1IVRkDeJBFi7bblWtnACLcBGAsYHQ/w200-h200/Latina.png",PER-Latina (M)(HQ)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22165
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-pKihQf3XmK8/Xw_BoRelQTI/AAAAAAAAAZ4/zcSCcV01gykh_J1IVRkDeJBFi7bblWtnACLcBGAsYHQ/w200-h200/Latina.png",PER-Latina (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/107214
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-pKihQf3XmK8/Xw_BoRelQTI/AAAAAAAAAZ4/zcSCcV01gykh_J1IVRkDeJBFi7bblWtnACLcBGAsYHQ/w200-h200/Latina.png",PER-Latina (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153589
 #EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-pKihQf3XmK8/Xw_BoRelQTI/AAAAAAAAAZ4/zcSCcV01gykh_J1IVRkDeJBFi7bblWtnACLcBGAsYHQ/w200-h200/Latina.png",PER-Latina TV (M)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/107209
+#EXTINF:-1 group-title="PERU",PER-Liga 1 (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166147
+#EXTINF:-1 group-title="PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo-Liga1Max-Per%C3%BA.png/640px-Logo-Liga1Max-Per%C3%BA.png",PER-Liga 1 MAX (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166149
 #EXTINF:-1 group-title="PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo-Liga1Max-Per%C3%BA.png/640px-Logo-Liga1Max-Per%C3%BA.png",PER-Liga 1 MAX (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166151
+#EXTINF:-1 group-title="PERU",PER-Liga 1 MAX (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166152
+#EXTINF:-1 group-title="PERU" tvg-logo="http://daleplay.club:8080/images/e34f3dc097e542ae9876fa46767d44a0.png",PER-Movistar Deportes (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153839
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-UtHJhqvvDbI/Xw_Bo3Fwg0I/AAAAAAAAAZ8/C7QrwvMh00oA_Ddkfrc1UakMBItRA7WsQCLcBGAsYHQ/w200-h200/Movistar%2BDeportes%2BPeru.png",PER-Movistar Deportes (TV)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59865
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-KlTfWdonihI/X2Ord29CNpI/AAAAAAAABTI/2AnEPL2upBA7EGhUY-Lo2fMFWoMEdfesgCLcBGAsYHQ/w200-h200/Movistar%2BPlus.png",PER-Movistar Plus TV (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/107217
 #EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-Yi5SdOxVD0k/X2OreAwr7zI/AAAAAAAABTM/1AO8kxQONDcJYaa2djtLDmiygDFB9tEPwCLcBGAsYHQ/w200-h200/Panamericana.png",PER-Panamericana (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153840
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-Yi5SdOxVD0k/X2OreAwr7zI/AAAAAAAABTM/1AO8kxQONDcJYaa2djtLDmiygDFB9tEPwCLcBGAsYHQ/w200-h200/Panamericana.png",PER-Panamericana (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/107207
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-kmIbIqtnmjs/Xw_BpdXXVWI/AAAAAAAAAaA/arLzNJsk0Zkz3_0PKi2rV9GcDmUBpPsdACLcBGAsYHQ/w200-h200/Peru%2BMagico.png",PER-Peru Magico (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22163
 #EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-kmIbIqtnmjs/Xw_BpdXXVWI/AAAAAAAAAaA/arLzNJsk0Zkz3_0PKi2rV9GcDmUBpPsdACLcBGAsYHQ/w200-h200/Peru%2BMagico.png",PER-Peru Magico (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59875
+#EXTINF:-1 group-title="PERU" tvg-logo="https://e-ad.americatv.com.pe/futbol-peruano-liga-1-fechas-confirmadas-todos-posibles-escenarios-definicion-torneo-n430965-696x418-997439.jpg",PER-PPV 1 EVENTOS Peru 1 (e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/218412
 #EXTINF:-1 group-title="PERU" tvg-logo="https://e-ad.americatv.com.pe/futbol-peruano-liga-1-fechas-confirmadas-todos-posibles-escenarios-definicion-torneo-n430965-696x418-997439.jpg",PER-PPV 2 EVENTOS Peru 2 (e)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/218413
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-OXeqCZJyBC8/Xw_Bp5Ata6I/AAAAAAAAAaE/Zzghr8Od0SEBNhtra0v8Ro-5tfwKekFrgCLcBGAsYHQ/w200-h200/RPP%2BPeru.png",PER-RPP (SD)(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/31438
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-OXeqCZJyBC8/Xw_Bp5Ata6I/AAAAAAAAAaE/Zzghr8Od0SEBNhtra0v8Ro-5tfwKekFrgCLcBGAsYHQ/w200-h200/RPP%2BPeru.png",PER-RPP (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59876
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-LcIibmp-imU/Xw_JKzUTs0I/AAAAAAAAAa0/Joe5mdjnqwAL7mUBBP0xIWpFG_-S359_gCLcBGAsYHQ/w200-h200/TV%2BPeru.png",PER-TV Peru (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22172
 #EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-LcIibmp-imU/Xw_JKzUTs0I/AAAAAAAAAa0/Joe5mdjnqwAL7mUBBP0xIWpFG_-S359_gCLcBGAsYHQ/w200-h200/TV%2BPeru.png",PER-TV Peru (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59877
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-dp1Uu5yJCZ4/Xw_BqeasPBI/AAAAAAAAAaI/-fQXipbrx-sNZR4njtcQJl_0RdF2UrSVACLcBGAsYHQ/w200-h200/Unitel%2BPeru.png",PER-Unitel (C)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/22164
+#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-vzBDxerR2qw/X2Ordzmt9VI/AAAAAAAABTE/pxcJlNpzG0YQ2eQG9mh70VNzYr06pg4_ACLcBGAsYHQ/w200-h200/Willax.png",PER-Willas  (TV)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59873
+#EXTINF:-1 group-title="PERU" tvg-logo="http://iptvlatino.one:8080/images/96a6baee16738886cbb36a2d14670d9d.jpg",PER-WILLAX (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153844
 #EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-vzBDxerR2qw/X2Ordzmt9VI/AAAAAAAABTE/pxcJlNpzG0YQ2eQG9mh70VNzYr06pg4_ACLcBGAsYHQ/w200-h200/Willax.png",PER-Willax (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/107220
+#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://lh3.googleusercontent.com/-8FWfsnXrfjw/YmcxbQYcNgI/AAAAAAAADgc/0q0Y9KKekoEkrrkHz70I_7OVTJeuc3D7gCNcBGAsYHQ/w200-h200/1650930027620989-0.png",PPV 1-Uruguay (e) (1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153823
 #EXTINF:-1 group-title="URUGUAY" tvg-logo="https://lh3.googleusercontent.com/-8FWfsnXrfjw/YmcxbQYcNgI/AAAAAAAADgc/0q0Y9KKekoEkrrkHz70I_7OVTJeuc3D7gCNcBGAsYHQ/w200-h200/1650930027620989-0.png",PPV 2-Uruguay (e) (720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153824
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png",PPV Cinema 4K (Dual Audio) | Cinema  1
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153813
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png",PPV Cinema 4K (Dual Audio) | Cinema  10
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153822
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png",PPV Cinema 4K (Dual Audio) | Cinema  2
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153814
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png",PPV Cinema 4K (Dual Audio) | Cinema  3
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153815
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png",PPV Cinema 4K (Dual Audio) | Cinema  4
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153816
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png",PPV Cinema 4K (Dual Audio) | Cinema  5
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153817
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png",PPV Cinema 4K (Dual Audio) | Cinema  6
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153818
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png",PPV Cinema 4K (Dual Audio) | Cinema  7
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153819
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png",PPV Cinema 4K (Dual Audio) | Cinema  8
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153820
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png",PPV Cinema 4K (Dual Audio) | Cinema  9
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153821
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 01  (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1643
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 02 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1644
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 04 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1646
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 05 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1647
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 06 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1648
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 07 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1649
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 08  (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1650
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 09 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1651
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 10 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1652
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 11  (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1653
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 12 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1654
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 13 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1655
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 14(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1656
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 15(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1657
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 16 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1658
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 19 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1661
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 20 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1662
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 21 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1663
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 25 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1667
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 26 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1668
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 27 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1669
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 28(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1670
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 30(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1672
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 31(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1673
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 32(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1674
+#EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 33(M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1675
+#EXTINF:-1 group-title="DEPORTES PPV (NBA,NFL,MLB,NHL)" tvg-logo="https://1.bp.blogspot.com/-TaSQofcox6o/X1_B4fytEZI/AAAAAAAABPw/ZnboX0kTpYUDo-nx1Xta5KGhp0IsnEfMwCLcBGAsYHQ/w200-h200/NFL.png",PPV-NFL Network (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/100815
+#EXTINF:-1 group-title="DEPORTES PPV (NBA,NFL,MLB,NHL)" tvg-logo="https://1.bp.blogspot.com/-TaSQofcox6o/X1_B4fytEZI/AAAAAAAABPw/ZnboX0kTpYUDo-nx1Xta5KGhp0IsnEfMwCLcBGAsYHQ/w200-h200/NFL.png",PPV-NFL Now (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/100816
+#EXTINF:-1 group-title="DEPORTES PPV (NBA,NFL,MLB,NHL)" tvg-logo="https://1.bp.blogspot.com/-TaSQofcox6o/X1_B4fytEZI/AAAAAAAABPw/ZnboX0kTpYUDo-nx1Xta5KGhp0IsnEfMwCLcBGAsYHQ/w200-h200/NFL.png",PPV-NFL Redzone (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/100814
 #EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-0uZEYVacRsM/X2o10VtLtRI/AAAAAAAABZw/TX7Drdg3bQM4l4YqlsLrteFbRLPeEiw3ACLcBGAsYHQ/w200-h200/Mega%2Btv.png",PR-Mega TV (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153313
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://lh3.googleusercontent.com/-d5nr1Od1jfc/YjdSZEkVJCI/AAAAAAAADdM/UmPOnqVn6o8aTbz7gsxme4sK_LyDauxewCNcBGAsYHQ/w200-h200/1647792738851554-0.png",PR-Punto 2 (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153314
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-wRbx17LuE6Q/X2p5O3izLuI/AAAAAAAABdE/w45jiEKeAF0e6FcBAzXhl1EhPa5Ing7ywCLcBGAsYHQ/w200-h200/Telemrco.png",PR-Telemicro (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3268
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-kbKCAO5Ni74/X2p5OrU7y4I/AAAAAAAABdA/rKNfwy3Uti4cVYTFDvuHRg58YKdYpYKfgCLcBGAsYHQ/w200-h200/Telemundo.png",PR-Telemundo Puerto Rico (L)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/107184
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-kbKCAO5Ni74/X2p5OrU7y4I/AAAAAAAABdA/rKNfwy3Uti4cVYTFDvuHRg58YKdYpYKfgCLcBGAsYHQ/w200-h200/Telemundo.png",PR-Telemundo Puerto Rico (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153316
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-Fybdl5LVgNQ/X2p5PfDKmrI/AAAAAAAABdM/u6xSHbCbRyYoLuI9mp-9W7gHWvDs7SjLACLcBGAsYHQ/w200-h200/Univision%2BPuerto%2BRico.png",PR-Univision (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1225
 #EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-Fybdl5LVgNQ/X2p5PfDKmrI/AAAAAAAABdM/u6xSHbCbRyYoLuI9mp-9W7gHWvDs7SjLACLcBGAsYHQ/w200-h200/Univision%2BPuerto%2BRico.png",PR-Univision Puerto Rico (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3267
 #EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-Fybdl5LVgNQ/X2p5PfDKmrI/AAAAAAAABdM/u6xSHbCbRyYoLuI9mp-9W7gHWvDs7SjLACLcBGAsYHQ/w200-h200/Univision%2BPuerto%2BRico.png",PR-Univision Puerto Rico (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/107185
 #EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-dOYkwoAzovI/X2p5PrqgIyI/AAAAAAAABdQ/1xlysUzgo4o8LdZpTeO5xCnSoLePtdujgCLcBGAsYHQ/w200-h200/Wapa.png",PR-Wapa (TV)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3265
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-dOYkwoAzovI/X2p5PrqgIyI/AAAAAAAABdQ/1xlysUzgo4o8LdZpTeO5xCnSoLePtdujgCLcBGAsYHQ/w200-h200/Wapa.png",PR-Wapa (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/107186
 #EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-dOYkwoAzovI/X2p5PrqgIyI/AAAAAAAABdQ/1xlysUzgo4o8LdZpTeO5xCnSoLePtdujgCLcBGAsYHQ/w200-h200/Wapa.png",PR-Wapa (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153320
+#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-dOYkwoAzovI/X2p5PrqgIyI/AAAAAAAABdQ/1xlysUzgo4o8LdZpTeO5xCnSoLePtdujgCLcBGAsYHQ/w200-h200/Wapa.png",PR-Wapa America (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3266
 #EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-dOYkwoAzovI/X2p5PrqgIyI/AAAAAAAABdQ/1xlysUzgo4o8LdZpTeO5xCnSoLePtdujgCLcBGAsYHQ/w200-h200/Wapa.png",PR-Wapa America (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153315
-#EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i2.paste.pics/cd076383a1e326a4e2a438733669adc1.png",Radio Israel | CL
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269335
-#EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-bQwi2tX7L78/YE1MtU1rPOI/AAAAAAABAm0/4nTKBm8LdpMezWvBMPUEhJzP9EjlKrgAQCK8BGAsYHg/s512/2021-03-13.png",Renuevo TV | US
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269339
+#EXTINF:-1 group-title="PUERTO RICO",PR-Wapa Deportes (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154270
+#EXTINF:-1 group-title="PARAGUAY",PY-TigoSports(e)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166825
+#EXTINF:-1 group-title="PARAGUAY",PY-TigoSports(e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166826
+#EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://1.bp.blogspot.com/-d7Tjs6QImsw/X2Oa6nZ3YUI/AAAAAAAABRE/_09TbniFt6wf2pZfObG5HwkkQpABOkTQwCLcBGAsYHQ/w200-h200/07%2BEnlace.png",REL-Enlace TV (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/5547
+#EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://1.bp.blogspot.com/-BpwPTLa2N8A/X2Oa-tCx4sI/AAAAAAAABRk/Wv2S4OHlA8wqvBmyS6AjmE6c32SjRn52ACLcBGAsYHQ/w200-h200/15%2BEwtn%2Btv.png",REL-EWTN (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/5548
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i2.paste.pics/bda4dda4f3d61d88354e6d64a8fdbc44.png",Restaurando Vidas TV | CL
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269341
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://lh3.googleusercontent.com/-LCD8pGIuUsw/YmxPIBs1JAI/AAAAAAAADik/HBIDH4VyDD0FHV5cFyonZxIY8IECCjYFQCNcBGAsYHQ/w200-h200/1651265311327007-26.png",RPD-Ame 47 (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153960
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://1.bp.blogspot.com/-qZ2_vIs_6bI/X3PN2HLxqBI/AAAAAAAABss/2A1jD7amfeY19Z-MOo7dpIBOFBcq-T_GwCLcBGAsYHQ/w200-h200/Antena%2B7%2BRep%25C3%25BAblica%2BDominicana.png",RPD-Antena 7 (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53643
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://1.bp.blogspot.com/-BSA2BrBrluk/X3PN4RxTvdI/AAAAAAAABtQ/e52HNTnIO6UT4caFPsG5XbVvpeowprmRwCLcBGAsYHQ/w200-h200/Color%2Bvisi%25C3%25B3n%2BRep%25C3%25BAblica%2BDominicana.png",RPD-Color Vision (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3644
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://1.bp.blogspot.com/-BSA2BrBrluk/X3PN4RxTvdI/AAAAAAAABtQ/e52HNTnIO6UT4caFPsG5XbVvpeowprmRwCLcBGAsYHQ/w200-h200/Color%2Bvisi%25C3%25B3n%2BRep%25C3%25BAblica%2BDominicana.png",RPD-Color Vision (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3656
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://lh3.googleusercontent.com/-uidQ1vCI7rg/YmxPJtZYjTI/AAAAAAAADis/1RT_PJD2ulgTw1CqRGwRd3pd-1wtVJ3owCNcBGAsYHQ/w200-h200/1651265316873091-24.png",RPD-MicroVision Canal 10 (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153963
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://lh3.googleusercontent.com/-EQea7-4bovM/YmxPKDCIJoI/AAAAAAAADiw/7WTzZZtMHM0DOuenEeQ_bseYjwS-xRX3ACNcBGAsYHQ/w200-h200/1651265319442939-23.png",RPD-Onda TV (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153964
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://lh3.googleusercontent.com/-jNNeXICb97Q/YmxPNhFF3SI/AAAAAAAADjE/_j8xYpnBARwWktYdxm7KD1e8m404KPOOACNcBGAsYHQ/w200-h200/1651265331729809-18.png",RPD-Ready Television (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153972
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://1.bp.blogspot.com/-0mStvjthtAI/X3PN6_NwhKI/AAAAAAAABtk/tBMdc7aTnAIUbbGN0K54jyTAoLQeSArRACLcBGAsYHQ/w200-h200/Tele%2BAntillas%2BRep%25C3%25BAblica%2BDominicana.png",RPD-Teleantillas (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53653
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://lh3.googleusercontent.com/-_sn_uwSvzmA/YmxPLdsSvFI/AAAAAAAADi4/61Fa15HFZmcZ_pO0mfpALUkzxb-F-r4YwCNcBGAsYHQ/w200-h200/1651265323828060-21.png",RPD-Telecanal 28 (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153968
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://1.bp.blogspot.com/-Bri9Z74JMiA/X3PN9QyHLoI/AAAAAAAABt4/pFa0-BrYSi00w7xn6Zp6s2kQozEQAGaXgCLcBGAsYHQ/w200-h200/Telecentro%2BRep%25C3%25BAblica%2BDominicana.png",RPD-Telecentro (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3647
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://1.bp.blogspot.com/-xavji18xK0I/X3PN96-pW8I/AAAAAAAABt8/k3MD6mhluY8_sZFnxmgI2qMay0-9iH7owCLcBGAsYHQ/w200-h200/Telefuturo%2BRep%25C3%25BAblica%2BDominicana.png",RPD-Telefuturo (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3653
 #EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://1.bp.blogspot.com/-jNaf3vHMOqA/X3PN-2QFvaI/AAAAAAAABuE/DHDATqhJC-4Oq5y9uvqo4GsvR-hcpQUQwCLcBGAsYHQ/w200-h200/Telesistema%2BRep%25C3%25BAblica%2BDominicana.png",RPD-Telesistema (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53657
-#EXTINF:-1 group-title="SALVADOR" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/70c3a76f846899c633ec789079fe1e4c.png",SAL-Canal 12 (C)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153902
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://1.bp.blogspot.com/-toocGkYXO7s/X3PN7ZCWnMI/AAAAAAAABto/2rrP72kU6X4xdq_jiMEdMQ857c0aN2kYwCLcBGAsYHQ/w200-h200/Tele%2BUni%25C3%25B3n%2BRep%25C3%25BAblica%2BDominicana.png",RPD-Teleunion (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3650
+#EXTINF:-1 group-title="REPUBLICA DOMINICANA" tvg-logo="https://1.bp.blogspot.com/-Lz9hOF5eEY4/X3PN82Z1mXI/AAAAAAAABt0/m9fhCQNi9g8AfkqLVOIHnV0TKh_i-LsdwCLcBGAsYHQ/w200-h200/Tele%2Buniverso%2BRep%25C3%25BAblica%2BDominicana.png",RPD-Teleuniverso (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53659
 #EXTINF:-1 group-title="SALVADOR" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a03feabf0fc65447a41b13db0f8946cc.png",SAL-Canal 2 (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153900
+#EXTINF:-1 group-title="SALVADOR" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/24d82e8c83f43928bfadf134dcb0968e.png",SAL-Canal 4 (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153901
+#EXTINF:-1 group-title="SALVADOR",SAL-Canal 4 (M)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3743
 #EXTINF:-1 group-title="SALVADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png",SAL-Canal 6 (C)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153898
+#EXTINF:-1 group-title="SALVADOR",SAL-Canal 6 (M)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3740
+#EXTINF:-1 group-title="SALVADOR" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8e3c0e0389f7dc44b8bca823e29c111f.png",SAL-Megavision Canal 19 (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153903
+#EXTINF:-1 group-title="SALVADOR" tvg-logo="https://lh3.googleusercontent.com/LYlwi2PYQEIADE34ftN1f-yafI0PnzwzcqgmiQiZDGSpIMeYto6ipOgCxLDD7ZdPztwHp0w=s85",SAL-Tigo Sports (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153899
+#EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-F6e4MwEoRJg/YE1N1N7_6BI/AAAAAAABAnE/VsRsdPKtisMgGhXLM7pEMrgS0D_KdlRZgCK8BGAsYHg/s512/2021-03-13.png",Salvacion TV | PR
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269344
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://i2.paste.pics/a5fb78f573ba79d41017820f70d975e9.png",Sublime Gracia TV | AR
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269346
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-g_dUHOwBNAM/YE1OKFJDbwI/AAAAAAABAnM/iSrlgpU84ho1Sh6R_8hKrN9DaJFg043NQCK8BGAsYHg/s512/2021-03-13.png",Tele Familia | CO
@@ -2185,8 +2719,16 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269357
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269358
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-h2vpbxBQU7k/X0ERjfBytiI/AAAAAAAA4yU/2FpETUkzhaYPLVcJWhQ2zFnHufp9u6zlwCK8BGAsYHg/s0/2020-08-22.jpg",TV Universal | BR
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269360
+#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png",UNIMáS (KFTR-Los Angeles CA) (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157041
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png",UNIMáS (KTFO-Austin TX) (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157042
+#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png",UNIMáS (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157040
+#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png",UNIMáS (WFPA-Philadelphia PA) (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157038
+#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png",UNIMáS (WFUT-New York NY) (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157035
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png",UNIMáS (WXFT-Chicago) (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157039
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png",UNIMáS New York (C)(720)
@@ -2263,8 +2805,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/105831
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63660
 #EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-CPYOdeib4Io/X30unOr_QAI/AAAAAAAABxU/OtovXSFAPGwrKRZuB10b3ZNfL0216L7nwCLcBGAsYHQ/w200-h200/Indieplex.png",USA - 24/7 IndiePlex (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63659
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-StIQ9rVWKPk/X30uqolK4tI/AAAAAAAABxw/-n43lz7T2iUNSNXcsJTyyitOyS8uR4GXACLcBGAsYHQ/w200-h200/Moviemax.png",USA - 24/7 MovieMax (M)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63657
 #EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-zks8SnjCDwY/X30urPh393I/AAAAAAAABx0/Q6fkBfj9YBcEbaNLozmtJGcx3YGLuJLswCLcBGAsYHQ/w200-h200/Movieplex%2BUSA.png",USA - 24/7 MoviePlex (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63656
 #EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-bXFzkZ9-JRs/X30usgwRklI/AAAAAAAAByA/AILAp8eGsCIf4hMzIdDN8yaeC75WnhSBACLcBGAsYHQ/w200-h200/Outer%2BMax%2BUSA.png",USA - 24/7 OuterMax (M)(1080)
@@ -2293,10 +2833,10 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63636
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63635
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://logos.xbots.com.mx/ae.png",USA-A&E (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177486
+#EXTINF:-1 group-title="USA-ENTERTAINMENT",USA-A&E (x)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59938
 #EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://i.postimg.cc/wT0Xw2FQ/proyectox-ABC-20.png",USA-ABC 10 San Diego (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177603
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://i.postimg.cc/wT0Xw2FQ/proyectox-ABC-20.png",USA-ABC 13 |  Houston (L)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177605
 #EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://i.postimg.cc/wT0Xw2FQ/proyectox-ABC-20.png",USA-ABC 7 | New York (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177610
 #EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://i.postimg.cc/wT0Xw2FQ/proyectox-ABC-20.png",USA-ABC LOCAL 10 MIAMI (L)(1080)
@@ -2307,6 +2847,14 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177502
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166724
 #EXTINF:-1 group-title="USA-SPORTS",USA-Altitude Sports ALT (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166725
+#EXTINF:-1 group-title="USA-SPORTS",USA-ALTS2 (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166778
+#EXTINF:-1 group-title="USA-SPORTS",USA-ALTSPRT (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166777
+#EXTINF:-1 group-title="USA-ENTERTAINMENT",USA-AMC (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59958
+#EXTINF:-1 group-title="USA-DOCUMENTARY",USA-American Heroes (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177356
 #EXTINF:-1 group-title="USA-DOCUMENTARY",USA-Animal Planet East (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177346
 #EXTINF:-1 group-title="USA-DOCUMENTARY",USA-Animal Planet West (M)(720)
@@ -2315,8 +2863,12 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177347
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166728
 #EXTINF:-1 group-title="USA-SPORTS",USA-att Sportsnet southwest alternate-feed (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166758
+#EXTINF:-1 group-title="USA-SPORTS",USA-AXSTNST (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166776
 #EXTINF:-1 group-title="USA-SPORTS",USA-bally Sports arizona (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166753
+#EXTINF:-1 group-title="USA-SPORTS",USA-bally Sports arizona Plus
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166754
 #EXTINF:-1 group-title="USA-SPORTS",USA-bally Sports detroit (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166735
 #EXTINF:-1 group-title="USA-SPORTS",USA-bally Sports detroit Plus (M)(720)
@@ -2491,6 +3043,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177352
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177353
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-yhAcC91rPzE/XzRcRZLRN1I/AAAAAAAAA5I/cYWQK99PdAgc-2GtNapnpVnyiwls-EvvACLcBGAsYHQ/w200-h200/125%2Be.png",USA-E! WEST (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/35847
+#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-ArbKWJvrc-Y/XzNOqGH2DDI/AAAAAAAAAuE/2aMBJ50GJtgeBZFxaVbD2_YSa7vV1OIhACLcBGAsYHQ/w200-h200/61%2BEpix%2Bhits.png",USA-EPIX Hits (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/35571
 #EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-CNgWLzKii3w/XzNOxNNyiWI/AAAAAAAAAu8/uOWPnVbhBgoDpsG_mJNLYJynykgI5rRkQCLcBGAsYHQ/w200-h200/74%2BFox%2BNew.png",USA-FOX (KDFW - Dallas) (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166978
 #EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-CNgWLzKii3w/XzNOxNNyiWI/AAAAAAAAAu8/uOWPnVbhBgoDpsG_mJNLYJynykgI5rRkQCLcBGAsYHQ/w200-h200/74%2BFox%2BNew.png",USA-FOX (KDVR-TV  Denver) (M)(720)
@@ -2537,6 +3091,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166997
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166998
 #EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-CNgWLzKii3w/XzNOxNNyiWI/AAAAAAAAAu8/uOWPnVbhBgoDpsG_mJNLYJynykgI5rRkQCLcBGAsYHQ/w200-h200/74%2BFox%2BNew.png",USA-FOX Business Network (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166999
+#EXTINF:-1 group-title="USA-SPORTS",USA-Fox Deportes (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166772
 #EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-CNgWLzKii3w/XzNOxNNyiWI/AAAAAAAAAu8/uOWPnVbhBgoDpsG_mJNLYJynykgI5rRkQCLcBGAsYHQ/w200-h200/74%2BFox%2BNew.png",USA-FOX Houston TX (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/167000
 #EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-CNgWLzKii3w/XzNOxNNyiWI/AAAAAAAAAu8/uOWPnVbhBgoDpsG_mJNLYJynykgI5rRkQCLcBGAsYHQ/w200-h200/74%2BFox%2BNew.png",USA-FOX KHON 2 (M)(720)
@@ -2549,14 +3105,30 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/167003
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/167004
 #EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-CNgWLzKii3w/XzNOxNNyiWI/AAAAAAAAAu8/uOWPnVbhBgoDpsG_mJNLYJynykgI5rRkQCLcBGAsYHQ/w200-h200/74%2BFox%2BNew.png",USA-FOX Salt Lake City UT (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/167005
+#EXTINF:-1 group-title="USA-SPORTS",USA-FOX Sports 1 (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166792
+#EXTINF:-1 group-title="USA-SPORTS",USA-FOX Sports 2 (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166793
 #EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-CNgWLzKii3w/XzNOxNNyiWI/AAAAAAAAAu8/uOWPnVbhBgoDpsG_mJNLYJynykgI5rRkQCLcBGAsYHQ/w200-h200/74%2BFox%2BNew.png",USA-FOX WUTV-Buffalo NY (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/167006
+#EXTINF:-1 group-title="USA-SPORTS",USA-Fubo Sport Network (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166761
+#EXTINF:-1 group-title="USA-SPORTS",USA-FuboSports2 (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166774
+#EXTINF:-1 group-title="USA-SPORTS",USA-FuboSports8 (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166775
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png",USA-FX (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177488
+#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png",USA-Gol TV ES (PM)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/65431
 #EXTINF:-1 group-title="USA-DOCUMENTARY",USA-Great American Country (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177343
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_logotype.png",USA-Hallmark Channel (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177505
+#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-mm1KvBrGbQU/XzNOa67K7VI/AAAAAAAAAsA/DxGsA44UWbgoB-vf9VlBK5G2Yd3-PaCewCLcBGAsYHQ/w200-h200/31%2BHallmark%2BMOVIES%2By%2Bmistwries.png",USA-Hallmark movie Mysteries (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/65435
+#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png",USA-HBO 2 (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1572
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://logos.xbots.com.mx/2411.png",USA-HBO 2 West (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177506
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png",USA-HBO Comedy West (L)(1080)
@@ -2565,6 +3137,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177507
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177508
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",USA-HBO Family (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177489
+#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-jm4uhbxGQY0/XzWcV-ZywNI/AAAAAAAABC4/-4yjfU766mA_FE2Pamo4UCeidYSLGfkRACLcBGAsYHQ/w200-h200/157%2BHbo%2Bfamily.png",USA-HBO Family (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/35799
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1280px-HBO_Latino_Logo.svg.png",USA-HBO Latino (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177485
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://logos.xbots.com.mx/hbosignature.png",USA-HBO Signature West (L)(1080)
@@ -2573,8 +3147,34 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177509
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177510
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png",USA-HBO Zone West (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177511
+#EXTINF:-1 group-title="USA-DOCUMENTARY",USA-HGTV HD East (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177365
+#EXTINF:-1 group-title="USA-DOCUMENTARY",USA-HGTV HD West (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177366
+#EXTINF:-1 group-title="USA-DOCUMENTARY",USA-Hogar Hgtv (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177364
+#EXTINF:-1 group-title="USA-DOCUMENTARY",USA-INSP (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177362
+#EXTINF:-1 group-title="USA-DOCUMENTARY",USA-Investigation Discovery (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177363
+#EXTINF:-1 group-title="USA-SPORTS",USA-iont tv (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166760
+#EXTINF:-1 group-title="USA-SPORTS",USA-KTTV_SD (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166771
+#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-bAnIjwxX1iM/XzSpwzW5evI/AAAAAAAAA60/dbzzF7BZwNcEDwDhhf1NgNp8pibHFEvSQCLcBGAsYHQ/w200-h200/129%2BLifetime.png",USA-Lifetime (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/65439
 #EXTINF:-1 group-title="USA-SPORTS",USA-Marquee Sports Network (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166727
+#EXTINF:-1 group-title="USA-SPORTS",USA-MLB_NET (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166773
+#EXTINF:-1 group-title="USA-DOCUMENTARY",USA-MSG (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177368
+#EXTINF:-1 group-title="USA-DOCUMENTARY",USA-MSG+ (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177369
+#EXTINF:-1 group-title="USA-DOCUMENTARY",USA-MSG+ 2 (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177370
+#EXTINF:-1 group-title="USA-DOCUMENTARY",USA-MSG+ 3 (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177371
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://yt3.ggpht.com/uqXRykzWaAT3YZJf05-oGvRQCYlbvMvnuGhVSFOT_oTU3Oe1N2LeJdO2-Kijocba2F6D7aQu4Hs=ns-nd",USA-My50 Chicago (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177514
 #EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC (KNBC-Los Angeles) (M)(720)
@@ -2655,8 +3255,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166782
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166726
 #EXTINF:-1 group-title="USA-SPORTS",USA-ONESOCCER (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166779
-#EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/Outside_tv.png",USA-Outside TV HD (C)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177379
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://logos.xbots.com.mx/2315.png",USA-Paramount US (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177491
 #EXTINF:-1 group-title="USA-SPORTS",USA-Poker GO (M)(720)
@@ -2685,8 +3283,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166722
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166723
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/5starMax_2011.svg/revision/latest/scale-to-width-down/300?cb=20201110161556&path-prefix=es",USA-Starmax (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177501
-#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://logos.xbots.com.mx/Starz_Cinema_2005.png",USA-Starz Cinema (L)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177515
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://logos.xbots.com.mx/Starz_Comedy.png",USA-Starz Comedy (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177516
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Starz_Edge_logo.svg/1200px-Starz_Edge_logo.svg.png",USA-Starz Edge West (L)(1080)
@@ -2701,10 +3297,10 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177523
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/166770
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://logos.xbots.com.mx/81.png",USA-TBS (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177524
+#EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="http://swedtv.vip/logos/USA_Entertainment/TBS_WEST.png",USA-TBS West HD (C)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177381
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://logos.xbots.com.mx/128.png",USA-TCM (L)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177525
-#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-wrQfcpwhryM/XzWZ1lw0oPI/AAAAAAAABCY/K6idWfCCwnI5139Sc75tIYx9HiQbaySsACLcBGAsYHQ/w200-h200/155%2BThe%2BCW.png",USA-THE CW (KBCW - San Francisco-OAK-San JOSE) (M)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/167007
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-wrQfcpwhryM/XzWZ1lw0oPI/AAAAAAAABCY/K6idWfCCwnI5139Sc75tIYx9HiQbaySsACLcBGAsYHQ/w200-h200/155%2BThe%2BCW.png",USA-THE CW 69 (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/167008
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-wrQfcpwhryM/XzWZ1lw0oPI/AAAAAAAABCY/K6idWfCCwnI5139Sc75tIYx9HiQbaySsACLcBGAsYHQ/w200-h200/155%2BThe%2BCW.png",USA-THE CW11 (M)(720)
@@ -2733,8 +3329,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/107198
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153994
 #EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://lh3.googleusercontent.com/-4PrxkdOVgkU/Ymxk3bTD7UI/AAAAAAAADlw/IynrbVTF1A8hj6eYTdQG6CpjuaBBb9dgQCNcBGAsYHQ/w200-h200/1651270875695937-1.png",VEN-IVC (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153996
-#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://lh3.googleusercontent.com/-irl8GPKS6GU/Ymxk1lrBVXI/AAAAAAAADlk/eC6VXBs3vdAH-ufdT36wOHD5GFich4WEQCNcBGAsYHQ/w200-h200/1651270869471576-4.png",VEN-Panavision (X)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153992
 #EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://lh3.googleusercontent.com/-bekngLbCxys/YmxPV8lpj1I/AAAAAAAADj8/WoHlHmSzBbETRIm7DeFfUcdxlHX7pNQyACNcBGAsYHQ/w200-h200/1651265365809678-4.png",VEN-RT Ñ (X)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153987
 #EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telesur.png",VEN-Telesur (M)(1080)
@@ -2753,8 +3347,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/107205
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/107201
 #EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://lh3.googleusercontent.com/-DdVWa5HL7Gw/YmxPSDGPdJI/AAAAAAAADjk/O31vWrq8LP8ru1Fci92De5R_AqY9rRWcgCNcBGAsYHQ/w200-h200/1651265350566494-10.png",VEN-Venevision (X)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153981
-#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://lh3.googleusercontent.com/-YDuwzT6TTPE/YmxPSsK8k1I/AAAAAAAADjo/lsoU8iac454NwS9CR-caxE2pLE-E6UpRACNcBGAsYHQ/w200-h200/1651265352925832-9.png",VEN-Venevision Plus (X)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153982
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-K4ag8sRdrns/YIik0Pa60XI/AAAAAAABCA8/euopjhB8XgUJyrD4gShP_8tZBSQVx12ygCK8BGAsYHg/s512/2021-04-27.png",Vida Television | US
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/269364
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://lh3.googleusercontent.com/-7SXvBoxEU7U/YIoR7EX9WEI/AAAAAAABCCM/vilu9iV1RDcjDOT5ksg9xvMyyjceKWRowCK8BGAsYHg/s512/2021-04-28.png",XTO TV | BO
@@ -2765,8 +3357,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153947
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153950
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://lh3.googleusercontent.com/-34GTbOUSs2E/YmxO8RBzRBI/AAAAAAAADhc/y2tqfa9T2wAb_0NgHhE635fXLX0G3XHYgCNcBGAsYHQ/w200-h200/1651265264092843-44.png",XXX - Dorcel (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153940
-#EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - Erox (M)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/55260
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - HOT TV (M)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/55303
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - HOT TV LA1
@@ -2777,8 +3367,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69989
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69987
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - HOT TV LA3
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69986
-#EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - HOT TV LA4
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69985
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - HOT TV LA5 (M)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69984
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - HOT TV LA6
@@ -2807,8 +3395,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153949
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153941
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - Rusian Night (M)(720)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/67382
-#EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - SCT Classic (M)(720)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/67379
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://lh3.googleusercontent.com/-nuD66ufMLFs/YmxO_kwjyQI/AAAAAAAADhw/6PiWVH6GLtcfmjWF25M6rcrxYUINYaYWQCNcBGAsYHQ/w200-h200/1651265276586694-39.png",XXX - SEX Ation (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153946
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - Sextreme (M)(1080)
@@ -2829,8 +3415,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/67384
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153953
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - Venus (M)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/67385
-#EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - Venus TV (M)(1080)
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/67381
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://lh3.googleusercontent.com/-b0bHy-XOQCE/YmxO94sjyxI/AAAAAAAADhk/YbpGqc_So9gM7PGWBz5aAG5L-KpGDgXMQCNcBGAsYHQ/w200-h200/1651265269813783-42.png",XXX - Vivid TV (X)(1080)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153942
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - X1 (M)(1080)
