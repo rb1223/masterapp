@@ -15,16 +15,10 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2157555
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2106070
 #EXTINF:-1 group-title="TV | Venezuela",VE| TV Familia
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2106068
-#EXTINF:-1 group-title="TV | Venezuela",VE| TeleVen (Opcion 2)
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2106066
-#EXTINF:-1 group-title="TV | Venezuela",VE| TeleVen
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2106065
 #EXTINF:-1 group-title="TV | Venezuela",VE| Telesur
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2123568
 #EXTINF:-1 group-title="TV | Venezuela",VE| Promar
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2106080
-#EXTINF:-1 group-title="TV | Venezuela",VE| Meridiano
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2106062
 #EXTINF:-1 group-title="TV | Venezuela",VE| Globovision
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2106060
 #EXTINF:-1 group-title="TV | Venezuela",VE| CGNTV
@@ -39,14 +33,8 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2055403
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2055402
 #EXTINF:-1 group-title="TV | Uruguay",UY: Canal 4 Montecarlo
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2055405
-#EXTINF:-1 group-title="TV | Uruguay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png",UY: Canal 4
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2055391
 #EXTINF:-1 group-title="TV | Uruguay" tvg-logo="http://l3d.us:8080/images/974485d5939c79970df85684ce18e17c.png",UY: Canal 12
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2055394
-#EXTINF:-1 group-title="TV | Uruguay" tvg-logo="https://p.kindpng.com/picc/s/618-6181877_canal-10-hd-png-download.png",UY: Canal 10 SAETA
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2055383
-#EXTINF:-1 group-title="TV | Uruguay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png",UY:  Canal 4
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2055388
 #EXTINF:-1 group-title="TV |  USA Kids" tvg-logo="http://ceoapps.org/logos/nickmusic.png",USA: Nick Music
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2107688
 #EXTINF:-1 group-title="TV | USA Movies",USA: Hallmark Movies & Mysteries
@@ -83,22 +71,10 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2106836
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2106839
 #EXTINF:-1 group-title="TV | USA Latino" tvg-logo="http://ceoapps.org/logos/unimas2.png",USA | Now | UNIMAS ALBUQUERQUE SANTA FE
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2106830
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/83819aa960bcbf853dbbd25a3c6ff13d.png",USA | NBC WCVB Channel 5 | Boston
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113625
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/KXAN_Austin_News_logo.png",USA | NBC KXAN | AUSTIN
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113620
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="https://yt3.ggpht.com/3Vk3dVCzS6rKVdckp0n9frBKQfTAUyz8qyu_cH1wkqDX6FkNdIiP4qKag8fHzVGW7ZYT9vuUr_w=ns-nd",USA | NBC KVEO | McAllen
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113614
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/KCRA_logo.svg/750px-KCRA_logo.svg.png",USA | NBC KCRA 3 | Sacramento
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113632
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/89b7abacbe0cefbadf6ad5c5ccb4ae15.png",USA | NBC Florida Miami 6
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113569
 #EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/89b7abacbe0cefbadf6ad5c5ccb4ae15.png",USA | NBC California Los Angeles 4
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113568
 #EXTINF:-1 group-title="TV | USA Networks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/WSMV-TV_4_logo.png",USA | NBC 4 Tennessee | WSMV
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113577
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/93293f1d8b2e40ffad45d429192d923a.png",USA | NBC | WAGT Augusta GA
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113605
 #EXTINF:-1 group-title="TV | USA Entertainment" tvg-logo="http://l3d.us:25461/images/3958ecc5100f4c801eac9e191903dbd1.png",USA | Logo TV
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113604
 #EXTINF:-1 group-title="TV | USA Entertainment" tvg-logo="http://l3d.us:25461/images/4d83bcf791a52d2997e51a29ad461dd9.png",USA | Great American Country
@@ -107,16 +83,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113602
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2148527
 #EXTINF:-1 group-title="TV | USA Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Freeform_2018.svg",USA | FREEFORM
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113561
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/b3eee65fd1a111975dd354f6593bb7d0.png",USA | FOX KFXV-TV | McAllen
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113616
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/b37ade27722b82760a49e49e261dbe09.jpg",USA | FOX 9 | Yuma Az
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113612
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/90a9e961b406610b4489f5d792f4feaa.png",USA | FOX 54 Augusta GA
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113599
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/8010d13c35998a4567c6456c8d29aa76.png",USA | FOX 40 | Sacramento
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113634
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/90824db32fa2fdf68e928b41d63f714d.png",USA | FOX 25 | Boston
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113627
 #EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png",USA | FOX 11 | California Los Angeles
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113544
 #EXTINF:-1 group-title="TV | USA Networks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png",USA | ESPNews
@@ -131,84 +97,20 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113596
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113595
 #EXTINF:-1 group-title="TV | USA Entertainment" tvg-logo="http://l3d.us:25461/images/b92655af8b921ebeb39d9b8e9a45dbfc.png",USA | Cheddar
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113594
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/WTOC-TV_11_logo.svg/1200px-WTOC-TV_11_logo.svg.png",USA | CBS WTOC 11 | Georgia
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113521
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/WTAJ10.png",USA | CBS WTJ | Pennsylvania
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113530
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/WISC-TV_2019_Logo.svg/1200px-WISC-TV_2019_Logo.svg.png",USA | CBS WISC TV3 | Wisconsin
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113535
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/742d8d8edfe65605dbc38bc60babd4da.png",USA | CBS WFSB 3 | Conneticut
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113519
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/6e15062a8a7ad4ad074921e7c3a5dc24.png",USA | CBS WBZ 4 | Boston
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113623
 #EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/250c51527f347066847969f002be67a2.png",USA | CBS Tennessee | WTVF
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113531
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/d9b7258826060de4c62e8568458f6f12.png",USA | CBS KRCG 13 | Columbia
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113518
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="https://bloximages.newyork1.vip.townnews.com/kmov.com/content/tncms/assets/v3/editorial/d/fc/dfc8730c-b79f-11e8-9f2c-e7f95b947fab/5b9ae7ce29339.image.png",USA | CBS KMOV 4 | Missouri
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113526
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/1c1f730d4d4d5009e44b045dbdca6480.png",USA | CBS KKTV 11 | Colorado
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113517
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/82141a062acd282ae2fcdff3c9d3bfef.png",USA | CBS KHOU 11 | Houston
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113523
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/KGMB9_Logo_2007.png/220px-KGMB9_Logo_2007.png",USA | CBS KGMB | Hawaii
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113522
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/KEYE_CBS_Austin_logo.png",USA | CBS KEYE | AUSTIN
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113619
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/3b82d72465d573ede180ebd07b784a9b.png",USA | CBS Idaho
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113524
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/74e372edb565c3bd852d58d1af056bda.png",USA | CBS 5 | Arizona
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113515
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/bdf30c20ce2bd8a3e29a1f800c2c2503.png",USA | CBS 4 Miami
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113608
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/d513d4c3c5fb968b0db71167e4416cdb.png",USA | CBS 4 | McAllen
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113613
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/c9086356b973f70bba4dc29bc27651d2.png",USA | CBS 4 | Indiana
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113525
 #EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/73ab818ae5adbd0f4d9d230219f59fee.png",USA | CBS 3 | Philadelphia
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113520
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/0f8336d8b5c1d0655192db2c5126ab89.png",USA | CBS 14 | Wyoming
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113536
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/116300a647b7ced5fde99386e10b7047.png",USA | CBS 10TV | Ohio
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113529
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Wrdw_tv_logo.PNG",USA | CBS | NEWS 12 Augusta GA
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113593
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/dce376f7c7b948acf83e2ff485237bcc.png",USA | CBS | KYMA | Yuma Az
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113610
 #EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/78fe36efc772e6c1559a902d059b198c.png",USA | BBC World News
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113592
-#EXTINF:-1 group-title="TV | USA Entertainment" tvg-logo="http://l3d.us:25461/images/209d4b5d5619a5d677acd8468ed142c5.png",USA | BBC America
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113591
 #EXTINF:-1 group-title="TV | USA Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/2560px-American_Heroes_Channel_logo.svg.png",USA | American Heroes Channel
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113590
 #EXTINF:-1 group-title="TV | USA Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Action_max.png/revision/latest?cb=20200121211921&path-prefix=es",USA | Action Max
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113589
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/WMUR-TV_logo.svg/1200px-WMUR-TV_logo.svg.png",USA | ABC WMUR | Boston
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113626
 #EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/1d0de5572367d4837913e99f07ca64fe.png",USA | ABC WKRN Tennessee
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113508
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/5b6ac36551c57f0057941e028b65c43f.png",USA | ABC News Live | NY
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113588
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/9320b2590c5c78c0afc694b564270377.png",USA | ABC LOCAL 10 MIAMI
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113586
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/02a30b8612294a31e05061ab4cf82db0.png",USA | ABC KVUE | AUSTIN
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113621
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/34c57e0ffb9021515dc87a1577aad051.png",USA | ABC KRGV | McAllen
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113615
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/902fbdd2b1df0c4f70b4a5d23525e932.png",USA | ABC Indiana | RTV 6
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113505
 #EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/902fbdd2b1df0c4f70b4a5d23525e932.png",USA | ABC California Los Angeles
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113503
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/84e6726962cb9a5bacecd75eda24a69c.png",USA | ABC 7 | New York
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113587
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/799376fcafad068c46fb413b975be56b.png",USA | ABC 6 Augusta GA
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113585
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/1b16d76cddbccac668815d2d4c3bb6ba.png",USA | ABC 5 | Yuma Az
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113611
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/902fbdd2b1df0c4f70b4a5d23525e932.png",USA | ABC 13 |  Houston
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113504
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/a7eb8d8e87b71a7f0827c20951db66c7.png",USA | ABC 10 | Sacramento
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113633
 #EXTINF:-1 group-title="TV | USA Networks",US| NBC NY
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2123439
 #EXTINF:-1 group-title="TV | USA Networks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/8/8f/20210706212206%21BET_Jams_Logo.png",US| BET SOUL
@@ -233,8 +135,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17197
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17312
 #EXTINF:-1 group-title="TV | USA Movies" tvg-logo="http://l3d.us:25461/images/a005a08d7cc59163d7f4de2b7fdbc147.png",US | TCM
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/197215
-#EXTINF:-1 group-title="TV | USA Movies" tvg-logo="http://l3d.us:8080/images/14831b3a087423067dd5af937a12204b.png",US | SyFy
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17214
 #EXTINF:-1 group-title="TV | USA Movies" tvg-logo="http://l3d.us:25461/images/b45220c396423f677c7a029f3c6955e5.png",US | Starz Kids & Family
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/196415
 #EXTINF:-1 group-title="TV |  USA Kids" tvg-logo="http://l3d.us:25461/images/7d63340016cf627156aa959eb3616fa6.png",US | Starz Kids & Family
@@ -255,8 +155,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/199765
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/197226
 #EXTINF:-1 group-title="TV | USA Movies" tvg-logo="http://l3d.us:25461/images/b45220c396423f677c7a029f3c6955e5.png",US | Starz Edge HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17309
-#EXTINF:-1 group-title="TV | USA Movies" tvg-logo="http://l3d.us:25461/images/b45220c396423f677c7a029f3c6955e5.png",US | Starz Comedy HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17216
 #EXTINF:-1 group-title="TV | USA Movies" tvg-logo="http://l3d.us:25461/images/b45220c396423f677c7a029f3c6955e5.png",US | Starz Cinema
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/196411
 #EXTINF:-1 group-title="TV | USA Culture" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/800px-Showtime_Next.svg.png",US | Showtime Next HD
@@ -267,8 +165,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17226
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/196420
 #EXTINF:-1 group-title="TV | USA Culture" tvg-logo="http://l3d.us:8080/images/b8b33624ea7be0a4d195777d3b10f4d4.png",US | Reelz HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17230
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/64ff6fc4e1297146126530dcfad89d5d.png",US | PBS SoCal Kids
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113628
 #EXTINF:-1 group-title="TV | USA Movies" tvg-logo="http://l3d.us:25461/images/4d0ec9644ed328af0eb2fa9cac57090e.png",US | Paramount HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17231
 #EXTINF:-1 group-title="TV | USA Sports" tvg-logo="http://l3d.us:25461/images/ad52498830facdfb560d81b5620b66ae.png",US | PAC-12 LOS ANGELES
@@ -301,16 +197,10 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155178
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10830
 #EXTINF:-1 group-title="TV | USA Culture" tvg-logo="http://ceoapps.org/logos/history.png",US | History Channel HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17244
-#EXTINF:-1 group-title="TV | USA Movies" tvg-logo="http://ceoapps.org/logos/hbozone.png",US | HBO Zone HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17250
-#EXTINF:-1 group-title="TV | USA Movies" tvg-logo="http://ceoapps.org/logos/hbozone.png",US | HBO Zone
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17306
 #EXTINF:-1 group-title="TV | USA Movies" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png",US | HBO Signature HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17253
 #EXTINF:-1 group-title="TV | USA Movies" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png",US | HBO Family HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17255
-#EXTINF:-1 group-title="TV | USA Movies" tvg-logo="http://sdmx.us:25461/images/a5675392a677c28832cbc64e21b390eb.png",US | HBO East HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17256
 #EXTINF:-1 group-title="TV | USA Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png",US | HBO Comedy HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17257
 #EXTINF:-1 group-title="TV | USA Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png",US | HBO Comedy
@@ -327,8 +217,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17251
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17181
 #EXTINF:-1 group-title="TV | USA Culture" tvg-logo="http://l3d.us:25461/images/c21f3b802fbfe5251ff82f04f176db33.png",US | FYI NetworkHD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17182
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/1200px-Fts-new-york-a.svg.png",US | FOX 5 | New York
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113551
 #EXTINF:-1 group-title="TV | USA Culture" tvg-logo="http://ceoapps.org/logos/foodnetwork.png",US | Food Network HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17264
 #EXTINF:-1 group-title="TV | USA Culture" tvg-logo="http://ceoapps.org/logos/foodnetwork.png",US | Food Network
@@ -337,8 +225,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17263
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17271
 #EXTINF:-1 group-title="TV | USA Culture" tvg-logo="http://l3d.us:25461/images/297f488b5e703985094f78cb02f6ebe1.png",US | DIY Network HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17280
-#EXTINF:-1 group-title="TV |  USA Kids" tvg-logo="https://static.epg.best/se/DisneyJunior.se.png",US | DISNEY JR
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2107684
 #EXTINF:-1 group-title="TV | USA Culture" tvg-logo="http://sdmx.us:25461/images/0f83692a7b1461c2bcd106840b82c100.png",US | Discovery Science HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17275
 #EXTINF:-1 group-title="TV | USA Culture" tvg-logo="https://static.epg.best/us/DiscoveryFamily.us.png",US | Discovery Family
@@ -351,8 +237,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17283
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17285
 #EXTINF:-1 group-title="TV | USA Entertainment" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png",US | Comedy Central
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/17286
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/1101d6e2d0edf6f5051de46fb49b7452.png",US | CBS KLAS | LAS VEGAS
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113609
 #EXTINF:-1 group-title="TV |  USA Kids" tvg-logo="https://static.epg.best/pa/CartoonNetwork.pa.png",US | CARTOON NETWORK
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2107682
 #EXTINF:-1 group-title="TV | USA Culture" tvg-logo="http://l3d.us:25461/images/fd9ab41e47a9ef4f6477a8a000bf404f.png",US | Bravo HD
@@ -379,8 +263,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2154023
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2154025
 #EXTINF:-1 group-title="TV | Mundial SUB 20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png",SUDAMERICANO SUB 20 | Caracol COLOMBIA
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2154028
-#EXTINF:-1 group-title="TV | Mundial SUB 20" tvg-logo="http://l3d.us:25461/images/7b8d51f2200d4749c4bbcfe7c6c919c6.png",SUDAMERICANO SUB 20 | Canal 13 CHILE
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2154029
 #EXTINF:-1 group-title="TV | La Liga Movistar" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png",SP: La Liga: M. Liga de Campeones 4
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2133224
 #EXTINF:-1 group-title="TV | La Liga Movistar" tvg-logo="https://assets.laliga.com/assets/logos/laliga-v/laliga-v-1200x1200.png",SP: La Liga: Dazn Formula 1 HD
@@ -423,8 +305,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/219091
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/219094
 #EXTINF:-1 group-title="TV | Soccer Europa" tvg-logo="http://sdmx.us:25461/images/466a3684c260e323dea01a8022d55eed.png",SE| ESPN MX
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/219099
-#EXTINF:-1 group-title="TV | Soccer Europa" tvg-logo="http://sdmx.us:25461/images/466a3684c260e323dea01a8022d55eed.png",SE| Espn ARG
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/219130
 #EXTINF:-1 group-title="TV | Soccer Europa" tvg-logo="http://ceoapps.org/logos/directvsports1.png",SE| Directv Sports
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/219210
 #EXTINF:-1 group-title="TV | Soccer Europa" tvg-logo="http://ceoapps.org/logos/bnsports.png",SE| Bein Sports en Español
@@ -481,8 +361,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10663
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10664
 #EXTINF:-1 group-title="TV | USA Sports" tvg-logo="http://l3d.us:25461/images/97840105422e501d38bff03f59954245.png",S| FOX Sports 1
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10648
-#EXTINF:-1 group-title="TV | USA Sports" tvg-logo="http://l3d.us:8080/images/f7ca4aa4f9d65c8d0252000cc23c269a.png",S| Fox Soccer Plus
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10669
 #EXTINF:-1 group-title="TV | USA Sports" tvg-logo="http://l3d.us:25461/images/9e6417ebffecef071eaeeb2ed0ca654b.png",S| Fight
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10670
 #EXTINF:-1 group-title="TV | USA Sports" tvg-logo="http://ceoapps.org/logos/espnu.png",S| Espn U | HD
@@ -525,8 +403,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2097254
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2130374
 #EXTINF:-1 group-title="TV | Dominicana",RD| Telenord Canal 14
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2144117
-#EXTINF:-1 group-title="TV | Dominicana",RD| Telenord Canal 10
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2146742
 #EXTINF:-1 group-title="TV | Dominicana" tvg-logo="http://daleplaypro.com:8080/images/5b6fb92e8e2cf49b3b2c8e7f274eae92.png",RD| Telenord 12
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2168497
 #EXTINF:-1 group-title="TV | Dominicana",RD| Telefuturo Canal 23
@@ -561,10 +437,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/190821
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/190800
 #EXTINF:-1 group-title="TV | Dominicana",RD | TELEMICRO
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/223876
-#EXTINF:-1 group-title="TV | Dominicana" tvg-logo="http://l3d.us:25461/images/07253548716f0de59c2807ff78b62be1.png",RD | RED TV
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2123286
-#EXTINF:-1 group-title="TV | Dominicana",RD | CATORCETV
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2164814
 #EXTINF:-1 group-title="TV | Dominicana",RD | CARIVISION
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2164815
 #EXTINF:-1 group-title="TV | PARAGUAY" tvg-logo="http://www.unicanal.com.py/img/unicanal_player_2.png",PY*| UNICANAL (PY)
@@ -573,10 +445,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2107632
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2107631
 #EXTINF:-1 group-title="TV | PARAGUAY" tvg-logo="data:image/jpeg;base64,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",PY*| PUENTE DE LA AMISTAD (PY)
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2107647
-#EXTINF:-1 group-title="TV | PARAGUAY" tvg-logo="https://www.latele.com.py/sximo/images/logo-blanco.png",PY*| LA TELE (PY)
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2107635
-#EXTINF:-1 group-title="TV | PARAGUAY" tvg-logo="blob:https://web.whatsapp.com/535ab35c-b296-420c-9091-38afdf973d5b",PY*| CANAL 12 RTV (PY)
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2107648
 #EXTINF:-1 group-title="TV | PARAGUAY" tvg-logo="data:image/jpeg;base64,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",PY*| ABC TV (PY)
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2107646
 #EXTINF:-1 group-title="TV | PARAGUAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-RFg189RTGMc-drMQBow6ElNN6BlVfJ2L9g&usqp=CAU",PY* | PARAVISION HD
@@ -649,8 +517,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/179041
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/16369
 #EXTINF:-1 group-title="TV | Peru" tvg-logo="http://ceoapps.org/logos/golperu.png",PE| Gol Peru
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10921
-#EXTINF:-1 group-title="TV | Peru" tvg-logo="http://ceoapps.org/logos/directvsports1.png",PE| Directv Sports Peru HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/186933
 #EXTINF:-1 group-title="TV | Peru" tvg-logo="http://atlantis-mx.com/logos/americatv.png",PE| America TV FHD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/199968
 #EXTINF:-1 group-title="TV | Peru" tvg-logo="http://ceoapps.org/logos/ovaciontv.png",PE | Ovacion
@@ -667,8 +533,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2159180
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155916
 #EXTINF:-1 group-title="TV | Panama" tvg-logo="http://l3d.us:8080/images/75b1c6e4a675a65dad6eba3783a1638e.png",PA| SER TV
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155914
-#EXTINF:-1 group-title="TV | Panama",PA| Mas Tv 23
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155906
 #EXTINF:-1 group-title="TV | Panama",PA| Cos
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155903
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/morbidotv.png",P| Morbido TV
@@ -699,10 +563,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10875
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/187786
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png",P | TCM
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10874
-#EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/syfy.png",P | SYFY HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10869
-#EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/syfy.png",P | SYFY FHD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155175
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png",P | Studio Universal HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10873
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2560px-Logo_Studio_Universal.svg.png",P | Studio Universal FHD
@@ -727,10 +587,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10867
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155172
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png",P | Paramount Channel
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10866
-#EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/panico.png",P | Panico HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155171
-#EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/multipremier.png",P | Multipremier
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/201151
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/hbo.png",P | HBO. FHD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154113
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",P | HBO Xtreme HD
@@ -773,8 +629,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154115
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10879
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/hbo.png",P | HBO
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10886
-#EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://xtream.host/imagenes/canales/golden.png",P | Golden.
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10861
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png",P | Golden Premier HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/200947
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png",P | Golden Premier FHD
@@ -787,8 +641,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10862
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154112
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://fanc.tmsimg.com/assets/s68317_ll_h3_ab.png",P | Golden Plus
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10860
-#EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://xtream.host/imagenes/canales/golden.png",P | Golden HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154110
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png",P | Golden Edge HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154111
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png",P | Golden Edge
@@ -797,10 +649,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10859
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2145709
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="https://static.epg.best/mx/FilmAndArts.mx.png",P | Film & Arts
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10876
-#EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/dhe.png",P | DHE FHD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/153478
-#EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/dhe.png",P | DHE
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154097
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="https://forounivers.com/uploads/monthly_2021_08/small.DePeliculaPlus_logoFull-ver.png.80ad9c76bb20932c67d9f7b3b4166228.png",P | De Pelicula Plus HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10857
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="https://forounivers.com/uploads/monthly_2021_08/small.DePeliculaPlus_logoFull-ver.png.80ad9c76bb20932c67d9f7b3b4166228.png",P | De Pelicula Plus FHD
@@ -815,18 +663,10 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2145662
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/201864
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="https://static.epg.best/mx/DePelicula.mx.png",P | De Pelicula
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10856
-#EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/clarocinemax.png",P | Claro Cinema
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2091457
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/cinemadinamita.png",P | Cinema Dinamita HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/197237
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/cinemadinamita.png",P | Cinema Dinamita
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/75724
-#EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/cinecanal.png",P | Cinecanal HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10845
-#EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/cinecanal.png",P | Cinecanal FHD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154085
-#EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/cinecanal.png",P | Cinecanal
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10844
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/cinesony.png",P | Cine Sony HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/197327
 #EXTINF:-1 group-title="TV | Peliculas" tvg-logo="http://ceoapps.org/logos/cinelatino.png",P | Cine Latino HQ
@@ -843,8 +683,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113580
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2149213
 #EXTINF:-1 group-title="TV | Nicaragua" tvg-logo="http://l3d.us:25461/images/ba42b69873fee73d4882d935e8fc7fab.png",NG| Canal 4 HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2151063
-#EXTINF:-1 group-title="TV | Nicaragua",NG| Canal 13
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155902
 #EXTINF:-1 group-title="TV | Nicaragua",NG| Canal 12
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155901
 #EXTINF:-1 group-title="TV | Nicaragua",NG| Canal 11
@@ -863,8 +701,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155164
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/28615
 #EXTINF:-1 group-title="TV | Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png",N | RT Noticias
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/25753
-#EXTINF:-1 group-title="TV | Noticias" tvg-logo="https://petergeorgescu.com/wp-content/uploads/2019/10/msnbc-logo-png-1920.png",N | MSNBC HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10619
 #EXTINF:-1 group-title="TV | Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png",N | Milenio Noticias HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155160
 #EXTINF:-1 group-title="TV | Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png",N | Milenio Noticias FHD
@@ -885,10 +721,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10617
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10613
 #EXTINF:-1 group-title="TV | Noticias" tvg-logo="https://assets.stickpng.com/images/5c1118ee1e49f004df5e38c0.png",N | Excelsior TV
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/16370
-#EXTINF:-1 group-title="TV | Noticias" tvg-logo="http://ceoapps.org/logos/dw.png",N | DW HQ
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155163
-#EXTINF:-1 group-title="TV | Noticias" tvg-logo="http://ceoapps.org/logos/dw.png",N | DW
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10612
 #EXTINF:-1 group-title="TV | Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Cablepulse24.svg/1280px-Cablepulse24.svg.png",N | CP24
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/212110
 #EXTINF:-1 group-title="TV | Noticias" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png",N | CNN International HD
@@ -921,14 +753,10 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155157
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10604
 #EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/multimedios2.png",MULTIMEDIOS Bajío HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2151042
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/4787ee2b14f7ba49608f3609a9b18130.png",MSNBC
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113566
 #EXTINF:-1 group-title="TV | Musica" tvg-logo="http://ceoapps.org/logos/mtv90s.png",MS| MTV 90s
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2145708
 #EXTINF:-1 group-title="TV | Musica" tvg-logo="http://ceoapps.org/logos/mtv80s.png",MS| MTV 80s
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2145661
-#EXTINF:-1 group-title="TV | Musica" tvg-logo="http://ceoapps.org/logos/xlmusic.png",MS | XL MUSICA TV HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2098845
 #EXTINF:-1 group-title="TV | Musica" tvg-logo="http://ceoapps.org/logos/vh1classic.png",MS | VH1 Classic
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2098828
 #EXTINF:-1 group-title="TV | Musica" tvg-logo="http://ceoapps.org/logos/vevo.png",MS | VEVO POP HD
@@ -947,8 +775,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2098822
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2098821
 #EXTINF:-1 group-title="TV | Musica" tvg-logo="http://ceoapps.org/logos/mcrock.png",MS | MC ROCK
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2098867
-#EXTINF:-1 group-title="TV | Musica" tvg-logo="http://ceoapps.org/logos/lamega.png",MS | LA MEGA
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2098840
 #EXTINF:-1 group-title="TV | Musica" tvg-logo="http://ceoapps.org/logos/hitlist.png",MS | Hit List HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2098865
 #EXTINF:-1 group-title="TV | Musica" tvg-logo="http://ceoapps.org/logos/greathits.png",MS | Greatest Hits
@@ -993,8 +819,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2157469
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2145707
 #EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/tvcuatro.png",M| Canal 4
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2123314
-#EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/canal12.png",M| Canal 12 Tijuana
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2123316
 #EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/tvt.png",M | TVT Tabasco
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2123294
 #EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/tvp.png",M | TVP Culiacan
@@ -1007,10 +831,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10817
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/165138
 #EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/televisa.png",M | Televisa Puebla HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2145663
-#EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/televisa.png",M | Televisa Mexicali
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2169269
-#EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/televisa.png",M | Televisa Durango
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2169270
 #EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/telemax.png",M | Telemax Hermosillo
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/165136
 #EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/telemax.png",M | Telemax
@@ -1035,8 +855,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113879
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/154118
 #EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/mvs.png",M | MVS TV
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/76078
-#EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/mvnoax.png",M | MVM Noticias Oaxaca
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/165129
 #EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/multimedios2.png",M | Multimedios Plus HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/202592
 #EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/multimedios2.png",M | Multimedios Plus
@@ -1079,12 +897,8 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/84527
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10831
 #EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/canaldelcongreso.png",M | Canal del Congreso
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2145514
-#EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/canal8lapaz.png",M | Canal 8 - La Paz BCS
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10820
 #EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/slpz.png",M | Canal 7 SLP
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/216022
-#EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/canal66.png",M | Canal 66 Mexicali
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2159384
 #EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/multimedios2.png",M | Canal 6.2 Multimedios Saltillo
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/212819
 #EXTINF:-1 group-title="TV | Mexico" tvg-logo="http://ceoapps.org/logos/canal5.png",M | Canal 5 HD
@@ -1231,14 +1045,10 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2185333
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2185332
 #EXTINF:-1 group-title="TV | USA Latino" tvg-logo="http://ceoapps.org/logos/galavision.png",LA | GALAVISION SACRAMENTO
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2185337
-#EXTINF:-1 group-title="TV | USA Latino" tvg-logo="http://ceoapps.org/logos/galavision.png",LA | GALAVISION RALEIGH
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2185328
 #EXTINF:-1 group-title="TV | USA Latino" tvg-logo="http://ceoapps.org/logos/galavision.png",LA | GALAVISION PHOENIX
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2185331
 #EXTINF:-1 group-title="TV | USA Latino" tvg-logo="http://ceoapps.org/logos/galavision.png",LA | GALAVISION PHILADELPHIA
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2185330
-#EXTINF:-1 group-title="TV | USA Latino" tvg-logo="http://ceoapps.org/logos/galavision.png",LA | GALAVISION NEW YORK
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2185329
 #EXTINF:-1 group-title="TV | USA Latino" tvg-logo="http://ceoapps.org/logos/galavision.png",LA | GALAVISION MIAMI
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2185319
 #EXTINF:-1 group-title="TV | USA Latino" tvg-logo="http://ceoapps.org/logos/galavision.png",LA | GALAVISION LOS ANGELES
@@ -1249,8 +1059,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2185327
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2185325
 #EXTINF:-1 group-title="TV | USA Latino" tvg-logo="http://ceoapps.org/logos/galavision.png",LA | Galavision HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/18095
-#EXTINF:-1 group-title="TV | USA Latino" tvg-logo="http://ceoapps.org/logos/galavision.png",LA | GALAVISION FRESNO
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2185324
 #EXTINF:-1 group-title="TV | USA Latino" tvg-logo="http://ceoapps.org/logos/galavision.png",LA | GALAVISION EAST
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2185323
 #EXTINF:-1 group-title="TV | USA Latino" tvg-logo="http://ceoapps.org/logos/galavision.png",LA | GALAVISION DALLAS
@@ -1367,14 +1175,10 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2138224
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155926
 #EXTINF:-1 group-title="TV | Guatemala" tvg-logo="http://l3d.us:8080/images/e2d19a89c915d408220043a7b0792111.png",GT: Retro Tv
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155918
-#EXTINF:-1 group-title="TV | Guatemala" tvg-logo="http://xtream.host/imagenes/canales/guatevisionpng",GT: Guatevision
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155919
 #EXTINF:-1 group-title="TV | Guatemala" tvg-logo="http://l3d.us:8080/images/f6029316f9a7bcc352914a5a90664fab.png",GT: Canal Antigua
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155920
 #EXTINF:-1 group-title="TV | Guatemala" tvg-logo="http://l3d.us:8080/images/d6d9f8936016b43b3ab030dab8b311bd.png",GT: Canal 7
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155921
-#EXTINF:-1 group-title="TV | Guatemala" tvg-logo="http://l3d.us:8080/images/b9a42e58bc2eafc09edac94101d53e86.png",GT: Canal 3
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155922
 #EXTINF:-1 group-title="TV | Guatemala" tvg-logo="http://l3d.us:8080/images/46ef22ba3a672eeac413dae67842ea71.png",GT: Canal 13
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155923
 #EXTINF:-1 group-title="TV | Guatemala",GT | TeleCosta
@@ -1403,16 +1207,10 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113553
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113552
 #EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png",FOX Minnesota
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113550
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/696a8969bf4171f6c100c001a71a85c6.png",FOX MIAMI
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113549
 #EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png",FOX Massachusetts
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113548
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png",FOX Indiana
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113547
 #EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png",FOX Idaho
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2113546
-#EXTINF:-1 group-title="TV | USA Networks" tvg-logo="http://l3d.us:25461/images/1cbdb8043b37c7c9ca83582f9218c8b4.png",FOX Houston
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2123437
 #EXTINF:-1 group-title="TV | España" tvg-logo="http://l3d.us:25461/images/f6aba6fff30a9d28c83ea33605a7451c.png",ES: M. Accion SD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2146875
 #EXTINF:-1 group-title="TV | España" tvg-logo="http://l3d.us:25461/images/f6aba6fff30a9d28c83ea33605a7451c.png",ES: M. Accion FHD
@@ -1425,12 +1223,8 @@ http://magi-stv.net:8080/movie/rhinoxCP/TG66W5jsaLRn/2055630.avi
 http://magi-stv.net:8080/movie/rhinoxCP/TG66W5jsaLRn/2099893.avi
 #EXTINF:-1 group-title="TV | Ecuador" tvg-logo="https://sonoonda.com/wp-content/uploads/2022/01/cropped-cropped-cropped-cropped-215853981_1495774530757901_6841612693650402946_n.png",EC|: Sono Onda
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2130709
-#EXTINF:-1 group-title="TV | Ecuador" tvg-logo="http://ceoapps.org/logos/hechosecuador.png",EC|: Hechos Ecuador
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2130559
 #EXTINF:-1 group-title="TV | Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png",EC| Teleamazonas Sierra
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/176976
-#EXTINF:-1 group-title="TV | Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png",EC| Teleamazonas Quito HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/11042
 #EXTINF:-1 group-title="TV | Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png",EC| Teleamazonas Quito FHD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/153892
 #EXTINF:-1 group-title="TV | Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png",EC| Teleamazonas Quito
@@ -1461,8 +1255,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/11037
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/180469
 #EXTINF:-1 group-title="TV | Ecuador (Deportes)" tvg-logo="http://ceoapps.org/logos/goltv.png",EC| Gol TV (MOVIL)
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/180467
-#EXTINF:-1 group-title="TV | Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/640px-Logo_Ecuavisa.svg.png",EC| Ecuavisa Guayaquil HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2138876
 #EXTINF:-1 group-title="TV | Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png",EC| Ecuador TV HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/11030
 #EXTINF:-1 group-title="TV | Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png",EC| Ecuador TV FHD
@@ -1495,14 +1287,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/197619
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10582
 #EXTINF:-1 group-title="TV | Entretenimiento" tvg-logo="http://ceoapps.org/logos/unicable.png",E | Unicable
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10581
-#EXTINF:-1 group-title="TV | Entretenimiento" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png",E | TNT Series HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10578
-#EXTINF:-1 group-title="TV | Entretenimiento" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png",E | TNT Series FHD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/148805
-#EXTINF:-1 group-title="TV | Entretenimiento" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png",E | TNT Series (ARG)
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2147953
-#EXTINF:-1 group-title="TV | Entretenimiento" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png",E | TNT Series
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10573
 #EXTINF:-1 group-title="TV | Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",E | TNT Novelas
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2186389
 #EXTINF:-1 group-title="TV | Entretenimiento" tvg-logo="http://ceoapps.org/logos/tlnovelas.png",E | TL Novelas HD
@@ -1575,12 +1359,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/148725
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10560
 #EXTINF:-1 group-title="TV | Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",E | Europa TV HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2145664
-#EXTINF:-1 group-title="TV | Entretenimiento" tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png",E | E! HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10557
-#EXTINF:-1 group-title="TV | Entretenimiento" tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png",E | E! FHD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/148722
-#EXTINF:-1 group-title="TV | Entretenimiento" tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png",E | E!
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10556
 #EXTINF:-1 group-title="TV | Entretenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/DreamWorks-Logo-2007.png",E | Dream Works
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2163078
 #EXTINF:-1 group-title="TV | Entretenimiento" tvg-logo="https://static.epg.best/mx/DistritoComedia.mx.png",E | Distrito Comedia HD
@@ -1627,8 +1405,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2145710
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/202065
 #EXTINF:-1 group-title="TV | Entretenimiento" tvg-logo="https://static.epg.best/mx/AandE.mx.png",E | A&E FHD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/148716
-#EXTINF:-1 ,DESCARGA VOX PLAYER M3U DESDE PLAYSTORE
-https://dl.dropboxusercontent.com/s/vbbf23iud82xqks/voxplayerm3u.mp4
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/tycsports.png",D| TYC Sports HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/199511
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/tycsports.png",D| TYC Sports
@@ -1643,8 +1419,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155675
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10955
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/tudnmx.png",D| TUDN
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/191356
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/tntsports.png",D| TNT Sports
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155677
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/tigosportshonduras22.png",D| Tigo Sports HN HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155641
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/tigosportshonduras22.png",D| Tigo Honduras (solo eventos)
@@ -1653,8 +1427,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/12510
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/222744
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/skysports.png",D| SKY Sports HD 16
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/222745
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/skysports.png",D| SKY Sports Arena
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/115045
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/realmadridtv.png",D| Real Madrid TV
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/222746
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/pxsports.png",D| PX Sports HD
@@ -1685,10 +1457,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10945
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/202100
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/foxsports3col2.png",D| Fox Sports 3 | COL FHD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/183214
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/foxsports3cl2.png",D| Fox Sports 3 | CL
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/183334
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/foxsports3arg1.png",D| Fox Sports 3 | ARG
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10958
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/foxsports2mx.png",D| Fox Sports 2 | MX HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10952
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/foxsports2mx.png",D| Fox Sports 2 | MX FHD
@@ -1703,18 +1471,12 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/183213
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/183332
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/foxsports2cl.png",D| Fox Sports 2 | CL FHD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/183333
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/foxsports2arg.png",D| Fox Sports 2 | ARG HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10957
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/foxsports2arg.png",D| Fox Sports 2 | ARG
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/183215
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/foxsportsmx1.png",D| Fox Sports | MX HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155648
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/foxsportsmx1.png",D| Fox Sports | MX FHD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10953
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/foxsportsmx1.png",D| Fox Sports | MX
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10950
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/foxsportscl1.png",D| Fox Sports | COL
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/183212
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/foxsportscl1.png",D| Fox Sports | CL HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/183330
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/foxsportscl1.png",D| Fox Sports | CL FHD
@@ -1749,10 +1511,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/181370
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/158472
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/espndeportes.png",D| Espn Deportes
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/202473
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/espn4cl.png",D| ESPN 4 CL
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2121680
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/espn4arg.png",D| ESPN 4 ARG
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2121660
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/espn3mx.png",D| Espn 3 | MX FHD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155475
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/espn3mx.png",D| Espn 3 | MX
@@ -1783,10 +1541,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10940
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/181347
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/espncol.png",D| Espn | COL
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/181016
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/espnarg1.png",D| Espn | ARG FHD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/202064
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/espnarg1.png",D| Espn | ARG
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/181047
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/directvsports1.png",D| DIRECTV SPORTS FHD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/203185
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/directvsportsplus2.png",D| DIRECTV SPORTS +
@@ -1809,10 +1563,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2144856
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2144855
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/dazn2.png",D| DAZN 2
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/223950
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/dazn.png",D| DAZN 1
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/223949
-#EXTINF:-1 group-title="TV | Dazn Sport Channels" tvg-logo="http://ceoapps.org/logos/dazn.png",D| DAZN  2 SD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2144857
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/clarosports2.png",D| Claro Sports Latinoamerica
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10924
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/cazaypesca.png",D| Caza y pesca FHD
@@ -1847,8 +1597,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/197768
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155250
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/adrenalinasports2.png",D| Adrenalina Sports
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10960
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/ligasmartbank2.png",D|  LaLiga SmartBank HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2144863
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/zonatudn2.png",D | Zona TUDN MX
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2130323
 #EXTINF:-1 group-title="TV | Liga Dominicana de Beisbol" tvg-logo="http://l3d.us:25461/images/4a01b27fb34a5bf8b8d6012f74e30bfb.png",D | Toros del Este - Romana TV
@@ -1857,10 +1605,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2144844
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/219775
 #EXTINF:-1 group-title="TV | Liga Dominicana de Beisbol" tvg-logo="http://l3d.us:25461/images/8b126acdeabb2bc757d68fb8b9b00005.png",D | Teleantillas Canal 2
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2144843
-#EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/skysportsf1.png",D | SKY Sports F1
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2107602
-#EXTINF:-1 group-title="TV | Liga Dominicana de Beisbol" tvg-logo="http://l3d.us:25461/images/d03864c7b9009e32f22748da43b9fad0.png",D | Gigantes del Cibao - Certv 4
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2144842
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/fueltv.png",D | Fuel TV HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2145670
 #EXTINF:-1 group-title="TV | Deportes" tvg-logo="http://ceoapps.org/logos/foxsportspremium.png",D | Fox Sports Premium | MX
@@ -1869,14 +1613,10 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2106730
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/219085
 #EXTINF:-1 group-title="TV | Liga Dominicana de Beisbol" tvg-logo="http://l3d.us:25461/images/520efd4c91aca48c698954dd9a882db8.png",D | Águilas Cibaeñas - CDN Deportes
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2144839
-#EXTINF:-1 group-title="TV | Cuba" tvg-logo="http://l3d.us:25461/images/bd97bb88b8bfb28662fbe3e4b2f2aebd.png",CU | Cubavision Internacional
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/14524
 #EXTINF:-1 group-title="TV | Costa Rica",CR| Trivison 36
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2132365
 #EXTINF:-1 group-title="TV | Costa Rica" tvg-logo="http://l3d.us:25461/images/1ed35b6b08628f1fde11491300ff1020.png",CR| FUTV
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2121812
-#EXTINF:-1 group-title="TV | Costa Rica" tvg-logo="http://atlantis-mx.com/logos/vmcr.png",CR | VM LATINO
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2089786
 #EXTINF:-1 group-title="TV | Costa Rica",CR | TELEUNO
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2169977
 #EXTINF:-1 group-title="TV | Costa Rica" tvg-logo="http://l3d.us:25461/images/9ff2d6af39181cae0327b409698fe650.png",CR | Telesur
@@ -1907,16 +1647,12 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2159177
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/222742
 #EXTINF:-1 group-title="TV | Colombia" tvg-logo="http://ceoapps.org/logos/calitv.png",COL | Cali TV
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/217129
-#EXTINF:-1 group-title="TV | Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png",CO | Win Sports HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/176587
 #EXTINF:-1 group-title="TV | Colombia" tvg-logo="http://ceoapps.org/logos/winsportsplus.png",CO | Win Sports + HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/12257
 #EXTINF:-1 group-title="TV | Colombia" tvg-logo="http://ceoapps.org/logos/winsportsplus.png",CO | Win Sports + FHD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155248
 #EXTINF:-1 group-title="TV | Colombia" tvg-logo="http://ceoapps.org/logos/winsportsplus.png",CO | Win Sports +
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155693
-#EXTINF:-1 group-title="TV | Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png",CO | Win Sports
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/176585
 #EXTINF:-1 group-title="TV | Colombia" tvg-logo="http://ceoapps.org/logos/telepacifico.png",CO | TelePacifico HQ
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/176620
 #EXTINF:-1 group-title="TV | Colombia" tvg-logo="http://ceoapps.org/logos/telepacifico.png",CO | Telepacifico
@@ -1925,8 +1661,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/176607
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/202129
 #EXTINF:-1 group-title="TV | Colombia" tvg-logo="https://alexanderiglesiasacevedo258422816.files.wordpress.com/2020/12/telecaf3f_2020.png",CO | Telecafé HQ
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/176602
-#EXTINF:-1 group-title="TV | Colombia" tvg-logo="https://alexanderiglesiasacevedo258422816.files.wordpress.com/2020/12/telecaf3f_2020.png",CO | Telecafé
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/176618
 #EXTINF:-1 group-title="TV | Colombia" tvg-logo="http://ceoapps.org/logos/scolombia.png",CO | Señal Colombia HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155736
 #EXTINF:-1 group-title="TV | Colombia" tvg-logo="http://ceoapps.org/logos/rcnovelas.png",CO | RCN Novelas HD
@@ -1973,10 +1707,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155737
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155734
 #EXTINF:-1 group-title="TV | Colombia" tvg-logo="http://ceoapps.org/logos/calitv.png",CO | Cali TV
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/155733
-#EXTINF:-1 group-title="TV | Colombia" tvg-logo="http://ceoapps.org/logos/cablenoticias.png",CO | Cablenoticias
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/176609
-#EXTINF:-1 group-title="TV | Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png",CO | Cable Noticias HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/176589
 #EXTINF:-1 group-title="TV | Chile",CL | ZONA LATINA
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2169976
 #EXTINF:-1 group-title="TV | Chile" tvg-logo="http://ceoapps.org/logos/tvmaschile.png",CL | TV +
@@ -2013,8 +1743,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/25354
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/25372
 #EXTINF:-1 group-title="TV | Chile" tvg-logo="http://ceoapps.org/logos/cana13chilee.png",CL | Canal 13
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/25358
-#EXTINF:-1 group-title="TV | Chile" tvg-logo="http://ceoapps.org/logos/24horaschile.png",CL | 24 Horas
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/25357
 #EXTINF:-1 group-title="TV | Chile" tvg-logo="http://ceoapps.org/logos/13ichile.png",CL | 13i
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/25356
 #EXTINF:-1 group-title="VOD | XXX" tvg-logo="http://l3d.us:25461/images/bc9189406be84ec297464a514221406d.png",Chocolate.E.Porn.Especial-Natal.Inter-Racial.SPANISH.XXX
@@ -2133,8 +1861,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10420
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/148704
 #EXTINF:-1 group-title="TV | Cultura" tvg-logo="https://static.epg.best/mx/DiscoveryHomeHealth.mx.png",C | Discovery H&H
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10419
-#EXTINF:-1 group-title="TV | Cultura",C | DISCOVERY CIVILIZATION
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2169975
 #EXTINF:-1 group-title="TV | Cultura" tvg-logo="http://ceoapps.org/logos/discoverychannelizzi.png",C | Discovery Channel HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10410
 #EXTINF:-1 group-title="TV | Cultura" tvg-logo="http://ceoapps.org/logos/discoverychannelizzi.png",C | Discovery Channel FHD
@@ -2147,10 +1873,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/183442
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/183445
 #EXTINF:-1 group-title="TV | Cultura" tvg-logo="http://ceoapps.org/logos/discoverychannel.png",C | Discovery Channel
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10409
-#EXTINF:-1 group-title="TV | Cultura" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png",C | Animal Planet HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10407
-#EXTINF:-1 group-title="TV | Cultura" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png",C | Animal Planet FHD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/147960
 #EXTINF:-1 group-title="TV | Cultura" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png",C | Animal Planet
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10408
 #EXTINF:-1 group-title="TV | Cultura",C |  CONCERT CHANNEL
@@ -2197,8 +1919,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2171086
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2171084
 #EXTINF:-1 group-title="TV | Brasil" tvg-logo="http://ceoapps.org/logos/espn2.png",BR | ESPN 2
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2171083
-#EXTINF:-1 group-title="TV | Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/2560px-World_Discovery_HD_logo.svg.png",BR | DISCOVERY WORLD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2171082
 #EXTINF:-1 group-title="TV | Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",BR | DISCOVERY TURBO
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2171081
 #EXTINF:-1 group-title="TV | Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png",BR | DISCOVERY THEATER
@@ -2241,16 +1961,8 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/188396
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/188411
 #EXTINF:-1 group-title="TV | Bolivia" tvg-logo="http://ceoapps.org/logos/gigavisionbo.png",BO || Gigavision &gt;)
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/188408
-#EXTINF:-1 group-title="TV | Bolivia" tvg-logo="http://ceoapps.org/logos/bolivision1.png",BO || Bolivision Santa Cruz &gt;)
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/188406
-#EXTINF:-1 group-title="TV | Bolivia" tvg-logo="http://ceoapps.org/logos/bolivision1.png",BO || Bolivision La Paz
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/188405
 #EXTINF:-1 group-title="TV | Bolivia" tvg-logo="http://ceoapps.org/logos/btv.png",BO || Bolivia TV
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/188402
-#EXTINF:-1 group-title="TV | Bolivia" tvg-logo="http://ceoapps.org/logos/seotv.png",BO | SEO TV Novelas
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2167173
-#EXTINF:-1 group-title="TV | Bolivia" tvg-logo="http://ceoapps.org/logos/seotv.png",BO | SEO TV 2
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2167174
 #EXTINF:-1 group-title="TV | Bolivia" tvg-logo="http://ceoapps.org/logos/redadvenir.png",BO | Red Advenir
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2167181
 #EXTINF:-1 group-title="TV | Bolivia" tvg-logo="http://ceoapps.org/logos/erboltv.png",BO | Erbol TV
@@ -2265,8 +1977,6 @@ http://magi-stv.net:8080/movie/rhinoxCP/TG66W5jsaLRn/2055628.avi
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2170060
 #EXTINF:-1 group-title="TV | Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png",ARG: Telesur
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/210863
-#EXTINF:-1 group-title="TV | Argentina" tvg-logo="http://ceoapps.org/logos/tntsportsar.png",AR| TNT Sports HD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2140800
 #EXTINF:-1 group-title="TV | Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png",AR| Telefe
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/210861
 #EXTINF:-1 group-title="TV | Argentina",AR| NET TV
@@ -2287,8 +1997,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/210850
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/210849
 #EXTINF:-1 group-title="TV | Argentina" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4DC0-vjxdknUnvyD_wtUZ3iAacVmZqmj7_O6aRYYGT30zyv7Up4KWSamHZ_eZ3H84uhvmrXs-XiVCG2KX_xVteVyguWXrPr1D_MNiBJT6ckBDA_-5Gx-FTnaXA0EXGl4o2i91qFqnI0Z5P9N45IKO5TX3bDdWMmqTXzua5KV5YRDJAJnkNPN0hx9h/s558/CRONICATV.png",AR| Cronica
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/210848
-#EXTINF:-1 group-title="TV | Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",AR| Ciudad Magazine
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/210845
 #EXTINF:-1 group-title="TV | Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png",AR| Cine AR HD
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/210844
 #EXTINF:-1 group-title="TV | Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png",AR| Canal 26 HD
@@ -2301,10 +2009,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2169972
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/210835
 #EXTINF:-1 group-title="TV | Argentina" tvg-logo="http://ceoapps.org/logos/americatvar.png",AR| America TV
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/210836
-#EXTINF:-1 group-title="TV | USA Sports",ABC seattle | KOMO 4
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2151870
-#EXTINF:-1 group-title="TV | USA Networks",ABC JACKSONVILLE
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2170064
 #EXTINF:-1 group-title="TV | 2 Megas" tvg-logo="https://static.epg.best/ar/Warner.ar.png",2MB| WARNER LQ
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092574
 #EXTINF:-1 group-title="TV | 2 Megas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png",2MB| Telemundo Internacional
@@ -2331,8 +2035,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092564
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2095413
 #EXTINF:-1 group-title="TV | 2 Megas" tvg-logo="http://ceoapps.org/logos/tudnus.png",2MB | TUDN USA
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092604
-#EXTINF:-1 group-title="TV | 2 Megas" tvg-logo="http://ceoapps.org/logos/tudnmx.png",2MB | TUDN MX LQ
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092577
 #EXTINF:-1 group-title="TV | 2 Megas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png",2MB | TOONCAST LQ
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2095395
 #EXTINF:-1 group-title="TV | 2 Megas" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png",2MB | TNT Series
@@ -2505,8 +2207,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2090912
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2091023
 #EXTINF:-1 group-title="TV | 24/7 Series" tvg-logo="http://ceoapps.org/logos/narcos24.png",24/7 NARCOS
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2090920
-#EXTINF:-1 group-title="TV | 24/7 Peliculas" tvg-logo="http://ceoapps.org/logos/cinema2.png",24/7 Marvel Saga Infinito
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2133201
 #EXTINF:-1 group-title="TV | 24/7 Peliculas" tvg-logo="http://ceoapps.org/logos/cinema2.png",24/7 MARVEL
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2090921
 #EXTINF:-1 group-title="TV | 24/7 Peliculas" tvg-logo="http://ceoapps.org/logos/cinema2.png",24/7 M|Películas Drama
@@ -2517,8 +2217,6 @@ http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/210823
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/210822
 #EXTINF:-1 group-title="TV | 24/7 Peliculas" tvg-logo="http://ceoapps.org/logos/cinema2.png",24/7 M| Cinema 14
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/210821
-#EXTINF:-1 group-title="TV | 24/7 Peliculas" tvg-logo="http://ceoapps.org/logos/cinema2.png",24/7 M| Cinema 13
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/210820
 #EXTINF:-1 group-title="TV | 24/7 Peliculas" tvg-logo="http://ceoapps.org/logos/cinema2.png",24/7 M| Cinema 12
 http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/210819
 #EXTINF:-1 group-title="TV | 24/7 Peliculas" tvg-logo="http://ceoapps.org/logos/cinema2.png",24/7 M| Cinema 11
