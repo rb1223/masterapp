@@ -103,8 +103,6 @@ http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2091012
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2090890
 #EXTINF:-1 group-title="TV | 24/7 Retro" tvg-logo="http://ceoapps.org/logos/letemesalaoscuridad.png",24/7 | Le Temes a la Oscuridad
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2090972
-#EXTINF:-1 group-title="TV | 24/7 Infantil" tvg-logo="http://ceoapps.org/logos/gatossamuray.png",24/7 | Los Gatos Samurai
-http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2090891
 #EXTINF:-1 group-title="TV | 24/7 Retro" tvg-logo="http://ceoapps.org/logos/picapiedras.png",24/7 | Los Picapiedra
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2090989
 #EXTINF:-1 group-title="TV | 24/7 Series" tvg-logo="http://atlantis-mx.com/logos/simpson24.png",24/7 | Los Simpson
@@ -1095,10 +1093,6 @@ http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/10584
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2154022
 #EXTINF:-1 group-title="TV | Ecuador" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/telerama-2-logo-png-transparent.png",EC | Telerama
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/219710
-#EXTINF:-1 group-title="TV | Ecuador" tvg-logo="https://comunicate.ec/wp-content/uploads/2022/04/canelatv.png",EC| Canela TV
-http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/176954
-#EXTINF:-1 group-title="TV | Ecuador" tvg-logo="https://comunicate.ec/wp-content/uploads/2022/04/canelatv.png",EC| Canela TV HQ
-http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/147950
 #EXTINF:-1 group-title="TV | Ecuador (Deportes)" tvg-logo="http://ceoapps.org/logos/directvsports1.png",EC| Directv Sports
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/11047
 #EXTINF:-1 group-title="TV | Ecuador (Deportes)" tvg-logo="http://ceoapps.org/logos/directvsports2.png",EC| Directv Sports 2 HD
@@ -1109,8 +1103,6 @@ http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/11024
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/180467
 #EXTINF:-1 group-title="TV | Ecuador (Deportes)" tvg-logo="http://ceoapps.org/logos/goltv.png",EC| Gol TV HD (OPCION 2)
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/180469
-#EXTINF:-1 group-title="TV | Ecuador" tvg-logo="http://ceoapps.org/logos/tc2.png",EC| TC Television
-http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/11038
 #EXTINF:-1 group-title="TV | Ecuador" tvg-logo="http://ceoapps.org/logos/tc2.png",EC| TC Television FHD
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/172233
 #EXTINF:-1 group-title="TV | Ecuador" tvg-logo="http://ceoapps.org/logos/tc2.png",EC| TC Television HD
@@ -1145,8 +1137,6 @@ http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2100642
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2100641
 #EXTINF:-1 group-title="TV | España" tvg-logo="https://static.epg.best/th/AXN.th.png",ES: AXN SD
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2100640
-#EXTINF:-1 group-title="TV | España" tvg-logo="http://l3d.us:25461/images/48f2f194ab3167c9b0a38afedfff1164.png",ES: Canal Cocina FHD
-http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2100592
 #EXTINF:-1 group-title="TV | España" tvg-logo="http://l3d.us:25461/images/48f2f194ab3167c9b0a38afedfff1164.png",ES: Canal Cocina SD
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2100591
 #EXTINF:-1 group-title="TV | España" tvg-logo="http://l3d.us:25461/images/f21a9236373afe20f8fca55b0c7aa3c6.png",ES: Cazavision SD
@@ -1211,8 +1201,6 @@ http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2100958
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2185711
 #EXTINF:-1 group-title="TV | Honduras" tvg-logo="http://l3d.us:25461/images/3ec303e61835493107e6cc64b194614e.png",HOND| TELECADENA HD
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2100981
-#EXTINF:-1 group-title="TV | Honduras" tvg-logo="http://l3d.us:25461/images/0703d24d016d1efd26f19f44ad394534.png",HOND| TELECEIBA HD
-http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2100984
 #EXTINF:-1 group-title="TV | Honduras" tvg-logo="http://l3d.us:25461/images/b5a973d7b35ac56a80a650273973ffa3.png",HOND| TNH HD
 http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2100965
 #EXTINF:-1 group-title="TV | Honduras" tvg-logo="http://l3d.us:25461/images/43f322e8215fe835d9431d3234a34b65.png",HOND| VICA TV HD
@@ -2115,8 +2103,6 @@ http://185.155.103.50:8080/movie/EdwinCarrillo/AppEC2023/2099911.mp4
 http://185.155.103.50:8080/movie/EdwinCarrillo/AppEC2023/2099912.mp4
 #EXTINF:-1 group-title="VOD | XXX" tvg-logo="http://l3d.us:25461/images/bc9189406be84ec297464a514221406d.png",sexmex 20 08 18 mei cornejo horny tik tok
 http://185.155.103.50:8080/movie/EdwinCarrillo/AppEC2023/2099913.mp4
-#EXTINF:-1 group-title="VOD | XXX" tvg-logo="http://l3d.us:25461/images/bc9189406be84ec297464a514221406d.png",sexmex.19.06.05.teresa.ferrer.motivating.step-mom
-http://185.155.103.50:8080/movie/EdwinCarrillo/AppEC2023/2055641.mp4
 #EXTINF:-1 group-title="VOD | XXX" tvg-logo="http://l3d.us:25461/images/bc9189406be84ec297464a514221406d.png",sexmex.20.08.17.claudia.valenzuela.sex.with.gynecologist
 http://185.155.103.50:8080/movie/EdwinCarrillo/AppEC2023/2055648.mp4
 #EXTINF:-1 group-title="VOD | XXX" tvg-logo="http://l3d.us:25461/images/bc9189406be84ec297464a514221406d.png",sexmex.20.08.18.mei.cornejo.horny.tik.tok
