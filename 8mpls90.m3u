@@ -2,6 +2,33 @@
 #EXTINF:-1 ,DESCARGA VOX PLAYER M3U DESDE PLAYSTORE
 https://dl.dropboxusercontent.com/s/vbbf23iud82xqks/voxplayerm3u.mp4
 
+#EXTINF:-1 group-title="Peliculas Viejas" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/66/69/82/20350782.jpg",10000 AC (2008)
+http://vod.tuxchannel.mx/peliculas/720/10000%20bc.mkv
+#EXTINF:-1 group-title="2021" tvg-logo="https://mx.web.img3.acsta.net/c_310_420/pictures/21/04/19/11/15/1958505.jpg",12 Mighty orphans (2021)
+http://vod.tuxchannel.mx/peliculas/720/12%20mighty%20orphans%202021.mkv
+#EXTINF:-1 group-title="Peliculas Viejas" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/69/04/90/20126595.jpg",12 monos (1995)
+http://vod.tuxchannel.mx/peliculas/720/12%20monkeys.mkv
+#EXTINF:-1 group-title="Peliculas Viejas" tvg-logo="https://m.media-amazon.com/images/I/51RpZUzt8ZL._AC_.jpg",127 horas (2010)
+http://vod.tuxchannel.mx/peliculas/720/127%20hours.mkv
+#EXTINF:-1 group-title="Peliculas Viejas" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/69/51/94/20051367.jpg",1408 (2007)
+http://vod.tuxchannel.mx/peliculas/720/1408.mkv
+#EXTINF:-1 group-title="Peliculas Viejas" tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/69/42/96/20290524.jpg",17 otra vez (2009)
+http://vod.tuxchannel.mx/peliculas/720/17%20again%202009.mkv
+#EXTINF:-1 group-title="2019" tvg-logo="https://m.media-amazon.com/images/I/81zcfMMyAnL._SL1500_.jpg",1917 (2019)
+http://vod.tuxchannel.mx/peliculas/720/1917%202019.mkv
+#EXTINF:-1 group-title="Peliculas Viejas" tvg-logo="https://m.media-amazon.com/images/I/51fmEM55wKL._AC_SY445_.jpg",27 bodas (2008)
+http://vod.tuxchannel.mx/peliculas/720/27%20dresses.mkv
+#EXTINF:-1 group-title="2015" tvg-logo="https://es.web.img2.acsta.net/pictures/14/11/24/12/19/213308.jpg",30 dias para ir a la carcel (2015)
+http://vod.tuxchannel.mx/peliculas/720/get%20hard.mkv
+#EXTINF:-1 group-title="Peliculas Viejas" tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/67/71/17/20027466.jpg",300 (2006)
+http://vod.tuxchannel.mx/peliculas/720/300.mkv
+#EXTINF:-1 group-title="Peliculas Viejas" tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/17/14/10/345306.jpg",300: El origen de un imperio (2014)
+http://vod.tuxchannel.mx/peliculas/720/300%20rise%20of%20an%20empire.mkv
+#EXTINF:-1 group-title="2020" tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/31/15/10/0251908.jpg",4 Chicos y Esto: Pide un deseo (2020)
+http://vod.tuxchannel.mx:80/peliculas/720/four%20kids%20and%20it%202018.mkv
+#EXTINF:-1 group-title="2022" tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/10/22/46/3336792.png",4 mitades (2022)
+http://vod.tuxchannel.mx/peliculas/720/quattro%20meta%202022.mkv
+
 #EXTINF:-1,Un papá genial (1999)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2Fparte2%2FBig.Daddy%20LAT.mp4
 #EXTINF:-1,El lobo de Wall Street (2013)
