@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1,13-Sinart
-http://168.232.168.242:4000/play/a054/index.m3u8
-#EXTINF:-1,42 - Extra TV 42
-http://168.232.168.242:4000/play/a03d/index.m3u8
+#EXTINF:-1 ,DESCARGA VOX PLAYER M3U DESDE PLAYSTORE
+https://dl.dropboxusercontent.com/s/vbbf23iud82xqks/voxplayerm3u.mp4
 #EXTINF:-1,A&E HD
 http://168.232.168.242:4000/play/a00b/index.m3u8
 #EXTINF:-1,AMC HD
