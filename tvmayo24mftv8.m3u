@@ -1,0 +1,279 @@
+#EXTM3U
+#EXTINF:-1 ,DESCARGA VOX PLAYER M3U DESDE PLAYSTORE
+https://dl.dropboxusercontent.com/s/vbbf23iud82xqks/voxplayerm3u.mp4
+#EXTINF:-1,a&e
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/1.ts
+#EXTINF:-1,a&e us
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/2.ts
+
+#EXTINF:-1,amc
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/7.ts
+#EXTINF:-1,amc
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/8.ts
+#EXTINF:-1,animal planet
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/9.ts
+#EXTINF:-1,animal planet
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/10.ts
+#EXTINF:-1,discovery tlc
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/11.ts
+#EXTINF:-1,hola tv
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/12.ts
+
+#EXTINF:-1,axn
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/15.ts
+#EXTINF:-1,axn
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/16.ts
+#EXTINF:-1,tvc deportes
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/17.ts
+
+#EXTINF:-1,azcorazón
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/19.ts
+#EXTINF:-1,azcorazón
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/20.ts
+#EXTINF:-1,azteca uno
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/21.ts
+#EXTINF:-1,azcinema
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/23.ts
+#EXTINF:-1,azteca uno
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/24.ts
+#EXTINF:-1,azteca uno
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/25.ts
+#EXTINF:-1,baby tv
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/26.ts
+#EXTINF:-1,baby tv
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/27.ts
+
+#EXTINF:-1,bein sports 3
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/29.ts
+#EXTINF:-1,bein sports
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/30.ts
+#EXTINF:-1,bein sports
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/31.ts
+
+#EXTINF:-1,bein sports ñ
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/36.ts
+#EXTINF:-1,bein sports 3
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/37.ts
+
+#EXTINF:-1,boomerang
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/43.ts
+#EXTINF:-1,bravo
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/44.ts
+
+#EXTINF:-1,canal 5
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/46.ts
+#EXTINF:-1,canal 5
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/47.ts
+#EXTINF:-1,canal once
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/48.ts
+#EXTINF:-1,canal once
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/49.ts
+#EXTINF:-1,caracol
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/50.ts
+#EXTINF:-1,cartoon network
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/51.ts
+
+#EXTINF:-1,sony
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/62.ts
+#EXTINF:-1,cinecanal
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/63.ts
+
+#EXTINF:-1,cinemax
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/65.ts
+
+#EXTINF:-1,cnn
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/70.ts
+#EXTINF:-1,cnn inter
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/71.ts
+
+#EXTINF:-1,comedy central
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/73.ts
+#EXTINF:-1,comedy central us
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/74.ts
+#EXTINF:-1,cooking chanel
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/75.ts
+
+#EXTINF:-1,de pelicula+
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/77.ts
+
+#EXTINF:-1,de pelicula
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/79.ts
+#EXTINF:-1,destination america
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/80.ts
+
+#EXTINF:-1,directv sports 2
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/82.ts
+#EXTINF:-1,directv sports 1
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/83.ts
+#EXTINF:-1,directv sports 2
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/84.ts
+
+#EXTINF:-1,discovery
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/86.ts
+#EXTINF:-1,discovery
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/87.ts
+#EXTINF:-1,discovery us
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/88.ts
+#EXTINF:-1,hgtv
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/89.ts
+#EXTINF:-1,discovery familia
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/90.ts
+#EXTINF:-1,discovery family
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/91.ts
+#EXTINF:-1,discovery id
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/92.ts
+#EXTINF:-1,discovery id
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/93.ts
+
+#EXTINF:-1,discovery kids
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/95.ts
+
+#EXTINF:-1,discovery life us
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/97.ts
+#EXTINF:-1,discovery theater
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/98.ts
+#EXTINF:-1,discovery theater us
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/99.ts
+#EXTINF:-1,discovery turbo
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/100.ts
+#EXTINF:-1,US : ShowTime East HD
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/101.ts
+#EXTINF:-1,disney
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/102.ts
+
+#EXTINF:-1,disney us
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/104.ts
+
+#EXTINF:-1,disney jr
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/106.ts
+#EXTINF:-1,disney jr us
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/107.ts
+
+#EXTINF:-1,distrito comedia
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/111.ts
+#EXTINF:-1,magnolia
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/112.ts
+#EXTINF:-1,entertainment us
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/113.ts
+#EXTINF:-1,entertainment
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/114.ts
+#EXTINF:-1,el gourmet
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/115.ts
+
+#EXTINF:-1,espn 1 mx
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/120.ts
+#EXTINF:-1,espn 1
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/121.ts
+
+#EXTINF:-1,espn 2
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/124.ts
+
+#EXTINF:-1,espn deportes
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/128.ts
+#EXTINF:-1,espn 1
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/129.ts
+#EXTINF:-1,espn extra
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/130.ts
+
+#EXTINF:-1,estrella tv
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/133.ts
+
+#EXTINF:-1,food us
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/138.ts
+#EXTINF:-1,danz f1
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/139.ts
+
+#EXTINF:-1,foro tv
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/141.ts
+
+
+
+#EXTINF:-1,Direct tv 1
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/83.ts
+#EXTINF:-1,Direct tv 2
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/84.ts
+#EXTINF:-1,Direct tv +
+#EXTVLCOPT:http-user-agent=Ng9mohpKHSjd69IxBYgzUXrWtsLrOu1vJRt
+http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/82.ts
+
