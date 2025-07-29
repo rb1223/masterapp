@@ -1,18 +1,13 @@
 #EXTM3U
-
-#EXTINF:-1 ,5tar Max
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/97.m3u8
-#EXTINF:-1 ,A&E
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278616.m3u8
 #EXTINF:-1 ,A&E
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/AANDEMUNDO/40-hls/live-media.m3u8
-#EXTINF:-1 ,ActionMax
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/98.m3u8
-#EXTINF:-1 ,AE
+#EXTINF:-1 ,A&E
 http://185.189.225.150:85/AE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ACTION MAX
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/98.m3u8
 #EXTINF:-1 ,AMC
 http://185.189.225.150:85/AMC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ANIMAL
+#EXTINF:-1 ,ANIMAL PLANET
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278616.m3u8
 #EXTINF:-1 ,ATLAS
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ATLAS/40-hls/live-media.m3u8
@@ -29,11 +24,7 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/BANDAMAX/20-hls/live-media
 #EXTINF:-1 ,BITME
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/BITME/20-hls/live-media.m3u8
 #EXTINF:-1 ,CARACOL
-http://158.69.116.209:20102/live/943bc2ea690443a5b0e64653c513fa5a/91684507e4f841409b60b5fd30970605/70.m3u8
-#EXTINF:-1 ,CARACOL
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CARACOL/40-hls/live-media.m3u8
-#EXTINF:-1 ,CARTOON NETWORK
-http://209.126.106.30:8081/live/b5f22885cedc40448e06e889317ebadc/80f9561f27444d00a27f123a7479e4d4/34.m3u8
 #EXTINF:-1 ,CARTOON NETWORK
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CARTOONNETWORK/20-hls/live-media.m3u8
 #EXTINF:-1 ,CARTOONITO
@@ -52,8 +43,6 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/chREWIND/40-hls/live-media
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CINECANAL/40-hls/live-media.m3u8
 #EXTINF:-1 ,Cinemax
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/99.m3u8
-#EXTINF:-1 ,CLOVER
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CLOVER/40-hls/live-media.m3u8
 #EXTINF:-1 ,CNNE SPANOL
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CNNESPANOL/20-hls/live-media.m3u8
 #EXTINF:-1 ,COMEDY CENTRAL
@@ -65,27 +54,17 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DHE/40-hls/live-media.m3u8
 #EXTINF:-1 ,DISCOVERY
 http://185.189.225.150:85/Discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,DISCOVERY CHANNEL
-http://209.126.106.30:8081/live/daa5bccb934c426991664aa193465ba0/dbd5534634e048bda82a569a1d65df74/46.m3u8
-#EXTINF:-1 ,DISCOVERY CHANNEL
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DISCOVERYCHANNEL/40-hls/live-media.m3u8
 #EXTINF:-1 ,DISCOVERY H&H
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DISCOVERYHOMEandHEALTH/20-hls/live-media.m3u8
-#EXTINF:-1 ,DISCOVERY ID
-http://209.126.106.30:8081/live/4757ada4db09488e8b909a71b9af3b8d/2ee168e8cc864d32baee88eed347be4b/49.m3u8
 #EXTINF:-1 ,DISCOVERY KIDS
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DISCOVERYKIDS/20-hls/live-media.m3u8
 #EXTINF:-1 ,DISCOVERY SCIENCE
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DISCOVERYSCIENCE/20-hls/live-media.m3u8
 #EXTINF:-1 ,DISCOVERY THEATER
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DISCOVERYTHEATER/40-hls/live-media.m3u8
-#EXTINF:-1 ,DISCOVERY TLC
-http://209.126.106.30:8081/live/256c0d0ff9384c5684d4cccc54580379/262f7af457704e89896f9e17d6519e36/50.m3u8
-#EXTINF:-1 ,DISCOVERY TURBO
-http://209.126.106.30:8081/live/ec28fafc47544120aa0a1d3f050ba67f/d4755e72041443f0a9ea8d9186502130/48.m3u8
 #EXTINF:-1 ,DISCOVERY TURBO
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DISCOVERYTURBO/40-hls/live-media.m3u8
-#EXTINF:-1 ,DISNEY
-http://209.126.106.30:8081/live/cfe348a284974881b7db90c338a05a09/f262025569a346b5900f3f9a7f963d46/36.m3u8
 #EXTINF:-1 ,DISNEY CHANNEL
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DISNEYCHANNEL/20-hls/live-media.m3u8
 #EXTINF:-1 ,DISNEY JR
@@ -114,12 +93,8 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPORTSMAX_/40-hls/live-me
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/FIESTAMAX/20-hls/live-media.m3u8
 #EXTINF:-1 ,FUNBOX
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/FUNBOX/20-hls/live-media.m3u8
-#EXTINF:-1 ,FX
-http://209.126.106.30:8081/live/4a681dccf8e8424c8d709a1334967133/0391495a999e46b4905fafd55bde2e48/60.m3u8
 #EXTINF:-1 ,FXHD
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/FXHD/40-hls/live-media.m3u8
-#EXTINF:-1 ,GALAVISION
-http://158.69.116.209:20102/live/7c1a1a551136426c84d21e71603f6cb0/d617af3a130c4caf8e5b2bc5a6ed4824/68.m3u8
 #EXTINF:-1 ,GOLDEN
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/GOLDEN/40-hls/live-media.m3u8
 #EXTINF:-1 ,GOLDEN EDGE
@@ -140,10 +115,6 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/103.m3u8
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/104.m3u8
 #EXTINF:-1 ,HBO Zone HD
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/106.m3u8
-#EXTINF:-1 ,HISTORY 1
-http://209.126.106.30:8081/live/4f3071b953704551858c2702095f2e27/bc104f79cba940caa7a0559cf0995c11/52.m3u8
-#EXTINF:-1 ,HISTORY 2
-http://209.126.106.30:8081/live/b07c4fe99362449a88858787c081c770/00cd57a440704a7995a010ac49559720/51.m3u8
 #EXTINF:-1 ,HISTORY1
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/HISTORY1/40-hls/live-media.m3u8
 #EXTINF:-1 ,HISTORY2
@@ -164,8 +135,6 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/108.m3u8
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/MTV/20-hls/live-media.m3u8
 #EXTINF:-1 ,MTV HITS
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/MTVHITS/20-hls/live-media.m3u8
-#EXTINF:-1 ,NATGEO
-http://209.126.106.30:8081/live/a67cee5f36e245589629f002c292e354/c19dfce4e1b34123a947d1eacebbe85a/53.m3u8
 #EXTINF:-1 ,NATGEO
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/NATGEO/40-hls/live-media.m3u8
 #EXTINF:-1 ,NICK
@@ -209,15 +178,13 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/118.m3u8
 #EXTINF:-1 ,Showtime Women
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/119.m3u8
 #EXTINF:-1 ,SONY
-http://209.126.119.148:20102/live/5abdc76b5918473e96c704e80996aa63/42b4e064387d4c2e990da2aaa3e97005/422.m3u8
-#EXTINF:-1 ,SONY
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/SONY/40-hls/live-media.m3u8
 #EXTINF:-1 ,SONY MOVIES
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/SONYMOVIES/40-hls/live-media.m3u8
 #EXTINF:-1 ,SPACE
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/SPACE/40-hls/live-media.m3u8
-#EXTINF:-1 ,STAR CHANNEL
-http://209.126.106.30:8081/live/2d6b62739e724ca4a4096ed8032dd566/dba9cece0fe64666ab568a1737a778c8/59.m3u8
+#EXTINF:-1 ,STAR MAX
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/97.m3u8
 #EXTINF:-1 ,Starz East
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/120.m3u8
 #EXTINF:-1 ,Starz Encore
@@ -245,8 +212,6 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEHIT/20-hls/live-media.
 #EXTINF:-1 ,TELEHIT MUSICA
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEHITMUSICA/20-hls/live-media.m3u8
 #EXTINF:-1 ,TELEMUNDO
-http://209.126.106.30:8081/live/974005b4204b4ad78588c404b9feac2a/fee8e06e2a9140369d5ee6f58ce0f265/99.m3u8
-#EXTINF:-1 ,TELEMUNDO
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TELEMUNDO/40-hls/live-media.m3u8
 #EXTINF:-1 ,TITAN
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TITAN/40-hls/live-media.m3u8
@@ -264,17 +229,11 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TOONCAST/20-hls/live-media
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/126.m3u8
 #EXTINF:-1 ,TYC SPORT
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/TYCSPORT/40-hls/live-media.m3u8
-#EXTINF:-1 ,UNIMAS
-http://158.69.116.209:20102/live/28e24773a34242da8a7b99113491a868/fd3fd9e60df94f29a4fa0152346dc808/69.m3u8
 #EXTINF:-1 ,UNIVERSAL
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/UNIVERSALCH/40-hls/live-media.m3u8
-#EXTINF:-1 ,UNIVISION
-http://158.69.116.209:20102/live/567c5f338b7241f0bcdabf42a0632918/6bff277dbd4b483eb10a8c99575a9f3a/67.m3u8
 #EXTINF:-1 ,UNIVISION
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/UNIVISION/40-hls/live-media.m3u8
 #EXTINF:-1 ,VEPLUS
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/VEPLUS/20-hls/live-media.m3u8
-#EXTINF:-1 ,WAPA
-http://209.126.106.30:8081/live/939d44773ff3409a8285a67dd652ad5a/ceb2fd9f98b441a49aca12202d01cb35/96.m3u8
 #EXTINF:-1 ,WARNER CHANNEL
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/WARNERCHANNEL/40-hls/live-media.m3u8
