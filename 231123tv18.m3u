@@ -13,11 +13,9 @@ http://185.189.225.150:85/AE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,AMC
 http://185.189.225.150:85/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ANIMAL PLANET
-http://209.126.106.30:8081/live/2974b649b79d4bc7a64f4e8637d69384/d2893114efb14fbdb0e333d4a04155b7/43.m3u8
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278616.m3u8
 #EXTINF:-1 ,ATLAS
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ATLAS/40-hls/live-media.m3u8
-#EXTINF:-1 ,AXN
-http://209.126.106.30:8081/live/d0bf69ee5790423d9f377bde79ec0991/8bd2a9eaefbe48f897fb1d534812215d/57.m3u8
 #EXTINF:-1 ,AXN
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/AXN/40-hls/live-media.m3u8
 #EXTINF:-1 ,AXN
