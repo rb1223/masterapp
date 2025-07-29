@@ -12,6 +12,8 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/98.m3u8
 http://185.189.225.150:85/AE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,AMC
 http://185.189.225.150:85/AMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ANIMAL
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278616.m3u8
 #EXTINF:-1 ,ATLAS
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ATLAS/40-hls/live-media.m3u8
 #EXTINF:-1 ,AXN
