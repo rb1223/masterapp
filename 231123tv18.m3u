@@ -237,3 +237,46 @@ https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/UNIVISION/40-hls/live-medi
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/VEPLUS/20-hls/live-media.m3u8
 #EXTINF:-1 ,WARNER CHANNEL
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/WARNERCHANNEL/40-hls/live-media.m3u8
+
+#EXTINF:0,NETFLIX
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168559.m3u8
+#EXTINF:0,NETFLIX
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168562.m3u8
+#EXTINF:0,NETFLIX
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168563.m3u8
+#EXTINF:0,NETFLIX
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168564.m3u8
+#EXTINF:0,NETFLIX
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168565.m3u8
+#EXTINF:0,NETFLIX
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168566.m3u8
+#EXTINF:0,NETFLIX
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168567.m3u8
+#EXTINF:0,NETFLIX
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168568.m3u8
+#EXTINF:0,NETFLIX
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168569.m3u8
+#EXTINF:0,NETFLIX
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/168570.m3u8
+
+
+#EXTINF:0,ULTRA CINE
+http://00322.xyz:8000/live/oosorio1000/KHW7SFTBRS/146602.m3u8
+#EXTINF:0,ULTRA CINE
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/180633.m3u8
+#EXTINF:0,ULTRA CLASICO
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/180633.m3u8
+#EXTINF:0,ULTRA DOCU
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/180634.m3u8
+#EXTINF:0,ULTRA FAMILIA
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/180635.m3u8
+#EXTINF:0,ULTRA FIESTA
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/180636.m3u8
+#EXTINF:0,ULTRA KIDS
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/180637.m3u8
+#EXTINF:0,ULTRA MEX
+http://xcm.budtv-ultra.com:9000/budtv/websline/eWmWuCeW3j9F/180638.m3u8
+
+
+
+
